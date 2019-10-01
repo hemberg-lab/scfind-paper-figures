@@ -1,6 +1,6 @@
 ## scfind paper figures
 
-This repository contains scripts to recreate the figures from the [scfind paper](https://#).
+This repository contains scripts to recreate the figures from the [scfind paper](https://doi.org/10.1101/788596).
 
 ### Required R libraries
 
