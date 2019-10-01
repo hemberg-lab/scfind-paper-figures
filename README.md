@@ -139,22 +139,22 @@ This repository contains scripts to recreate the figures from the [scfind paper]
 ![](jpeg/S10.jpeg)
 
 ### Table S1
-[data_compression](data/#)
+[data_compression](data/S1.tsv)
 
 ### Table S2
-[data_compression](data/#)
+[data_compression](data/S2.tsv)
 
 ### Table S3
-[data_compression](data/#)
+[data_compression](data/S3.tsv)
 
 ### Table S4
-[data_compression](data/#)
+[data_compression](data/S4.tsv)
 
 ### Table S5
-[data_compression](data/#)
+[data_compression](data/S5.tsv)
 
 ### Table S6
-[data_compression](data/#)
+[data_compression](data/S6.tsv)
 
 ### Table S7
-[data_compression](data/#)
+[data_compression](data/S7.tsv)
