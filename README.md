@@ -1,16 +1,19 @@
-% scfind paper figures
+## scfind paper figures
 
 This repository contains scripts to recreate the figures from the [scfind paper](https://#).
 
 ### Required R libraries
 
-[scfind]
-[SingleCellExperiment]
-[ggplot2]
-[ggpubr]
-[scales]
+[scfind](https://github.com/hemberg-lab/scfind)
+[SingleCellExperiment](https://bioconductor.org/packages/release/bioc/html/SingleCellExperiment.html)
+[RcolorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/index.html)
+[ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html)
+[ggpubr](https://cran.r-project.org/web/packages/ggpubr/index.html)
+[pheatmap](https://cran.r-project.org/web/packages/pheatmap/index.html)
+[scales](https://cran.r-project.org/web/packages/scales/index.html)
 [cowplot](https://cran.r-project.org/web/packages/cowplot/index.html)
-[RcolorBrewer]
+
+
 
 ### Fig. 1
 [script](1cdef.Rmd)  
