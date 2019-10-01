@@ -37,11 +37,15 @@ This repository contains scripts to recreate the figures from the [scfind paper]
 [pdf](keynote/3.pdf)  
 [jpg](keynote/3.jpeg)  
 
+![](keynote/3.jpeg)
+
 ### Fig. 4
 [script](4abc.Rmd)  
 [keynote](keynote/4.key)  
 [pdf](keynote/4.pdf)  
 [jpg](keynote/4.jpeg)  
+
+![](keynote/4.jpeg)
 
 ### Fig. 5
 
@@ -49,17 +53,29 @@ This repository contains scripts to recreate the figures from the [scfind paper]
 [pdf](keynote/5.pdf)  
 [jpg](keynote/5.jpeg)  
 
+![](keynote/5.jpeg)
+
 ### Fig. 6
 [script](6acd.Rmd)  
 [keynote](keynote/6.key)  
 [pdf](keynote/6.pdf)  
 [jpg](keynote/6.jpeg)  
 
+![](keynote/6.jpeg)
+
 ### Fig. 7
 [script](7a.Rmd)  
 [keynote](keynote/7.key)  
 [pdf](keynote/7.pdf)  
 [jpg](keynote/7.jpeg)  
+
+![](keynote/7.jpeg)
+
+### Table 1
+[pdf](pdf/Table1.pdf)  
+[jpeg](jpeg/Table1.jpeg)  
+
+![](jpeg/Table1.jpeg)
 
 ### Fig. S1
 [pdf](pdf/S1.pdf)  
@@ -121,12 +137,6 @@ This repository contains scripts to recreate the figures from the [scfind paper]
 [jpeg](jpeg/S10.jpeg)  
 
 ![](jpeg/S10.jpeg)
-
-### Table 1
-[pdf](pdf/Table1.pdf)  
-[jpeg](jpeg/Table1.jpeg)  
-
-![](jpeg/Table1.jpeg)
 
 ### Table S1
 [data_compression](data/#)
