@@ -1,0 +1,960 @@
+	Atlas	cellType	gene
+1	TM, FACS	Bladder.basal cell of urothelium	1280
+2	TM, FACS	Bladder.bladder cell	842
+3	TM, FACS	Bladder.mesenchymal cell	545
+4	TM, FACS	BrainMicroglia.macrophage	118
+5	TM, FACS	BrainMicroglia.microglial cell	75
+6	TM, FACS	BrainNeurons.astrocyte of the cerebral cortex	46
+7	TM, FACS	BrainNeurons.Bergmann glial cell	72
+8	TM, FACS	BrainNeurons.brain pericyte	234
+9	TM, FACS	BrainNeurons.endothelial cell	122
+10	TM, FACS	BrainNeurons.neuron	124
+11	TM, FACS	BrainNeurons.neuronal stem cell	331
+12	TM, FACS	BrainNeurons.oligodendrocyte	320
+13	TM, FACS	BrainNeurons.oligodendrocyte precursor cell	163
+14	TM, FACS	BrainNeurons.smooth muscle cell	638
+15	TM, FACS	BrainNeurons.unknown	5
+16	TM, FACS	Colon.Brush cell of epithelium proper of large intestine	50
+17	TM, FACS	Colon.enterocyte of epithelium of large intestine	125
+18	TM, FACS	Colon.enteroendocrine cell	472
+19	TM, FACS	Colon.epithelial cell of large intestine	109
+20	TM, FACS	Colon.large intestine goblet cell	263
+21	TM, FACS	Fat.B cell	99
+22	TM, FACS	Fat.endothelial cell	40
+23	TM, FACS	Fat.epithelial cell	299
+24	TM, FACS	Fat.granulocyte	53
+25	TM, FACS	Fat.mesenchymal stem cell of adipose	287
+26	TM, FACS	Fat.myeloid cell	130
+27	TM, FACS	Fat.natural killer cell	101
+28	TM, FACS	Fat.neutrophil	249
+29	TM, FACS	Fat.smooth muscle cell	326
+30	TM, FACS	Fat.T cell	128
+31	TM, FACS	Heart.cardiac muscle cell	81
+32	TM, FACS	Heart.endocardial cell	142
+33	TM, FACS	Heart.endothelial cell	36
+34	TM, FACS	Heart.epicardial adipocyte	5
+35	TM, FACS	Heart.erythrocyte	12
+36	TM, FACS	Heart.fibroblast	136
+37	TM, FACS	Heart.hematopoietic cell	252
+38	TM, FACS	Heart.leukocyte	130
+39	TM, FACS	Heart.smooth muscle cell	16
+40	TM, FACS	Heart.unknown	4
+41	TM, FACS	Kidney.endothelial cell	27
+42	TM, FACS	Kidney.fenestrated cell	60
+43	TM, FACS	Kidney.fibroblast	5
+44	TM, FACS	Kidney.kidney collecting duct cell	25
+45	TM, FACS	Kidney.kidney tubule cell	11
+46	TM, FACS	Kidney.leukocyte	63
+47	TM, FACS	Liver.B cell	114
+48	TM, FACS	Liver.endothelial cell of hepatic sinusoid	68
+49	TM, FACS	Liver.hepatocyte	47
+50	TM, FACS	Liver.Kupffer cell	78
+51	TM, FACS	Liver.natural killer cell	163
+52	TM, FACS	Lung.B cell	93
+53	TM, FACS	Lung.ciliated cell	328
+54	TM, FACS	Lung.Clara cell	121
+55	TM, FACS	Lung.dendritic cell	152
+56	TM, FACS	Lung.endothelial cell	33
+57	TM, FACS	Lung.epithelial cell	75
+58	TM, FACS	Lung.leukocyte	54
+59	TM, FACS	Lung.lung neuroendocrine cell	1896
+60	TM, FACS	Lung.macrophage	195
+61	TM, FACS	Lung.mesothelial cell	1193
+62	TM, FACS	Lung.monocyte	330
+63	TM, FACS	Lung.natural killer cell	94
+64	TM, FACS	Lung.stromal cell	73
+65	TM, FACS	Lung.T cell	86
+66	TM, FACS	Lung.type I pneumocyte	2646
+67	TM, FACS	Lung.type II pneumocyte	231
+68	TM, FACS	Mammary.basal cell	354
+69	TM, FACS	Mammary.endothelial cell	73
+70	TM, FACS	Mammary.luminal epithelial cell of mammary gland	303
+71	TM, FACS	Mammary.stromal cell	254
+72	TM, FACS	Marrow.B cell	113
+73	TM, FACS	Marrow.Fraction A pre-pro B cell	231
+74	TM, FACS	Marrow.granulocyte	77
+75	TM, FACS	Marrow.hematopoietic stem cell	377
+76	TM, FACS	Marrow.monocyte	281
+77	TM, FACS	Marrow.natural killer cell	212
+78	TM, FACS	Marrow.neutrophil	146
+79	TM, FACS	Marrow.T cell	173
+80	TM, FACS	Muscle.B cell	116
+81	TM, FACS	Muscle.endothelial cell	35
+82	TM, FACS	Muscle.macrophage	126
+83	TM, FACS	Muscle.mesenchymal stem cell	225
+84	TM, FACS	Muscle.skeletal muscle satellite cell	141
+85	TM, FACS	Muscle.skeletal muscle satellite stem cell	117
+86	TM, FACS	Muscle.T cell	148
+87	TM, FACS	Pancreas.endothelial cell	167
+88	TM, FACS	Pancreas.leukocyte	147
+89	TM, FACS	Pancreas.pancreatic A cell	468
+90	TM, FACS	Pancreas.pancreatic acinar cell	28
+91	TM, FACS	Pancreas.pancreatic D cell	320
+92	TM, FACS	Pancreas.pancreatic ductal cell	203
+93	TM, FACS	Pancreas.pancreatic PP cell	346
+94	TM, FACS	Pancreas.pancreatic stellate cell	187
+95	TM, FACS	Pancreas.type B pancreatic cell	283
+96	TM, FACS	Skin.basal cell of epidermis	331
+97	TM, FACS	Skin.epidermal cell	365
+98	TM, FACS	Skin.keratinocyte stem cell	201
+99	TM, FACS	Skin.stem cell of epidermis	758
+100	TM, FACS	Spleen.B cell	104
+101	TM, FACS	Spleen.myeloid cell	32
+102	TM, FACS	Spleen.T cell	109
+103	TM, FACS	Thymus.mesenchymal stem cell	93
+104	TM, FACS	Thymus.T cell	38
+105	TM, FACS	Tongue.basal cell of epidermis	576
+106	TM, FACS	Tongue.keratinocyte	634
+107	TM, FACS	Trachea.endothelial cell	142
+108	TM, FACS	Trachea.epithelial cell	7
+109	TM, FACS	Trachea.leukocyte	173
+110	TM, FACS	Trachea.stromal cell	261
+111	TM, 10X	Bladder.basal cell of urothelium	487
+112	TM, 10X	Bladder.bladder cell	371
+113	TM, 10X	Bladder.endothelial cell	176
+114	TM, 10X	Bladder.leukocyte	171
+115	TM, 10X	Bladder.mesenchymal cell	239
+116	TM, 10X	Heart.cardiac muscle cell	61
+117	TM, 10X	Heart.endocardial cell	155
+118	TM, 10X	Heart.endothelial cell	101
+119	TM, 10X	Heart.erythrocyte	142
+120	TM, 10X	Heart.fibroblast	182
+121	TM, 10X	Heart.smooth muscle cell	216
+122	TM, 10X	Kidney.endothelial cell	173
+123	TM, 10X	Kidney.fenestrated cell	121
+124	TM, 10X	Kidney.fibroblast	173
+125	TM, 10X	Kidney.kidney collecting duct cell	193
+126	TM, 10X	Kidney.kidney tubule cell	88
+127	TM, 10X	Kidney.leukocyte	96
+128	TM, 10X	Kidney.macrophage	131
+129	TM, 10X	Kidney.smooth muscle cell	216
+130	TM, 10X	Liver.endothelial cell	103
+131	TM, 10X	Liver.hepatocyte	113
+132	TM, 10X	Lung.B cell	120
+133	TM, 10X	Lung.ciliated cell	376
+134	TM, 10X	Lung.Clara cell	419
+135	TM, 10X	Lung.dendritic cell	155
+136	TM, 10X	Lung.endothelial cell	107
+137	TM, 10X	Lung.leukocyte	59
+138	TM, 10X	Lung.macrophage	152
+139	TM, 10X	Lung.mast cell	146
+140	TM, 10X	Lung.mesothelial cell	358
+141	TM, 10X	Lung.monocyte	281
+142	TM, 10X	Lung.natural killer cell	114
+143	TM, 10X	Lung.stromal cell	73
+144	TM, 10X	Lung.T cell	125
+145	TM, 10X	Lung.type II pneumocyte	90
+146	TM, 10X	Lung.unknown	88
+147	TM, 10X	Mammary.B cell	122
+148	TM, 10X	Mammary.basal cell	305
+149	TM, 10X	Mammary.endothelial cell	180
+150	TM, 10X	Mammary.luminal cell of lactiferous duct	270
+151	TM, 10X	Mammary.macrophage	162
+152	TM, 10X	Mammary.stromal cell	151
+153	TM, 10X	Mammary.T cell	121
+154	TM, 10X	Marrow.B cell	179
+155	TM, 10X	Marrow.erythrocyte	60
+156	TM, 10X	Marrow.Fraction A pre-pro B cell	202
+157	TM, 10X	Marrow.granulocyte	117
+158	TM, 10X	Marrow.hematopoietic stem cell	131
+159	TM, 10X	Marrow.macrophage	228
+160	TM, 10X	Marrow.monocyte	277
+161	TM, 10X	Marrow.T cell	158
+162	TM, 10X	Muscle.B cell	107
+163	TM, 10X	Muscle.chondroblast	172
+164	TM, 10X	Muscle.endothelial cell	51
+165	TM, 10X	Muscle.macrophage	119
+166	TM, 10X	Muscle.mesenchymal stem cell	152
+167	TM, 10X	Muscle.skeletal muscle satellite cell	130
+168	TM, 10X	Muscle.T cell	114
+169	TM, 10X	Muscle.unknown	22
+170	TM, 10X	Spleen.B cell	117
+171	TM, 10X	Spleen.dendritic cell	129
+172	TM, 10X	Spleen.macrophage	97
+173	TM, 10X	Spleen.T cell	115
+174	TM, 10X	Thymus.stromal cell	161
+175	TM, 10X	Thymus.T cell	142
+176	TM, 10X	Tongue.basal cell of epidermis	347
+177	TM, 10X	Tongue.keratinocyte	454
+178	TM, 10X	Tongue.unknown	264
+179	TM, 10X	Trachea.basal cell of epithelium of trachea	113
+180	TM, 10X	Trachea.ciliated epithelial cell	54
+181	TM, 10X	Trachea.endothelial cell	71
+182	TM, 10X	Trachea.epithelial cell	82
+183	TM, 10X	Trachea.leukocyte	107
+184	TM, 10X	Trachea.neuroendocrine cell	61
+185	TM, 10X	Trachea.stromal cell	92
+186	MCA	Bladder.Basal epithelial cell	102
+187	MCA	Bladder.Dendritic cell_Cd74 high	36
+188	MCA	Bladder.Dendritic cell_Lyz2 high	40
+189	MCA	Bladder.Endothelial cell_Ly6c1 high	23
+190	MCA	Bladder.Epithelial cell_Gm23935 high	17
+191	MCA	Bladder.Epithelial cell_Upk3a high	23
+192	MCA	Bladder.Macrophage_Pf4 high	23
+193	MCA	Bladder.Mesenchymal stromal cell	22
+194	MCA	Bladder.NK cell	25
+195	MCA	Bladder.Smooth muscle cell	22
+196	MCA	Bladder.Stromal cell_Car3 high	34
+197	MCA	Bladder.Stromal cell_Dpt high	38
+198	MCA	Bladder.Umbrella cell	448
+199	MCA	Bladder.Urothelium	84
+200	MCA	Bladder.Vascular endothelial cell	35
+201	MCA	Bladder.Vascular smooth muscle progenitor cell	19
+202	MCA	BoneMarrow.B cell	14
+203	MCA	BoneMarrow.B cell_Igkc high	13
+204	MCA	BoneMarrow.Basophil	17
+205	MCA	BoneMarrow.Dendritic cell_H2-Eb1 high	55
+206	MCA	BoneMarrow.Dendritic cell_Siglech high	17
+207	MCA	BoneMarrow.Eosinophil progenitor cell	16
+208	MCA	BoneMarrow.Erythroblast	11
+209	MCA	BoneMarrow.Erythrocyte progenitor_Car1 high	62
+210	MCA	BoneMarrow.Erythrocyte progenitor_Hba-a1 high	63
+211	MCA	BoneMarrow.Hematopoietic stem progenitor cell	7
+212	MCA	BoneMarrow.Macrophage_C1qc high	8
+213	MCA	BoneMarrow.Macrophage_Cd74 high	11
+214	MCA	BoneMarrow.Macrophage_Ms4a6c high	37
+215	MCA	BoneMarrow.Macrophage_S100a4 high	5
+216	MCA	BoneMarrow.Mast cell	61
+217	MCA	BoneMarrow.Megakaryocyte progenitor cell	40
+218	MCA	BoneMarrow.Monocyte progenitor	62
+219	MCA	BoneMarrow.Monocyte progenitor cell_Ctsg high	92
+220	MCA	BoneMarrow.Monocyte progenitor cell_Prtn3 high	34
+221	MCA	BoneMarrow.Monocyte_Mif high	1212
+222	MCA	BoneMarrow.Monocyte_Prtn3 high	7
+223	MCA	BoneMarrow.Multipotent progenitor_Ctla2a high	37
+224	MCA	BoneMarrow.Neutrophil progenitor	15
+225	MCA	BoneMarrow.Neutrophil_Cebpe high	13
+226	MCA	BoneMarrow.Neutrophil_Fcnb high	25
+227	MCA	BoneMarrow.Neutrophil_Ighg1 high	14
+228	MCA	BoneMarrow.Neutrophil_Lcn2 high	15
+229	MCA	BoneMarrow.Neutrophil_Ltf high	20
+230	MCA	BoneMarrow.Neutrophil_Mmp8 high	12
+231	MCA	BoneMarrow.Neutrophil_Ngp high	10
+232	MCA	BoneMarrow.Neutrophil_Retnlg high	8
+233	MCA	BoneMarrow.Pre-pro B cell	11
+234	MCA	BoneMarrow.T cell_Ms4a4b high	23
+235	MCA	Brain.Astrocyte_Atp1b2 high	9
+236	MCA	Brain.Astrocyte_Mfe8 high	15
+237	MCA	Brain.Astrocyte_Pla2g7 high	16
+238	MCA	Brain.Astroglial cell	21
+239	MCA	Brain.Granulocyte_Il33 high	7
+240	MCA	Brain.Granulocyte_Ngp high	20
+241	MCA	Brain.Hypothalamic ependymal cell	35
+242	MCA	Brain.Macrophage_Klf2 high	19
+243	MCA	Brain.Macrophage_Lyz2 high	6
+244	MCA	Brain.Microglia	4
+245	MCA	Brain.Myelinating oligodendrocyte	13
+246	MCA	Brain.Neuron	0
+247	MCA	Brain.Oligodendrocyte precursor cell	5
+248	MCA	Brain.Pan-GABAergic	11
+249	MCA	Brain.Schwann cell	14
+250	MCA	EmbryonicMesenchyme.Dendritic Cell	27
+251	MCA	EmbryonicMesenchyme.Endothelial Cell	18
+252	MCA	EmbryonicMesenchyme.Erythroblast_Hbb-bs high	9
+253	MCA	EmbryonicMesenchyme.Erythroblast_Mt2 high	76
+254	MCA	EmbryonicMesenchyme.Erythroid Cell	8
+255	MCA	EmbryonicMesenchyme.Ganglion cell_Cartpt high	14
+256	MCA	EmbryonicMesenchyme.Ganglion cell_Gal high	27
+257	MCA	EmbryonicMesenchyme.Ganglion cell_Mapt high	11
+258	MCA	EmbryonicMesenchyme.Lymphoid progenitor cell	41
+259	MCA	EmbryonicMesenchyme.Macrophage	15
+260	MCA	EmbryonicMesenchyme.Muscle	21
+261	MCA	EmbryonicMesenchyme.Neuron_Igfbpl1 high	9
+262	MCA	EmbryonicMesenchyme.Neuron_Isl1 high	13
+263	MCA	EmbryonicMesenchyme.Neuron_Npy high	11
+264	MCA	EmbryonicMesenchyme.Neuronal Progenitors	10
+265	MCA	EmbryonicMesenchyme.Neutrophil	20
+266	MCA	EmbryonicMesenchyme.Progenitor cell_Ptprcap high	67
+267	MCA	EmbryonicMesenchyme.Reproductive tissues	20
+268	MCA	EmbryonicMesenchyme.Skeletal Muscle	27
+269	MCA	EmbryonicMesenchyme.Stromal Cell Cldn11 high	11
+270	MCA	EmbryonicMesenchyme.Stromal Cell_Agtr2 high	11
+271	MCA	EmbryonicMesenchyme.Stromal Cell_Cnmd high	14
+272	MCA	EmbryonicMesenchyme.Stromal cell_Cxcl12 high	8
+273	MCA	EmbryonicMesenchyme.Stromal Cell_Cxcl14 high	9
+274	MCA	EmbryonicMesenchyme.Stromal Cell_fabp7 high	7
+275	MCA	EmbryonicStemCells.ES_2C_like	49
+276	MCA	EmbryonicStemCells.ES_Actb_high	38
+277	MCA	EmbryonicStemCells.ES_Nedd4_high	65
+278	MCA	EmbryonicStemCells.ES_Rps28_high	60
+279	MCA	FetalBrain.Dopaminergic neurons	8
+280	MCA	FetalBrain.Ependymal cell	5
+281	MCA	FetalBrain.Erythroblast_Hbb-bh1 high	9
+282	MCA	FetalBrain.Erythrocyte_Hbb-bt high	6
+283	MCA	FetalBrain.Granule neurons	13
+284	MCA	FetalBrain.Hippocampus neurons_Asic4 high	10
+285	MCA	FetalBrain.Macrophage	11
+286	MCA	FetalBrain.Microglia	6
+287	MCA	FetalBrain.Neural progenitor cell	7
+288	MCA	FetalBrain.Neuron_Kpna2 high	9
+289	MCA	FetalBrain.Neuron_tuba1c high	14
+290	MCA	FetalBrain.Postmitotic neurons_Lhx9 high	16
+291	MCA	FetalBrain.Purkinje cell	10
+292	MCA	FetalBrain.Pyramidal neuron cell	13
+293	MCA	FetalBrain.Radial glia_Fabp7 high	4
+294	MCA	FetalBrain.Radial glia_Vim high	10
+295	MCA	FetalBrain.Schwann cell	9
+296	MCA	FetalBrain.Stromal cell	5
+297	MCA	FetalIntestine.Acinar cell	61
+298	MCA	FetalIntestine.Endothelial cell	23
+299	MCA	FetalIntestine.Enteric muscle cell	23
+300	MCA	FetalIntestine.Enterocyte progenitor	19
+301	MCA	FetalIntestine.Enterocyte progenitor_late_Ccnb1 high	21
+302	MCA	FetalIntestine.Enterocyte progenitor_late_Ube2c high	20
+303	MCA	FetalIntestine.Enteroendocrine	21
+304	MCA	FetalIntestine.Epithelial cell_Bex1 high	25
+305	MCA	FetalIntestine.Epithelial cell_Lgals2 high	37
+306	MCA	FetalIntestine.Erythroblast_Car2 high	31
+307	MCA	FetalIntestine.Erythroblast_Hbb-bs high	15
+308	MCA	FetalIntestine.Erythroblast_Hbb-y high	21
+309	MCA	FetalIntestine.Macrophage_Lyz2 high	28
+310	MCA	FetalIntestine.Macrophage_Pf4 high	23
+311	MCA	FetalIntestine.Neuronal cell_Fabp7 high	22
+312	MCA	FetalIntestine.Neuronal Cells_Rtn1 high	17
+313	MCA	FetalIntestine.Stromal cell_Adamdec1 high	19
+314	MCA	FetalIntestine.Stromal cell_Stmn2 high	22
+315	MCA	FetalIntestine.Stromal cell_Upk3b high	21
+316	MCA	FetalIntestine.T cell	24
+317	MCA	FetalLiver.B cell	36
+318	MCA	FetalLiver.Dendritic cell	16
+319	MCA	FetalLiver.Erythroblast_Hba-a2 high	23
+320	MCA	FetalLiver.Erythroblast_Klf1 high	26
+321	MCA	FetalLiver.Hepatocyte_Afp high	27
+322	MCA	FetalLiver.Macrophage	13
+323	MCA	FetalLiver.Mast cell_Mcpt8 high	21
+324	MCA	FetalLiver.Megakaryocyte	30
+325	MCA	FetalLiver.Neutrophil_Elane high	15
+326	MCA	FetalLiver.Neutrophil_Ngp high	13
+327	MCA	FetalLiver.Stem and progenitor cell	22
+328	MCA	FetalLung.Epithelial cell_Aldh1a2_high	20
+329	MCA	FetalLung.Epithelial cell_Sftpc high	33
+330	MCA	FetalLung.Erythroblast_Hba-x high	19
+331	MCA	FetalLung.Erythroblast_Hbb-bs high	14
+332	MCA	FetalLung.Erythroblast_Mt2 high	20
+333	MCA	FetalLung.Erythroblast_Mt2&Mt1 high	50
+334	MCA	FetalLung.Macrophage_Lyz2 high	31
+335	MCA	FetalLung.Macrophage_Pf4high	18
+336	MCA	FetalLung.Neutrophil_Gm5483 high	20
+337	MCA	FetalLung.Neutrophil_S100a8 high	35
+338	MCA	FetalLung.Smooth muscle cell	21
+339	MCA	FetalLung.Stromal cell_Ankfy1 high	23
+340	MCA	FetalLung.Stromal cell_Ptn high	22
+341	MCA	FetalStomach.Acinar cell_Ctrb1 high	28
+342	MCA	FetalStomach.Acinar cell_Spp1 high	17
+343	MCA	FetalStomach.Endocrine cell	9
+344	MCA	FetalStomach.Endocrine progenitor cell	14
+345	MCA	FetalStomach.Epithelial cell	17
+346	MCA	FetalStomach.Erythroblast_Car2 high	13
+347	MCA	FetalStomach.Erythroblast_Hba-x HIGH	7
+348	MCA	FetalStomach.Erythroblast_Hbb-bs high	8
+349	MCA	FetalStomach.Erythroblast_Klf1 high	16
+350	MCA	FetalStomach.Erythroblast_Snca high	5
+351	MCA	FetalStomach.Hepatocyte-Like Cell	33
+352	MCA	FetalStomach.Immunocyte_Lyz2 high	15
+353	MCA	FetalStomach.Macrophage	15
+354	MCA	FetalStomach.Mast cell	18
+355	MCA	FetalStomach.Muscle cell	12
+356	MCA	FetalStomach.Neuron	15
+357	MCA	FetalStomach.Neutrophil	11
+358	MCA	FetalStomach.Progenitor cell	16
+359	MCA	FetalStomach.Stomach cell_Kazald1 high	13
+360	MCA	FetalStomach.Stromal cell_Cdkn1c high	15
+361	MCA	FetalStomach.Stromal cell_Dcn high	12
+362	MCA	Kidney.Adipocyte	124
+363	MCA	Kidney.B cell	19
+364	MCA	Kidney.Dendritic cell_Ccr7 high	18
+365	MCA	Kidney.Dendritic cell_Cst3 high	26
+366	MCA	Kidney.Distal collecting duct principal cell_Cldn4 high	13
+367	MCA	Kidney.Distal collecting duct principal cell_Hsd11b2 high	11
+368	MCA	Kidney.Distal convoluted tubule_Pvalb high	23
+369	MCA	Kidney.Distal convoluted tubule_S100g high	16
+370	MCA	Kidney.Endothelial cell	13
+371	MCA	Kidney.Epithelial cell_Cryab high	10
+372	MCA	Kidney.Fenestrated endothelial cell_Plvap high	8
+373	MCA	Kidney.Fenestrated endothelial cell_Tm4sf1 high	7
+374	MCA	Kidney.Glomerular epithelial cell_Aldh1a2 high	77
+375	MCA	Kidney.Intercalated cells of collecting duct_Aqp6 high	18
+376	MCA	Kidney.Intercalated cells of collecting duct_Slc26a4 high	18
+377	MCA	Kidney.Macrophage_Ccl4 high	12
+378	MCA	Kidney.Macrophage_Lyz2 high	14
+379	MCA	Kidney.Metanephric mesenchyme	64
+380	MCA	Kidney.Neutrophil progenitor_S100a8 high	14
+381	MCA	Kidney.Proximal tubule brush border cell	16
+382	MCA	Kidney.Proximal tubule cell_Cyp4a14 high	19
+383	MCA	Kidney.Proximal tubule cell_Osgin1 high	16
+384	MCA	Kidney.S1 proximal tubule cells	21
+385	MCA	Kidney.S3 proximal tubule cells	23
+386	MCA	Kidney.Stromal cell_Ankrd1 high	15
+387	MCA	Kidney.Stromal cell_Cxcl10 high	11
+388	MCA	Kidney.Stromal cell_Dcn high	20
+389	MCA	Kidney.Stromal cell_Mgp high	7
+390	MCA	Kidney.Stromal cell_Ptgds high	10
+391	MCA	Kidney.T cell	15
+392	MCA	Kidney.Thick ascending limb of the loop of Henle	19
+393	MCA	Kidney.Ureteric epithelium	32
+394	MCA	Liver.B cell_Fcmr high	16
+395	MCA	Liver.B cell_Jchain high	9
+396	MCA	Liver.Dendritic cell_Cst3 high	16
+397	MCA	Liver.Dendritic cell_Siglech high	14
+398	MCA	Liver.Endothelial cell	10
+399	MCA	Liver.Epithelia cell_Spp1 high	14
+400	MCA	Liver.Epithelial cell	15
+401	MCA	Liver.Erythroblast_Hbb-bs high	11
+402	MCA	Liver.Erythroblast_Hbb-bt high	11
+403	MCA	Liver.Granulocyte	8
+404	MCA	Liver.Hepatocyte_Fabp1 high	18
+405	MCA	Liver.Hepatocyte_mt-Nd4 high	11
+406	MCA	Liver.Kuppfer cell	20
+407	MCA	Liver.Macrophage_Chil3 high	8
+408	MCA	Liver.Neutrophil_Ngp high	10
+409	MCA	Liver.Pericentral hepatocytes	19
+410	MCA	Liver.Periportal hepatocyte	34
+411	MCA	Liver.Stromal cell	11
+412	MCA	Liver.T cell_Gzma high	9
+413	MCA	Liver.T cell_Trbc2 high	9
+414	MCA	Lung.Alveolar bipotent progenitor	25
+415	MCA	Lung.Alveolar macrophage_Ear2 high	10
+416	MCA	Lung.Alveolar macrophage_Pclaf high	17
+417	MCA	Lung.AT1 Cell	8
+418	MCA	Lung.AT2 Cell	18
+419	MCA	Lung.B Cell	11
+420	MCA	Lung.Basophil	8
+421	MCA	Lung.Ciliated cell	13
+422	MCA	Lung.Clara Cell	18
+423	MCA	Lung.Conventional dendritic cell_Gngt2 high	12
+424	MCA	Lung.Conventional dendritic cell_H2-M2 high	32
+425	MCA	Lung.Conventional dendritic cell_Mgl2 high	19
+426	MCA	Lung.Conventional dendritic cell_Tubb5 high	39
+427	MCA	Lung.Dendritic cell_Naaa high	22
+428	MCA	Lung.Dividing cells	16
+429	MCA	Lung.Dividing dendritic cells	31
+430	MCA	Lung.Dividing T cells	22
+431	MCA	Lung.Endothelial cell_Kdr high	5
+432	MCA	Lung.Endothelial cell_Tmem100 high	4
+433	MCA	Lung.Endothelial cells_Vwf high	10
+434	MCA	Lung.Eosinophil granulocyte	10
+435	MCA	Lung.Ig−producing B cell	18
+436	MCA	Lung.Interstitial macrophage	12
+437	MCA	Lung.Monocyte progenitor cell	38
+438	MCA	Lung.Neutrophil granulocyte	9
+439	MCA	Lung.NK Cell	8
+440	MCA	Lung.Nuocyte	10
+441	MCA	Lung.Plasmacytoid dendritic cell	13
+442	MCA	Lung.Stromal cell_Acta2 high	6
+443	MCA	Lung.Stromal cell_Dcn high	16
+444	MCA	Lung.Stromal cell_Inmt high	10
+445	MCA	Lung.T Cell_Cd8b1 high	19
+446	MCA	MammaryGlandInvolution.B cell_Cd79a high	21
+447	MCA	MammaryGlandInvolution.B cell_Jchain high	13
+448	MCA	MammaryGlandInvolution.Dendritic cell_Ccl22 high	16
+449	MCA	MammaryGlandInvolution.Dendritic cell_Il1b high	22
+450	MCA	MammaryGlandInvolution.Dendritic cell_Siglech high	25
+451	MCA	MammaryGlandInvolution.Endothelial cell_Aqp1 high	28
+452	MCA	MammaryGlandInvolution.Endothelial cell_Fabp4 high	10
+453	MCA	MammaryGlandInvolution.Endothelial cell_Fabp4&Aqp1 high	38
+454	MCA	MammaryGlandInvolution.Endothelial cell_Glycam1 high	12
+455	MCA	MammaryGlandInvolution.Luminal cell	18
+456	MCA	MammaryGlandInvolution.Macrophage_Apoe high	14
+457	MCA	MammaryGlandInvolution.Macrophage_Pf4 high	15
+458	MCA	MammaryGlandInvolution.Macrophage_Plbd1 high	21
+459	MCA	MammaryGlandInvolution.Macrophage_Retnla high	17
+460	MCA	MammaryGlandInvolution.Mast cell	16
+461	MCA	MammaryGlandInvolution.Muscle cell_Inmt high	10
+462	MCA	MammaryGlandInvolution.Muscle cell_Pi16 high	15
+463	MCA	MammaryGlandInvolution.NK cell_Cd8b1 high	44
+464	MCA	MammaryGlandInvolution.NK cell_Gzma high	20
+465	MCA	MammaryGlandInvolution.Secretory alveoli cell_Csn2 high	22
+466	MCA	MammaryGlandInvolution.Secretory alveoli cell_Trf high	26
+467	MCA	MammaryGlandInvolution.Stromal cell	8
+468	MCA	MammaryGlandInvolution.T cell_Icos high	16
+469	MCA	MammaryGlandInvolution.T cell_Pclaf high	36
+470	MCA	MammaryGlandLactation.Adiocyte cell	11
+471	MCA	MammaryGlandLactation.B cell_Igkv6-15 high	12
+472	MCA	MammaryGlandLactation.B cell_Igkv6-23 high	13
+473	MCA	MammaryGlandLactation.B cell_Jchain high	10
+474	MCA	MammaryGlandLactation.Dendritic cell	11
+475	MCA	MammaryGlandLactation.Macrophage_C1qb high	11
+476	MCA	MammaryGlandLactation.Macrophage_Cd74 high	10
+477	MCA	MammaryGlandLactation.Muscel cell	11
+478	MCA	MammaryGlandLactation.Muscle  cell	11
+479	MCA	MammaryGlandLactation.Muscle cell	13
+480	MCA	MammaryGlandLactation.Natural kill cell	11
+481	MCA	MammaryGlandLactation.Secretory alveoli cell	11
+482	MCA	MammaryGlandLactation.Secretory alveoli cell_Actb high	10
+483	MCA	MammaryGlandLactation.Secretory alveoli cell_Apod high	13
+484	MCA	MammaryGlandLactation.Secretory alveoli cell_Atf3 high	12
+485	MCA	MammaryGlandLactation.Secretory alveoli cell_AW112010 high	12
+486	MCA	MammaryGlandLactation.Secretory alveoli cell_Bckdha high	12
+487	MCA	MammaryGlandLactation.Secretory alveoli cell_Ccng1 high	11
+488	MCA	MammaryGlandLactation.Secretory alveoli cell_Cd63 high	12
+489	MCA	MammaryGlandLactation.Secretory alveoli cell_Cd83_high	11
+490	MCA	MammaryGlandLactation.Secretory alveoli cell_Cfd high	11
+491	MCA	MammaryGlandLactation.Secretory alveoli cell_Cgrrf1 high	12
+492	MCA	MammaryGlandLactation.Secretory alveoli cell_Cide&Wfdc3&Wap high	13
+493	MCA	MammaryGlandLactation.Secretory alveoli cell_Cidea high	14
+494	MCA	MammaryGlandLactation.Secretory alveoli cell_Cidea&Elovl5 high	12
+495	MCA	MammaryGlandLactation.Secretory alveoli cell_Cidea&Fth1&Wfdc3 high	13
+496	MCA	MammaryGlandLactation.Secretory alveoli cell_Clpx high	10
+497	MCA	MammaryGlandLactation.Secretory alveoli cell_Clu high	11
+498	MCA	MammaryGlandLactation.Secretory alveoli cell_Cnp high	13
+499	MCA	MammaryGlandLactation.Secretory alveoli cell_Crip1 high	11
+500	MCA	MammaryGlandLactation.Secretory alveoli cell_Cyb561 high	13
+501	MCA	MammaryGlandLactation.Secretory alveoli cell_Dnajb1 high	12
+502	MCA	MammaryGlandLactation.Secretory alveoli cell_Ehf high	13
+503	MCA	MammaryGlandLactation.Secretory alveoli cell_Fcer1g high	12
+504	MCA	MammaryGlandLactation.Secretory alveoli cell_Fth1 high	13
+505	MCA	MammaryGlandLactation.Secretory alveoli cell_Fth1&Cib1 high	12
+506	MCA	MammaryGlandLactation.Secretory alveoli cell_Fth1&Wfdc3 high	13
+507	MCA	MammaryGlandLactation.Secretory alveoli cell_Gadd45b high	12
+508	MCA	MammaryGlandLactation.Secretory alveoli cell_Ggnbp2 high	11
+509	MCA	MammaryGlandLactation.Secretory alveoli cell_Gm1673 high	12
+510	MCA	MammaryGlandLactation.Secretory alveoli cell_Gpx3 high	12
+511	MCA	MammaryGlandLactation.Secretory alveoli cell_Hes1 high	12
+512	MCA	MammaryGlandLactation.Secretory alveoli cell_Hsp90aa1 high	12
+513	MCA	MammaryGlandLactation.Secretory alveoli cell_Hspa1a high	12
+514	MCA	MammaryGlandLactation.Secretory alveoli cell_Ifi27l2a_high	13
+515	MCA	MammaryGlandLactation.Secretory alveoli cell_Ifi35 high	12
+516	MCA	MammaryGlandLactation.Secretory alveoli cell_Igfbp7 high	11
+517	MCA	MammaryGlandLactation.Secretory alveoli cell_Ighm1 high	12
+518	MCA	MammaryGlandLactation.Secretory alveoli cell_Igkv1-110 high	11
+519	MCA	MammaryGlandLactation.Secretory alveoli cell_Igkv1-110&P4hb high	12
+520	MCA	MammaryGlandLactation.Secretory alveoli cell_Igkv1-117 high	13
+521	MCA	MammaryGlandLactation.Secretory alveoli cell_Iglc1 high	12
+522	MCA	MammaryGlandLactation.Secretory alveoli cell_Igsf8 high	11
+523	MCA	MammaryGlandLactation.Secretory alveoli cell_Kif5b high	13
+524	MCA	MammaryGlandLactation.Secretory alveoli cell_Klf2 high	12
+525	MCA	MammaryGlandLactation.Secretory alveoli cell_Klf6 high	12
+526	MCA	MammaryGlandLactation.Secretory alveoli cell_Lgals1 high	13
+527	MCA	MammaryGlandLactation.Secretory alveoli cell_Ly6a high	12
+528	MCA	MammaryGlandLactation.Secretory alveoli cell_Lyz2 high	11
+529	MCA	MammaryGlandLactation.Secretory alveoli cell_Malat1 high	11
+530	MCA	MammaryGlandLactation.Secretory alveoli cell_Mat2a high	12
+531	MCA	MammaryGlandLactation.Secretory alveoli cell_Mrpl15 high	12
+532	MCA	MammaryGlandLactation.Secretory alveoli cell_mt-Tp high	12
+533	MCA	MammaryGlandLactation.Secretory alveoli cell_Naxd high	12
+534	MCA	MammaryGlandLactation.Secretory alveoli cell_Pa2g4 high	13
+535	MCA	MammaryGlandLactation.Secretory alveoli cell_Ppp2r3a high	12
+536	MCA	MammaryGlandLactation.Secretory alveoli cell_Prkcsh high	10
+537	MCA	MammaryGlandLactation.Secretory alveoli cell_Ptpn18 high	13
+538	MCA	MammaryGlandLactation.Secretory alveoli cell_Rac2 high	13
+539	MCA	MammaryGlandLactation.Secretory alveoli cell_Retnla high	12
+540	MCA	MammaryGlandLactation.Secretory alveoli cell_Rgs2_high_Rora high	11
+541	MCA	MammaryGlandLactation.Secretory alveoli cell_Rhob high	12
+542	MCA	MammaryGlandLactation.Secretory alveoli cell_S100a11 high	11
+543	MCA	MammaryGlandLactation.Secretory alveoli cell_Sars high	11
+544	MCA	MammaryGlandLactation.Secretory alveoli cell_Sh3bgrl3 high	13
+545	MCA	MammaryGlandLactation.Secretory alveoli cell_Snord118 high	12
+546	MCA	MammaryGlandLactation.Secretory alveoli cell_Spp1 high	12
+547	MCA	MammaryGlandLactation.Secretory alveoli cell_Srsf11 high	13
+548	MCA	MammaryGlandLactation.Secretory alveoli cell_Taf1d high	11
+549	MCA	MammaryGlandLactation.Secretory alveoli cell_Thy1 high	12
+550	MCA	MammaryGlandLactation.Secretory alveoli cell_Tmem123 high	11
+551	MCA	MammaryGlandLactation.Secretory alveoli cell_Tmsb10 high	12
+552	MCA	MammaryGlandLactation.Secretory alveoli cell_Tubb5 high	13
+553	MCA	MammaryGlandLactation.Secretory alveoli cell_Tyrobp high	11
+554	MCA	MammaryGlandLactation.Secretory alveoli cell_Ube2e3 high	12
+555	MCA	MammaryGlandLactation.Secretory alveoli cell_Wfdc17 high	12
+556	MCA	MammaryGlandLactation.Secretory alveoli cell_Wfdc3&Wap high	11
+557	MCA	MammaryGlandLactation.Secretory alveoli cell_Yif1b1 high	13
+558	MCA	MammaryGlandLactation.Stromal cell	9
+559	MCA	MammaryGlandLactation.T cell	11
+560	MCA	MammaryGlandPregnancy.B cell_Jchain high	147
+561	MCA	MammaryGlandPregnancy.B cell_Ly6d high	47
+562	MCA	MammaryGlandPregnancy.Dendritic cell_Cd209a high	67
+563	MCA	MammaryGlandPregnancy.Dendritic cell_Fscn1 high	72
+564	MCA	MammaryGlandPregnancy.Ductal luminal cell	23
+565	MCA	MammaryGlandPregnancy.Endothelial cell	18
+566	MCA	MammaryGlandPregnancy.Luminal cell	88
+567	MCA	MammaryGlandPregnancy.Macrophage	70
+568	MCA	MammaryGlandPregnancy.Mast cell	25
+569	MCA	MammaryGlandPregnancy.Myeloid leukocyte	34
+570	MCA	MammaryGlandPregnancy.Myoepithelial cell	100
+571	MCA	MammaryGlandPregnancy.Neuron	76
+572	MCA	MammaryGlandPregnancy.NK cell_Gzma high	33
+573	MCA	MammaryGlandPregnancy.NK_cells_Gzmb high	81
+574	MCA	MammaryGlandPregnancy.Secretory alveoli cell	103
+575	MCA	MammaryGlandPregnancy.Stromal cell	59
+576	MCA	MammaryGlandPregnancy.T cell	53
+577	MCA	MammaryGlandPregnancy.T cell_Grwd1 high	65
+578	MCA	MammaryGlandVirgin.B cell_Cd79a&Fcer2a high	26
+579	MCA	MammaryGlandVirgin.B cell_Cd79a&Iglc2 high	15
+580	MCA	MammaryGlandVirgin.B cell_Jchain high	45
+581	MCA	MammaryGlandVirgin.Dendritic cell_Cst3 high	30
+582	MCA	MammaryGlandVirgin.Dendritic cell_Fscn1 high	19
+583	MCA	MammaryGlandVirgin.Dendritic cell_Siglech high	19
+584	MCA	MammaryGlandVirgin.Dividing cell	38
+585	MCA	MammaryGlandVirgin.Luminal cell_Krt19 high	28
+586	MCA	MammaryGlandVirgin.Luminal progenitor	25
+587	MCA	MammaryGlandVirgin.Macrophage_C1qc high	12
+588	MCA	MammaryGlandVirgin.Macrophage_Lyz1 high	11
+589	MCA	MammaryGlandVirgin.NK cell	13
+590	MCA	MammaryGlandVirgin.Stem and progenitor cell	17
+591	MCA	MammaryGlandVirgin.Stromal cell_Col3a1 high	14
+592	MCA	MammaryGlandVirgin.Stromal cell_Pi16 high	24
+593	MCA	MammaryGlandVirgin.T cell_Cd8b1 high	23
+594	MCA	MammaryGlandVirgin.T cell_Ly6c2 high	41
+595	MCA	MammaryGlandVirgin.T-cells_Ctla4 high	19
+596	MCA	MesenchymalStemCells.B cell	22
+597	MCA	MesenchymalStemCells.Basophils	17
+598	MCA	MesenchymalStemCells.CXCL12-abundant reticular cell	16
+599	MCA	MesenchymalStemCells.Endothelial cells	19
+600	MCA	MesenchymalStemCells.Endothelial cells_Ly6c1 high	14
+601	MCA	MesenchymalStemCells.Eosinophils	19
+602	MCA	MesenchymalStemCells.Erythroblast	19
+603	MCA	MesenchymalStemCells.Erythrocytes	63
+604	MCA	MesenchymalStemCells.Fibroblasts	33
+605	MCA	MesenchymalStemCells.Granulocyte monocyte progenitors	65
+606	MCA	MesenchymalStemCells.Megakaryocyte	10
+607	MCA	MesenchymalStemCells.Mesenchymal stem cell_Cxcl1 high	54
+608	MCA	MesenchymalStemCells.Mesenchymal stem cell_Cxcl10 high	78
+609	MCA	MesenchymalStemCells.Mesenchymal stem cell_Tmsb10 high	51
+610	MCA	MesenchymalStemCells.MSC	14
+611	MCA	MesenchymalStemCells.Myoblast	14
+612	MCA	MesenchymalStemCells.Neutrophil	9
+613	MCA	MesenchymalStemCells.Osteoblasts	16
+614	MCA	MesenchymalStemCells.Proerythrocytes	74
+615	MCA	MesenchymalStemCells.Stromal cell_Cnmd high	23
+616	MCA	MesenchymalStemCells.Stromal cell_Col10a1_high	22
+617	MCA	MesenchymalStemCells.Stromal cell_Col1a2 high	22
+618	MCA	MesenchymalStemCellsPrimary.B cell	22
+619	MCA	MesenchymalStemCellsPrimary.Basophils	17
+620	MCA	MesenchymalStemCellsPrimary.CXCL12-abundant reticular cell	16
+621	MCA	MesenchymalStemCellsPrimary.Endothelial cells	19
+622	MCA	MesenchymalStemCellsPrimary.Endothelial cells_Ly6c1 high	14
+623	MCA	MesenchymalStemCellsPrimary.Eosinophils	21
+624	MCA	MesenchymalStemCellsPrimary.Erythroblast	19
+625	MCA	MesenchymalStemCellsPrimary.Erythrocytes	66
+626	MCA	MesenchymalStemCellsPrimary.Fibroblasts	34
+627	MCA	MesenchymalStemCellsPrimary.Granulocyte monocyte progenitors	70
+628	MCA	MesenchymalStemCellsPrimary.Megakaryocyte	10
+629	MCA	MesenchymalStemCellsPrimary.MSC	14
+630	MCA	MesenchymalStemCellsPrimary.Myoblast	14
+631	MCA	MesenchymalStemCellsPrimary.Neutrophil	11
+632	MCA	MesenchymalStemCellsPrimary.Osteoblasts	17
+633	MCA	MesenchymalStemCellsPrimary.Proerythrocytes	74
+634	MCA	MesenchymalStemCellsPrimary.Stromal cell_Cnmd high	25
+635	MCA	MesenchymalStemCellsPrimary.Stromal cell_Col10a1_high	23
+636	MCA	MesenchymalStemCellsPrimary.Stromal cell_Col1a2 high	22
+637	MCA	Muscle.B cell_Jchain high	15
+638	MCA	Muscle.B cell_Vpreb3 high	11
+639	MCA	Muscle.Dendritic cell	20
+640	MCA	Muscle.Endothelial cell	9
+641	MCA	Muscle.Erythroblast_Car1 high	145
+642	MCA	Muscle.Erythroblast_Car2 high	10
+643	MCA	Muscle.Granulocyte monocyte progenitor cell	15
+644	MCA	Muscle.Macrophage_Ms4a6c high	15
+645	MCA	Muscle.Macrophage_Retnla high	17
+646	MCA	Muscle.Muscle cell_Tnnc1 high	29
+647	MCA	Muscle.Muscle cell_Tnnc2 high	17
+648	MCA	Muscle.Muscle progenitor cell	14
+649	MCA	Muscle.Neutrophil_Camp high	12
+650	MCA	Muscle.Neutrophil_Prg2 high	13
+651	MCA	Muscle.Neutrophil_Retnlg high	12
+652	MCA	Muscle.Stromal cell	15
+653	MCA	Muscle.T cell	31
+654	MCA	NeonatalCalvaria.Dividng cell	17
+655	MCA	NeonatalCalvaria.Endothelial cell	16
+656	MCA	NeonatalCalvaria.Erythroblast	7
+657	MCA	NeonatalCalvaria.Granulocyte monocyte progenitor cell	33
+658	MCA	NeonatalCalvaria.Mast cell	9
+659	MCA	NeonatalCalvaria.Muscle cell_Actc1 high	32
+660	MCA	NeonatalCalvaria.Muscle cell_Junb high	13
+661	MCA	NeonatalCalvaria.Muscle cell_Myl9 high	12
+662	MCA	NeonatalCalvaria.Neuron	6
+663	MCA	NeonatalCalvaria.Neutrophil	11
+664	MCA	NeonatalCalvaria.Osteoblast 	18
+665	MCA	NeonatalCalvaria.Preosteoblast/Osteoblast/Bone cell/Cartilage cell	9
+666	MCA	NeonatalCalvaria.Stromal cell_Col1a1 high	14
+667	MCA	NeonatalCalvaria.Stromal cell_Col3a1 high	11
+668	MCA	NeonatalHeart.Atrial cardiomyocyte	17
+669	MCA	NeonatalHeart.Atrial cardiomyocyte_Acta2 high	13
+670	MCA	NeonatalHeart.Cardiac muscle cell	13
+671	MCA	NeonatalHeart.Dendritic cell	11
+672	MCA	NeonatalHeart.Dividing cell	13
+673	MCA	NeonatalHeart.Endothelial cell_Eln high	16
+674	MCA	NeonatalHeart.Endothelial cell_Enpp2 high	11
+675	MCA	NeonatalHeart.Endothelial cell_Igfbp5 high	18
+676	MCA	NeonatalHeart.Epithelial cell	17
+677	MCA	NeonatalHeart.Left ventricle cardiomyocyte_Myl2 high	14
+678	MCA	NeonatalHeart.Macrophage	13
+679	MCA	NeonatalHeart.Neutrophil_Ngp high	16
+680	MCA	NeonatalHeart.Neutrophil_Retnlg high	11
+681	MCA	NeonatalHeart.Smooth muscle cell	14
+682	MCA	NeonatalHeart.Stromal cell_Col3a1 high	10
+683	MCA	NeonatalHeart.Stromal cell_Fmod high	12
+684	MCA	NeonatalHeart.Vascular endothelial cell	17
+685	MCA	NeonatalHeart.Ventricle cardiomyocyte_Kcnj8 high	9
+686	MCA	NeonatalMuscle.Adipocyte 	43
+687	MCA	NeonatalMuscle.B cell	15
+688	MCA	NeonatalMuscle.Brown adipose tissue	75
+689	MCA	NeonatalMuscle.Chondrocyte	22
+690	MCA	NeonatalMuscle.Dendritic cell	10
+691	MCA	NeonatalMuscle.Endothelial cell	14
+692	MCA	NeonatalMuscle.Epithelial cell	24
+693	MCA	NeonatalMuscle.Erythroblast_Car2 high	87
+694	MCA	NeonatalMuscle.Erythroblast_Hbb-bs high	10
+695	MCA	NeonatalMuscle.Glial cell	10
+696	MCA	NeonatalMuscle.Macrophage_Lyz2 high	14
+697	MCA	NeonatalMuscle.Macrophage_Pf4 high	20
+698	MCA	NeonatalMuscle.Mast cell	19
+699	MCA	NeonatalMuscle.Mesenchymal cell	23
+700	MCA	NeonatalMuscle.Muscle cell_Actc1 high	29
+701	MCA	NeonatalMuscle.Muscle cell_Myl9 high	14
+702	MCA	NeonatalMuscle.Neuron	12
+703	MCA	NeonatalMuscle.Neutrophil_Elane high	56
+704	MCA	NeonatalMuscle.Neutrophil_Hmox1 high	21
+705	MCA	NeonatalMuscle.Neutrophil_Stfa3 high	16
+706	MCA	NeonatalMuscle.Skeletal muscle cell_Myl1 high	25
+707	MCA	NeonatalMuscle.Skeletal muscle cell_Tnnc2 high	21
+708	MCA	NeonatalMuscle.Smooth muscle cell_Mylk high	14
+709	MCA	NeonatalMuscle.Stromal cell_Ndn high	16
+710	MCA	NeonatalMuscle.Stromal cell_Spp1 high	19
+711	MCA	NeonatalMuscle.T cell	18
+712	MCA	NeonatalMuscle.Tendon stem/progenitor cell	18
+713	MCA	NeonatalRib.B cell	18
+714	MCA	NeonatalRib.Cartilage cell_Clu high	21
+715	MCA	NeonatalRib.Cartilage cell_Col2a1 high	9
+716	MCA	NeonatalRib.Cartilage cell_Cxcl14 high	21
+717	MCA	NeonatalRib.Cartilage cell_Ppa1 high	22
+718	MCA	NeonatalRib.Cartilage cell_Prg4 high	15
+719	MCA	NeonatalRib.Dividing cell	13
+720	MCA	NeonatalRib.Endothelial cell	8
+721	MCA	NeonatalRib.Erythroblast_Hba-a1 high	40
+722	MCA	NeonatalRib.Erythroblast_Ttr high	15
+723	MCA	NeonatalRib.Granulocyte	37
+724	MCA	NeonatalRib.Macrophage_C1qc high	14
+725	MCA	NeonatalRib.Macrophage_Ctss high	15
+726	MCA	NeonatalRib.Muscle cell	34
+727	MCA	NeonatalRib.Muscle cell_Acta2 high	11
+728	MCA	NeonatalRib.Muscle cell_Actc1 high	25
+729	MCA	NeonatalRib.Neuron_Mpz high	14
+730	MCA	NeonatalRib.Neuron_Stmn2 high	8
+731	MCA	NeonatalRib.Neutrophil	16
+732	MCA	NeonatalRib.Neutrophil_Elane high	35
+733	MCA	NeonatalRib.Oligodendrocyte	10
+734	MCA	NeonatalRib.Osteoblast	14
+735	MCA	NeonatalRib.Osteoclast	30
+736	MCA	NeonatalRib.Stromal cell_Acta1 high	11
+737	MCA	NeonatalRib.Stromal cell_Tnmd high	14
+738	MCA	NeonatalSkin.Adipocyte	23
+739	MCA	NeonatalSkin.Brown adipose tissue_Cidea high	26
+740	MCA	NeonatalSkin.Brown adipose tissue_Cox8b high	34
+741	MCA	NeonatalSkin.Brown adipose tissue_mt-Nd5 high	20
+742	MCA	NeonatalSkin.Dividing cell	22
+743	MCA	NeonatalSkin.Endothelial cell	20
+744	MCA	NeonatalSkin.Epithelial cell	12
+745	MCA	NeonatalSkin.Erythroblast	18
+746	MCA	NeonatalSkin.Keratinocyte	34
+747	MCA	NeonatalSkin.Lymphatic vessel endothelial cell	29
+748	MCA	NeonatalSkin.Macrophage_Cd74 high	22
+749	MCA	NeonatalSkin.Macrophage_Lyz2 high	31
+750	MCA	NeonatalSkin.Macrophage_Pf4 high	39
+751	MCA	NeonatalSkin.Mast cell	23
+752	MCA	NeonatalSkin.Melanocyte	16
+753	MCA	NeonatalSkin.Muscle cell_Actc1 high	22
+754	MCA	NeonatalSkin.Muscle cell_Lrrc15 high	23
+755	MCA	NeonatalSkin.Neuron	8
+756	MCA	NeonatalSkin.Neutrophil	15
+757	MCA	NeonatalSkin.Osteoblast_Dlk1 high	20
+758	MCA	NeonatalSkin.Osteoblast_Ppic high	20
+759	MCA	NeonatalSkin.Smooth muscle cell_Acta2 high	16
+760	MCA	NeonatalSkin.Stromal cell_Akr1c18 high	33
+761	MCA	NeonatalSkin.Stromal cell_Gas6 high	26
+762	MCA	Ovary.Cumulus cell_Car14 high	16
+763	MCA	Ovary.Cumulus cell_Nupr1 high	19
+764	MCA	Ovary.Cumulus cell_Ube2c high	23
+765	MCA	Ovary.Granulosa cell_Inhba high	16
+766	MCA	Ovary.Granulosa cell_Kctd14 high	17
+767	MCA	Ovary.Large luteal cell	26
+768	MCA	Ovary.luteal cells	117
+769	MCA	Ovary.Macrophage_Lyz2 high	17
+770	MCA	Ovary.Marcrophage_Cd74 high	5
+771	MCA	Ovary.Ovarian surface epithelium cell	9
+772	MCA	Ovary.Ovarian vascular surface endothelium cell	19
+773	MCA	Ovary.Small luteal cell	7
+774	MCA	Ovary.Stroma cell	15
+775	MCA	Ovary.Thecal cell	15
+776	MCA	Pancreas.Acinar cell	22
+777	MCA	Pancreas.B cell	6
+778	MCA	Pancreas.Dendrtic cell	28
+779	MCA	Pancreas.Dividing cell	31
+780	MCA	Pancreas.Ductal cell	11
+781	MCA	Pancreas.Endocrine cell	16
+782	MCA	Pancreas.Endothelial cell_Fabp4 high	11
+783	MCA	Pancreas.Endothelial cell_Lrg1 high	21
+784	MCA	Pancreas.Endothelial cell_Tm4sf1 high	12
+785	MCA	Pancreas.Erythroblast_Hbb-bt high	8
+786	MCA	Pancreas.Erythroblast_Igkc high	7
+787	MCA	Pancreas.Glial cell	9
+788	MCA	Pancreas.Granulocyte	8
+789	MCA	Pancreas.Macrophage	9
+790	MCA	Pancreas.Macrophage_Ly6c2 high	27
+791	MCA	Pancreas.Smooth muscle cell_Acta2 high	14
+792	MCA	Pancreas.Smooth muscle cell_Rgs5 high	7
+793	MCA	Pancreas.Stromal cell_Fn1 high	13
+794	MCA	Pancreas.Stromal cell_Mfap4 high	21
+795	MCA	Pancreas.Stromal cell_Smoc2 high	13
+796	MCA	Pancreas.T cell	8
+797	MCA	Pancreas.β-cell	6
+798	MCA	PeripheralBlood.B cell_Igha high	15
+799	MCA	PeripheralBlood.B cell_Ly6d high	14
+800	MCA	PeripheralBlood.B cell_Rps27rt high	10
+801	MCA	PeripheralBlood.B cell_Vpreb3 high	11
+802	MCA	PeripheralBlood.Basophil_Prss34 high	6
+803	MCA	PeripheralBlood.Dendritic cell_Siglech high	10
+804	MCA	PeripheralBlood.Erythroblast_Car2 high	82
+805	MCA	PeripheralBlood.Erythroblast_Hba-a2 high	12
+806	MCA	PeripheralBlood.Macrophage_Ace high	12
+807	MCA	PeripheralBlood.Macrophage_Flt-ps1 high	28
+808	MCA	PeripheralBlood.Macrophage_Pf4 high	11
+809	MCA	PeripheralBlood.Macrophage_S100a4 high	14
+810	MCA	PeripheralBlood.Monocyte_Elane high	47
+811	MCA	PeripheralBlood.Monocyte_F13a1 high	30
+812	MCA	PeripheralBlood.Neutrophil_Camp high	11
+813	MCA	PeripheralBlood.Neutrophil_Il1b high	7
+814	MCA	PeripheralBlood.Neutrophil_Ltf high	14
+815	MCA	PeripheralBlood.Neutrophil_Retnlg high	12
+816	MCA	PeripheralBlood.NK cell_Gzma high	10
+817	MCA	PeripheralBlood.T cell_Gm14303 high	34
+818	MCA	PeripheralBlood.T cell_Trbc2 high	26
+819	MCA	Placenta.B cell	10
+820	MCA	Placenta.Basophil	15
+821	MCA	Placenta.Decidual stromal cell	10
+822	MCA	Placenta.Dendritic cell	10
+823	MCA	Placenta.Endodermal cell_Afp high	27
+824	MCA	Placenta.Endothelial cell_Maged2 high	9
+825	MCA	Placenta.Erythroblast_Hbb-y high	7
+826	MCA	Placenta.Granulocyte monocyte progenitors	25
+827	MCA	Placenta.Granulocyte_Neat1 high	10
+828	MCA	Placenta.Granulocyte_S100a9 high	9
+829	MCA	Placenta.HSPC_Lmo2 high	34
+830	MCA	Placenta.Invasive spongiotrophoblast	14
+831	MCA	Placenta.Labyrinthine trophoblast	27
+832	MCA	Placenta.Macrophage_Apoe high	8
+833	MCA	Placenta.Macrophage_Spp1 high	10
+834	MCA	Placenta.Megakaryocyte progenitor cell	8
+835	MCA	Placenta.Monocyte	11
+836	MCA	Placenta.NK cell	11
+837	MCA	Placenta.NKT cell	19
+838	MCA	Placenta.PE lineage cell_Gkn2 high	8
+839	MCA	Placenta.PE lineage cell_S100g high	4
+840	MCA	Placenta.Progenitor trophoblast_Gjb3 high	30
+841	MCA	Placenta.Spiral artery trophoblast giant cells	23
+842	MCA	Placenta.Spongiotrophoblast_Hsd11b2 high	69
+843	MCA	Placenta.Spongiotrophoblast_Phlda2 high	32
+844	MCA	Placenta.Stromal cell	15
+845	MCA	Placenta.Stromal cell_Acta2 high	26
+846	MCA	Placenta.Trophoblast progenitor_Taf7l high	8
+847	MCA	Prostate.Dendritic cell	12
+848	MCA	Prostate.Epithelial cell	9
+849	MCA	Prostate.Glandular epithelium	10
+850	MCA	Prostate.Prostate gland cell	8
+851	MCA	Prostate.Stromal cell	10
+852	MCA	Prostate.T cell	8
+853	MCA	SmallIntestine.B cell_Ighd high	18
+854	MCA	SmallIntestine.B cell_Igkv12-46 high	20
+855	MCA	SmallIntestine.B cell_Jchain high	8
+856	MCA	SmallIntestine.B cell_Ms4a1 high	23
+857	MCA	SmallIntestine.Columnar epithelium	15
+858	MCA	SmallIntestine.Dendritic cell_Siglech high	23
+859	MCA	SmallIntestine.Dendrtic cell_Cst3 high	15
+860	MCA	SmallIntestine.Epithelial cell_Kcne3 high	23
+861	MCA	SmallIntestine.Epithelial cell_Sh2d6 high	13
+862	MCA	SmallIntestine.Epithelium of small intestinal villi_Fabp1 high	35
+863	MCA	SmallIntestine.Epithelium of small intestinal villi_Fabp6 high	20
+864	MCA	SmallIntestine.Epithelium of small intestinal villi_Gm23935 high	13
+865	MCA	SmallIntestine.Epithelium of small intestinal villi_mt-Nd1 high	9
+866	MCA	SmallIntestine.Epithelium of small intestinal villi_S100g high	21
+867	MCA	SmallIntestine.Erythroblast	18
+868	MCA	SmallIntestine.Macrophage_Apoe high	16
+869	MCA	SmallIntestine.Macrophage_Cxcl2 high	37
+870	MCA	SmallIntestine.Macrophage_G0s2 high	11
+871	MCA	SmallIntestine.Mast cell	74
+872	MCA	SmallIntestine.Paneth cell	19
+873	MCA	SmallIntestine.S cell_Chgb high	14
+874	MCA	SmallIntestine.S cell_Gip high	7
+875	MCA	SmallIntestine.Stromal cell_Adamdec1 high	11
+876	MCA	SmallIntestine.Stromal cell_Dcn high	27
+877	MCA	SmallIntestine.T cell_Ccl5 high	13
+878	MCA	SmallIntestine.T cell_Cd7 high	16
+879	MCA	SmallIntestine.T cell_Icos high	14
+880	MCA	SmallIntestine.T cell_Ms4a4b high	21
+881	MCA	Spleen.Dendritic cell_S100a4 high	19
+882	MCA	Spleen.Dendritic cell_Siglech high	20
+883	MCA	Spleen.Erythroblast	90
+884	MCA	Spleen.Granulocyte	17
+885	MCA	Spleen.Macrophage	27
+886	MCA	Spleen.Marginal zone B cell	17
+887	MCA	Spleen.Monocyte	21
+888	MCA	Spleen.Neutrophil	41
+889	MCA	Spleen.NK cell	11
+890	MCA	Spleen.Plasma cell	51
+891	MCA	Spleen.T cell	14
+892	MCA	Stomach.Antral mucous cell	31
+893	MCA	Stomach.Dendritic cell	45
+894	MCA	Stomach.Dividing cell	53
+895	MCA	Stomach.Epithelial cell_Gkn3 high	42
+896	MCA	Stomach.Epithelial cell_Krt20 high	43
+897	MCA	Stomach.Epithelial cell_Pla2g1b high	18
+898	MCA	Stomach.G cell	15
+899	MCA	Stomach.Gastric mucosal cell	34
+900	MCA	Stomach.Macrophage	17
+901	MCA	Stomach.Muscle cell	12
+902	MCA	Stomach.Parietal cell	82
+903	MCA	Stomach.Pit cell_Gm26917 high	20
+904	MCA	Stomach.Pit cell_Ifrd1 high	56
+905	MCA	Stomach.Stomach cell_Gkn2 high	30
+906	MCA	Stomach.Stomach cell_Mt2 high	46
+907	MCA	Stomach.Stomach cell_Muc5ac high	40
+908	MCA	Stomach.Tuft cell	16
+909	MCA	Testis.Elongating spermatid	12
+910	MCA	Testis.Erythroblast_Hbb-bs high	9
+911	MCA	Testis.Leydig cell	11
+912	MCA	Testis.Macrophage_Lyz2 high	10
+913	MCA	Testis.Pre-Sertoli cell_Cst9 high	16
+914	MCA	Testis.Pre-Sertoli cell_Ctsl high	13
+915	MCA	Testis.Preleptotene spermatogonia	12
+916	MCA	Testis.Sertoli cell	6
+917	MCA	Testis.Spermatids_1700016P04Rik high	21
+918	MCA	Testis.Spermatids_Cst13 high	36
+919	MCA	Testis.Spermatids_Hmgb4 high	48
+920	MCA	Testis.Spermatids_Tnp1 high	29
+921	MCA	Testis.Spermatocyte_1700001F09Rik high	77
+922	MCA	Testis.Spermatocyte_Cabs1 high	24
+923	MCA	Testis.Spermatocyte_Calm2 high	34
+924	MCA	Testis.Spermatocyte_Mesp1 high	23
+925	MCA	Testis.Spermatocyte_Slc2a3 high	35
+926	MCA	Testis.Spermatogonia_1700001P01Rik high	22
+927	MCA	Testis.Spermatogonia_Tbc1d23 high	51
+928	MCA	Thymus.abT cell	6
+929	MCA	Thymus.B cell	5
+930	MCA	Thymus.DPT cell	5
+931	MCA	Thymus.gdT cell	22
+932	MCA	Thymus.Pre T cell	6
+933	MCA	Thymus.Proliferating thymocyte	15
+934	MCA	Thymus.T cell_Id2 high	28
+935	MCA	Thymus.T cell_Ms4a4b high	19
+936	MCA	TrophoblastStemCells.MEF	54
+937	MCA	TrophoblastStemCells.TS_dif_epithelial	91
+938	MCA	TrophoblastStemCells.TS_Mrp155_high	31
+939	MCA	TrophoblastStemCells.TS_Mrpl12_high	19
+940	MCA	TrophoblastStemCells.TS_Rps28_high	58
+941	MCA	Uterus.B cell	19
+942	MCA	Uterus.Dendritic cell	15
+943	MCA	Uterus.Endothelial cell_Cldn5 high	14
+944	MCA	Uterus.Endothelial cell_Tm4sf1 high	11
+945	MCA	Uterus.Glandular epithelium_Ltf high	41
+946	MCA	Uterus.Glandular epithelium_Sprr2f high	40
+947	MCA	Uterus.Granulocyte	3
+948	MCA	Uterus.Keratinocyte	15
+949	MCA	Uterus.Macrophage	11
+950	MCA	Uterus.Monocyte	10
+951	MCA	Uterus.Muscle cell_Mgp high	10
+952	MCA	Uterus.Muscle cell_Pcp4 high	12
+953	MCA	Uterus.NK cell	13
+954	MCA	Uterus.Smooth muscle cell_Rgs5 high	9
+955	MCA	Uterus.Stromal cell_Ccl11 high	63
+956	MCA	Uterus.Stromal cell_Cxcl14 high	10
+957	MCA	Uterus.Stromal cell_Gm23935 high	19
+958	MCA	Uterus.Stromal cell_Has1 high	39
+959	MCA	Uterus.Stromal cell_Hsd11b2 high	27
