@@ -1,0 +1,57 @@
+---
+title: "Figure 6"
+output: html_notebook
+---
+
+
+```{r message=FALSE, warning=FALSE}
+suppressPackageStartupMessages(source("scripts/themes.R"))
+tm.facs <- loadObject(filename = url("https://scfind.cog.sanger.ac.uk/indexes/tm_facs.rds"))
+atac <- loadObject(filename = url("https://scfind.cog.sanger.ac.uk/indexes/atacseq.rds"))
+```
+
+## Figure 6a - This will generate .bed format file for the UCSC Genome Browser
+```{r message=FALSE, warning=FALSE}
+source("scripts/6ac.R")
+for( tissue in c("Heart", "Liver", "Spleen"))
+{
+    generateUCSCBedFileForEnhancers(atac, query.gene = "Nr4a1", 
+                                    tissue = tissue, window = c(1e5, 0), 
+                                    target.window = c("chr15", 101097277, 101105225 ), 
+                                    annotation = loadAnnotation("data/fig6ac.tsv"))
+}
+```
+
+
+## Figure 6c - This will generate .bed format file for the UCSC Genome Browser
+```{r message=FALSE, warning=FALSE}
+for( tissue in c("Heart", "Liver", "Spleen"))
+{
+    generateUCSCBedFileForEnhancers(atac, query.gene = "Cd36", 
+                                    tissue = tissue, window = c(1e5, 0), 
+                                    target.window = c("chr5", 17188577, 17388756 ), 
+                                    annotation = loadAnnotation("data/fig6ac.tsv"))
+}
+```
+
+## Figure 6d
+```{r}
+df.6d <- read.table("data/fig6d.csv", sep = ",", header = T, stringsAsFactors = F)
+
+p.6d <- ggplot(df.6d, aes(x=celltype, y=motif, fill=density)) + 
+    theme_minimal() + theme(axis.title.y = element_blank(), axis.title.x = element_blank(), axis.text.x=element_text(hjust = 0, angle = -30),  text = element_text(size = 14), strip.text.x = element_blank(), panel.grid.major = element_blank(), panel.grid.minor = element_blank()) + 
+    labs(fill = "Number of\nmotif/peak") +
+    scale_fill_gradient2(high = colorRampPalette(rev(brewer.pal(n = 7, name ="RdPu")))(1)) + 
+    facet_wrap(~ tissue, scales = 'free_x') + geom_tile() +
+    geom_text(aes(label = pval))
+
+
+ggarrange(
+    p.6d + theme(legend.position = "none"), 
+    ggarrange(get_legend(p.6d),
+              bottom = text_grob("p-value\n*\t<= 0.05\n**\t<= 0.01\n***\t<= 0.001"),
+              ncol = 1, nrow = 3),
+    ncol = 2, widths = c(3,1)
+)
+```
+

@@ -1,0 +1,1505 @@
+"atlas","dataset","celltype","total_cells","total_features","rho","pvalue"
+"BCA","Amygdala","AstrocytesAstrocyte",1360,14032,0.449302081420939,0
+"BCA","Amygdala","AstrocytesOEC",2,599,0.94275317304629,1.3072084220537e-303
+"BCA","Amygdala","Blood",603,12439,0.4314411534858,0
+"BCA","Amygdala","Ependymal",109,11973,0.504204871024235,0
+"BCA","Amygdala","EpendymalTtr",12,5232,0.729571756239386,0
+"BCA","Amygdala","ExcludedAstrocyteImmune",12,4564,0.686020057725939,0
+"BCA","Amygdala","ExcludedAstrocyteNeurons",85,12174,0.517995772911281,0
+"BCA","Amygdala","ExcludedAstrocyteOligos",65,9675,0.549952130097226,0
+"BCA","Amygdala","ExcludedAstrocyteVascular",16,5707,0.660489770982339,0
+"BCA","Amygdala","ExcludedImmuneNeurons",6,7396,0.751380743794275,0
+"BCA","Amygdala","ExcludedImmuneOligos",43,8310,0.583701030519325,0
+"BCA","Amygdala","ExcludedNeuronsOligos",137,13147,0.518539542878575,0
+"BCA","Amygdala","ExcludedNeuronsVascular",2,4965,0.900771642005028,0
+"BCA","Amygdala","ExcludedOligosVascular",3,2858,0.848983853331745,0
+"BCA","Amygdala","Immune",1940,14569,0.501357179551004,0
+"BCA","Amygdala","Neurons",16191,19496,0.443710019015944,0
+"BCA","Amygdala","NeuronsNeuronsCycling",26,6005,0.605209646595597,0
+"BCA","Amygdala","Oligos",3667,15547,0.460958503118613,0
+"BCA","Amygdala","OligosOligosCycling",19,5969,0.611225402218697,0
+"BCA","Amygdala","Vascular",1114,14613,0.466827057133816,0
+"BCA","Cerebellum","AstrocytesAstrocyte",642,13165,0.384365812688447,0
+"BCA","Cerebellum","AstrocytesBergmannglia",753,13711,0.42156804774062,0
+"BCA","Cerebellum","Blood",237,9793,0.432490717882299,0
+"BCA","Cerebellum","Ependymal",15,6954,0.659843556665202,0
+"BCA","Cerebellum","ExcludedAstrocyteVascular",2,1406,0.927830360240904,0
+"BCA","Cerebellum","ExcludedNeuronsOligos",4,2646,0.881432821027552,0
+"BCA","Cerebellum","Immune",158,10435,0.535580593992874,0
+"BCA","Cerebellum","Neurons",9340,16319,0.336265262578301,0
+"BCA","Cerebellum","NeuronsNeuronsCycling",20,5902,0.657000071533362,0
+"BCA","Cerebellum","Oligos",591,13456,0.482242655175738,0
+"BCA","Cerebellum","OligosOligosCycling",4,2217,0.808516318420202,0
+"BCA","Cerebellum","Vascular",544,13865,0.451284894408175,0
+"BCA","Cortex1","AstrocytesAstrocyte",1314,14695,0.489117437491984,0
+"BCA","Cortex1","AstrocytesBergmannglia",2,1691,0.905513639274737,0
+"BCA","Cortex1","AstrocytesOEC",4,2403,0.808430534187057,0
+"BCA","Cortex1","Blood",33,6383,0.616031790801078,0
+"BCA","Cortex1","ExcludedAstrocyteImmune",28,8522,0.615111532408056,0
+"BCA","Cortex1","ExcludedAstrocyteNeurons",101,13108,0.550811191309532,0
+"BCA","Cortex1","ExcludedAstrocyteOligos",26,9201,0.616435864145019,0
+"BCA","Cortex1","ExcludedAstrocyteVascular",24,8960,0.617180645516807,0
+"BCA","Cortex1","ExcludedExVascular",10,9529,0.684378906285811,0
+"BCA","Cortex1","ExcludedImmuneNeurons",106,13258,0.570453953173304,0
+"BCA","Cortex1","ExcludedImmuneOligos",13,6787,0.693221884478844,0
+"BCA","Cortex1","ExcludedNeuronsOligos",55,12061,0.567300481960212,0
+"BCA","Cortex1","ExcludedNeuronsVascular",17,10881,0.659544725279512,0
+"BCA","Cortex1","ExcludedOligosVascular",11,7022,0.68719662118067,0
+"BCA","Cortex1","Immune",588,13939,0.543136683444112,0
+"BCA","Cortex1","Neurons",8934,18973,0.532274227859909,0
+"BCA","Cortex1","NeuronsNeuronsCycling",12,5530,0.695890401930534,0
+"BCA","Cortex1","Oligos",1422,14989,0.537027494377827,0
+"BCA","Cortex1","OligosOligosCycling",8,5192,0.703444510926712,0
+"BCA","Cortex1","Vascular",990,15173,0.525275800088407,0
+"BCA","Cortex2","AstrocytesAstrocyte",2676,16038,0.482468295577605,0
+"BCA","Cortex2","Blood",154,10872,0.512680530282492,0
+"BCA","Cortex2","Ependymal",8,6108,0.739243239447248,0
+"BCA","Cortex2","EpendymalTtr",2,2266,0.91597411909357,0
+"BCA","Cortex2","ExcludedAstrocyteImmune",38,9697,0.602511883341638,0
+"BCA","Cortex2","ExcludedAstrocyteNeurons",125,13426,0.512123932959635,0
+"BCA","Cortex2","ExcludedAstrocyteOligos",55,10754,0.570871064973307,0
+"BCA","Cortex2","ExcludedAstrocyteVascular",59,10957,0.552039838695508,0
+"BCA","Cortex2","ExcludedBloodVascular",2,2674,0.899743744651126,0
+"BCA","Cortex2","ExcludedExVascular",5,7281,0.756433794564991,0
+"BCA","Cortex2","ExcludedImmuneNeurons",66,12599,0.561344008068953,0
+"BCA","Cortex2","ExcludedImmuneOligos",24,9169,0.635439646273,0
+"BCA","Cortex2","ExcludedNeuronsOligos",207,13643,0.494087307364054,0
+"BCA","Cortex2","ExcludedNeuronsVascular",9,9042,0.683639934429585,0
+"BCA","Cortex2","ExcludedOligosVascular",17,8781,0.663843764823349,0
+"BCA","Cortex2","Immune",1218,14781,0.529271107296475,0
+"BCA","Cortex2","Neurons",11767,19618,0.487711880880279,0
+"BCA","Cortex2","NeuronsNeuronsCycling",9,5918,0.740050399257911,0
+"BCA","Cortex2","Oligos",2308,16126,0.522147210921466,0
+"BCA","Cortex2","OligosOligosCycling",23,8448,0.575504281447061,0
+"BCA","Cortex2","Vascular",2039,16635,0.499878148612825,0
+"BCA","Cortex3","AstrocytesAstrocyte",2755,15499,0.480776660360532,0
+"BCA","Cortex3","AstrocytesBergmannglia",3,3173,0.859890976133517,0
+"BCA","Cortex3","Blood",100,9272,0.580125173612851,0
+"BCA","Cortex3","Ependymal",9,6573,0.695585889594637,0
+"BCA","Cortex3","EpendymalTtr",2,1438,0.902302684226622,0
+"BCA","Cortex3","ExcludedAstrocyteImmune",40,9246,0.60095723832366,0
+"BCA","Cortex3","ExcludedAstrocyteNeurons",150,13674,0.531588957508962,0
+"BCA","Cortex3","ExcludedAstrocyteOligos",29,9019,0.6249942710992,0
+"BCA","Cortex3","ExcludedAstrocyteVascular",27,9446,0.610559539942856,0
+"BCA","Cortex3","ExcludedExVascular",7,8131,0.714368886585463,0
+"BCA","Cortex3","ExcludedImmuneNeurons",76,12756,0.563997166817187,0
+"BCA","Cortex3","ExcludedImmuneOligos",9,5834,0.729677520275377,0
+"BCA","Cortex3","ExcludedNeuronsOligos",34,11509,0.608943365997501,0
+"BCA","Cortex3","ExcludedNeuronsVascular",22,10656,0.625102334049596,0
+"BCA","Cortex3","ExcludedOligosVascular",10,6929,0.70657760042927,0
+"BCA","Cortex3","Immune",830,14012,0.556794772343971,0
+"BCA","Cortex3","Neurons",9094,19048,0.525477125695692,0
+"BCA","Cortex3","NeuronsNeuronsCycling",39,9833,0.629988051256496,0
+"BCA","Cortex3","Oligos",1391,14947,0.531344989356712,0
+"BCA","Cortex3","OligosOligosCycling",13,5641,0.638593871184052,0
+"BCA","Cortex3","Vascular",1329,15616,0.517383555917062,0
+"BCA","Drg","AstrocytesOEC",28,8155,0.612171354755684,0
+"BCA","Drg","Blood",9,2871,0.777426521022826,0
+"BCA","Drg","ExcludedAstrocyteNeurons",59,12093,0.596589100931761,0
+"BCA","Drg","ExcludedNeuronsSatelliteglia",51,12046,0.622415692767877,0
+"BCA","Drg","ExcludedSatellitegliaSchwann",30,8588,0.613992228216424,0
+"BCA","Drg","Neurons",1736,17713,0.612545275935292,0
+"BCA","Drg","Oligos",9,5143,0.701842641196305,0
+"BCA","Drg","PeripheralGliaEntericglia",3,2805,0.847737031935128,0
+"BCA","Drg","PeripheralGliaSatelliteglia",728,14079,0.563111490740334,0
+"BCA","Drg","PeripheralGliaSatellitegliaCycling",35,9405,0.618735450592298,0
+"BCA","Drg","PeripheralGliaSchwann",47,9124,0.622037363951175,0
+"BCA","Drg","Vascular",212,13726,0.568723278675131,0
+"BCA","Enteric","Blood",6,1128,0.845315498307567,0
+"BCA","Enteric","Immune",10,7480,0.73317256768179,0
+"BCA","Enteric","Neurons",1266,17853,0.548033886862915,0
+"BCA","Enteric","NeuronsNeuronsCycling",2,2502,0.923288477042393,0
+"BCA","Enteric","Oligos",4,2829,0.850729368410952,0
+"BCA","Enteric","Vascular",193,14745,0.574252627622212,0
+"BCA","Hippocampus","AstrocytesAstrocyte",4332,16421,0.50711801988696,0
+"BCA","Hippocampus","AstrocytesBergmannglia",16,4985,0.666904554695754,0
+"BCA","Hippocampus","Blood",80,8328,0.599059569056463,0
+"BCA","Hippocampus","Ependymal",27,9478,0.597408345954862,0
+"BCA","Hippocampus","EpendymalTtr",7,5999,0.76425011547427,0
+"BCA","Hippocampus","ExcludedAstrocyteImmune",45,9723,0.610230938331871,0
+"BCA","Hippocampus","ExcludedAstrocyteNeurons",116,13078,0.539526390482657,0
+"BCA","Hippocampus","ExcludedAstrocyteOligos",94,11584,0.5675924283804,0
+"BCA","Hippocampus","ExcludedAstrocyteVascular",21,8077,0.639311993871999,0
+"BCA","Hippocampus","ExcludedExVascular",3,5784,0.83343845798895,0
+"BCA","Hippocampus","ExcludedImmuneNeurons",34,11147,0.615766046786711,0
+"BCA","Hippocampus","ExcludedImmuneOligos",9,5695,0.723048324265983,0
+"BCA","Hippocampus","ExcludedNeuronsOligos",66,12774,0.57675301345759,0
+"BCA","Hippocampus","ExcludedNeuronsVascular",8,8169,0.714039322885909,0
+"BCA","Hippocampus","ExcludedOligosVascular",3,4534,0.847010365447416,0
+"BCA","Hippocampus","Immune",1362,14979,0.5651307782619,0
+"BCA","Hippocampus","Neurons",19004,20131,0.510531761504594,0
+"BCA","Hippocampus","NeuronsNeuronsCycling",188,12614,0.576964836696971,0
+"BCA","Hippocampus","Oligos",2804,16232,0.525630005298902,0
+"BCA","Hippocampus","OligosOligosCycling",42,9554,0.568877809771907,0
+"BCA","Hippocampus","Vascular",1257,15722,0.523551270020772,0
+"BCA","Hypothalamus","AstrocytesAstrocyte",1625,14445,0.412157731346432,0
+"BCA","Hypothalamus","AstrocytesBergmannglia",4,1189,0.876659308039222,0
+"BCA","Hypothalamus","Blood",938,13004,0.393906000187721,0
+"BCA","Hypothalamus","Ependymal",202,13340,0.442152698152751,0
+"BCA","Hypothalamus","EpendymalTtr",6,3114,0.791590594112454,0
+"BCA","Hypothalamus","ExcludedAstrocyteImmune",23,6632,0.638499257430361,0
+"BCA","Hypothalamus","ExcludedAstrocyteNeurons",180,13589,0.499488462152016,0
+"BCA","Hypothalamus","ExcludedAstrocyteOligos",146,11551,0.497258356478656,0
+"BCA","Hypothalamus","ExcludedAstrocyteVascular",28,9379,0.595480234228359,0
+"BCA","Hypothalamus","ExcludedImmuneOligos",34,8485,0.58089487102436,0
+"BCA","Hypothalamus","ExcludedNeuronsOligos",303,14795,0.51652722044407,0
+"BCA","Hypothalamus","ExcludedOligosVascular",18,7908,0.627802662025285,0
+"BCA","Hypothalamus","Immune",1540,14560,0.4927100776885,0
+"BCA","Hypothalamus","Neurons",22293,20430,0.454207939563398,0
+"BCA","Hypothalamus","NeuronsNeuronsCycling",11,3249,0.701297769207498,0
+"BCA","Hypothalamus","Oligos",7886,17120,0.45775493987592,0
+"BCA","Hypothalamus","OligosOligosCycling",29,8238,0.582797093875859,0
+"BCA","Hypothalamus","Vascular",1569,16031,0.465380366757924,0
+"BCA","Medulla","AstrocytesAstrocyte",2707,15577,0.446828694119714,0
+"BCA","Medulla","AstrocytesBergmannglia",13,5353,0.69423122756127,0
+"BCA","Medulla","Blood",203,11138,0.509663156114875,0
+"BCA","Medulla","Ependymal",436,15950,0.486570621122283,0
+"BCA","Medulla","EpendymalTtr",395,14372,0.55045397988816,0
+"BCA","Medulla","ExcludedAstrocyteImmune",6,4029,0.766984799602823,0
+"BCA","Medulla","ExcludedAstrocyteNeurons",12,9533,0.653226346733251,0
+"BCA","Medulla","ExcludedAstrocyteOligos",870,15101,0.521725511615651,0
+"BCA","Medulla","ExcludedAstrocyteVascular",39,10505,0.56566470350096,0
+"BCA","Medulla","ExcludedImmuneOligos",87,11684,0.568287656170611,0
+"BCA","Medulla","ExcludedNeuronsOligos",254,15160,0.541335331885913,0
+"BCA","Medulla","ExcludedOligosVascular",291,14318,0.548844898214409,0
+"BCA","Medulla","Immune",544,13475,0.567292750615598,0
+"BCA","Medulla","Neurons",2424,18384,0.500419543345552,0
+"BCA","Medulla","Oligos",53155,19955,0.530441956407711,0
+"BCA","Medulla","OligosOligosCycling",18,8012,0.603794815524666,0
+"BCA","Medulla","Vascular",3724,17702,0.510625053309708,0
+"BCA","Midbraindorsal","AstrocytesAstrocyte",5327,16740,0.454990066403406,0
+"BCA","Midbraindorsal","Blood",44,6868,0.646754661585338,0
+"BCA","Midbraindorsal","Ependymal",367,14979,0.477283213465317,0
+"BCA","Midbraindorsal","ExcludedAstrocyteImmune",46,9765,0.573997689472709,0
+"BCA","Midbraindorsal","ExcludedAstrocyteNeurons",115,13730,0.541984734511559,0
+"BCA","Midbraindorsal","ExcludedAstrocyteOligos",609,14597,0.52442794444807,0
+"BCA","Midbraindorsal","ExcludedAstrocyteVascular",86,12037,0.537056592953686,0
+"BCA","Midbraindorsal","ExcludedImmuneOligos",76,11716,0.584557295662963,0
+"BCA","Midbraindorsal","ExcludedNeuronsOligos",461,15826,0.554379169330074,0
+"BCA","Midbraindorsal","ExcludedOligosVascular",105,12719,0.556461754153609,0
+"BCA","Midbraindorsal","Immune",1764,15505,0.542214358885425,0
+"BCA","Midbraindorsal","Neurons",8559,19363,0.519068106518313,0
+"BCA","Midbraindorsal","Oligos",17613,18437,0.522123788137196,0
+"BCA","Midbraindorsal","OligosOligosCycling",57,10248,0.503694670130477,0
+"BCA","Midbraindorsal","Vascular",3708,17572,0.507470355809655,0
+"BCA","Midbrainventral","AstrocytesAstrocyte",3488,15403,0.446095135164783,0
+"BCA","Midbrainventral","AstrocytesBergmannglia",16,4832,0.653826793663135,0
+"BCA","Midbrainventral","Blood",177,9695,0.500855096797078,0
+"BCA","Midbrainventral","Ependymal",196,13647,0.482368754176052,0
+"BCA","Midbrainventral","ExcludedAstrocyteImmune",30,7814,0.607006078449364,0
+"BCA","Midbrainventral","ExcludedAstrocyteNeurons",54,12172,0.55820850690718,0
+"BCA","Midbrainventral","ExcludedAstrocyteOligos",645,14384,0.514629431737754,0
+"BCA","Midbrainventral","ExcludedAstrocyteVascular",59,10649,0.541937704225869,0
+"BCA","Midbrainventral","ExcludedImmuneOligos",91,11351,0.560575383232324,0
+"BCA","Midbrainventral","ExcludedNeuronsOligos",450,15415,0.528967695593838,0
+"BCA","Midbrainventral","ExcludedOligosVascular",128,12296,0.544283801188166,0
+"BCA","Midbrainventral","Immune",1344,14414,0.52307094946037,0
+"BCA","Midbrainventral","Neurons",5348,18578,0.503584108581529,0
+"BCA","Midbrainventral","NeuronsNeuronsCycling",2,642,0.967756431141246,0
+"BCA","Midbrainventral","Oligos",22951,18333,0.514614595806016,0
+"BCA","Midbrainventral","OligosOligosCycling",46,8958,0.526035754527499,0
+"BCA","Midbrainventral","Vascular",2502,16361,0.493636280305367,0
+"BCA","Olfactory","AstrocytesAstrocyte",2932,16183,0.488081506534682,0
+"BCA","Olfactory","AstrocytesBergmannglia",23,6656,0.624335809151345,0
+"BCA","Olfactory","AstrocytesOEC",2094,15455,0.49662370690317,0
+"BCA","Olfactory","Blood",70,7443,0.593220707839663,0
+"BCA","Olfactory","Ependymal",15,7093,0.663713569694229,0
+"BCA","Olfactory","ExcludedAstrocyteImmune",13,7252,0.682016945621725,0
+"BCA","Olfactory","ExcludedAstrocyteNeurons",43,11080,0.569004947348856,0
+"BCA","Olfactory","ExcludedAstrocyteOligos",20,9258,0.65893816320291,0
+"BCA","Olfactory","ExcludedAstrocyteVascular",19,8851,0.637462840143172,0
+"BCA","Olfactory","ExcludedImmuneNeurons",9,8158,0.698326762214812,0
+"BCA","Olfactory","ExcludedImmuneOligos",6,5426,0.767140332876556,0
+"BCA","Olfactory","ExcludedNeuronsOligos",7,8109,0.725160304526626,0
+"BCA","Olfactory","ExcludedOligosVascular",5,5684,0.791761031812982,0
+"BCA","Olfactory","Immune",1079,14739,0.562259965571952,0
+"BCA","Olfactory","Neurons",11675,18805,0.463223858680656,0
+"BCA","Olfactory","NeuronsNeuronsCycling",66,11354,0.597776692139396,0
+"BCA","Olfactory","Oligos",1388,15450,0.53963288684307,0
+"BCA","Olfactory","OligosOligosCycling",9,5738,0.683493942196871,0
+"BCA","Olfactory","Vascular",1163,16023,0.514001638605599,0
+"BCA","Pons","AstrocytesAstrocyte",2082,15348,0.452219694931412,0
+"BCA","Pons","Blood",50,7935,0.620487114483684,0
+"BCA","Pons","Ependymal",195,14281,0.475693003612381,0
+"BCA","Pons","EpendymalTtr",46,10545,0.585254129581089,0
+"BCA","Pons","ExcludedAstrocyteImmune",10,5225,0.725174680802208,0
+"BCA","Pons","ExcludedAstrocyteNeurons",12,9399,0.644048797694835,0
+"BCA","Pons","ExcludedAstrocyteOligos",969,15147,0.519715299870205,0
+"BCA","Pons","ExcludedAstrocyteVascular",45,10950,0.552971196460575,0
+"BCA","Pons","ExcludedImmuneOligos",82,11854,0.56618169580096,0
+"BCA","Pons","ExcludedNeuronsOligos",279,15490,0.555174179238667,0
+"BCA","Pons","ExcludedOligosVascular",316,14377,0.539589282187643,0
+"BCA","Pons","Immune",640,14011,0.553639877814343,0
+"BCA","Pons","Neurons",2947,18768,0.524798527093608,0
+"BCA","Pons","Oligos",51484,19807,0.526125013324732,0
+"BCA","Pons","OligosOligosCycling",22,8568,0.586971096684534,0
+"BCA","Pons","Vascular",3454,17513,0.506375240946627,0
+"BCA","Spinalcord","AstrocytesAstrocyte",1182,14399,0.48850854007221,0
+"BCA","Spinalcord","AstrocytesOEC",2,1735,0.892568583192491,0
+"BCA","Spinalcord","Blood",600,11779,0.511109710697011,0
+"BCA","Spinalcord","Ependymal",505,15395,0.527370809565178,0
+"BCA","Spinalcord","ExcludedAstrocyteImmune",24,8458,0.643325817925705,0
+"BCA","Spinalcord","ExcludedAstrocyteNeurons",10,7313,0.700591185899143,0
+"BCA","Spinalcord","ExcludedAstrocyteOligos",839,15072,0.539427780487067,0
+"BCA","Spinalcord","ExcludedAstrocyteVascular",82,11664,0.558326475642068,0
+"BCA","Spinalcord","ExcludedImmuneOligos",137,12755,0.593114204147491,0
+"BCA","Spinalcord","ExcludedNeuronsOligos",92,13042,0.595760957584629,0
+"BCA","Spinalcord","ExcludedOligosVascular",379,14561,0.579925519816371,0
+"BCA","Spinalcord","Immune",1010,14305,0.590996582590151,0
+"BCA","Spinalcord","Neurons",2885,17760,0.525059035772198,0
+"BCA","Spinalcord","NeuronsNeuronsCycling",4,1735,0.811390281197228,0
+"BCA","Spinalcord","Oligos",24616,18884,0.559185865517381,0
+"BCA","Spinalcord","OligosOligosCycling",107,11618,0.526982724621588,0
+"BCA","Spinalcord","Vascular",4752,17593,0.557251227856143,0
+"BCA","Striatumdorsal","AstrocytesAstrocyte",1200,14525,0.493930949408524,0
+"BCA","Striatumdorsal","AstrocytesBergmannglia",57,8952,0.55811096343207,0
+"BCA","Striatumdorsal","Blood",113,7912,0.591784102066757,0
+"BCA","Striatumdorsal","Ependymal",87,12538,0.550744474382394,0
+"BCA","Striatumdorsal","ExcludedAstrocyteImmune",4,3960,0.827026649410977,0
+"BCA","Striatumdorsal","ExcludedAstrocyteNeurons",49,11377,0.553390538707707,0
+"BCA","Striatumdorsal","ExcludedAstrocyteOligos",26,9625,0.628232547002801,0
+"BCA","Striatumdorsal","ExcludedAstrocyteVascular",3,3142,0.854847697667452,0
+"BCA","Striatumdorsal","ExcludedBloodVascular",5,6101,0.778962593353173,0
+"BCA","Striatumdorsal","ExcludedImmuneOligos",8,6139,0.742041489419517,0
+"BCA","Striatumdorsal","ExcludedNeuronsOligos",46,11696,0.606849996284078,0
+"BCA","Striatumdorsal","ExcludedOligosVascular",5,6219,0.780233946680989,0
+"BCA","Striatumdorsal","Immune",655,13366,0.552462849331371,0
+"BCA","Striatumdorsal","Neurons",6733,17980,0.513366900499123,0
+"BCA","Striatumdorsal","NeuronsNeuronsCycling",251,12798,0.582409253417928,0
+"BCA","Striatumdorsal","Oligos",1929,15565,0.545998833231311,0
+"BCA","Striatumdorsal","OligosOligosCycling",8,5602,0.705020241778385,0
+"BCA","Striatumdorsal","Vascular",594,14330,0.513336430850867,0
+"BCA","Striatumventral","AstrocytesAstrocyte",1716,14953,0.457195412741114,0
+"BCA","Striatumventral","AstrocytesBergmannglia",19,5925,0.630192744582132,0
+"BCA","Striatumventral","AstrocytesOEC",2,1279,0.920199257334224,0
+"BCA","Striatumventral","Blood",369,11273,0.48561395914662,0
+"BCA","Striatumventral","Ependymal",123,13284,0.512080199183015,0
+"BCA","Striatumventral","ExcludedAstrocyteImmune",29,8177,0.608611459012159,0
+"BCA","Striatumventral","ExcludedAstrocyteNeurons",251,14013,0.502146766857582,0
+"BCA","Striatumventral","ExcludedAstrocyteOligos",117,11902,0.544090401655431,0
+"BCA","Striatumventral","ExcludedAstrocyteVascular",32,9265,0.57600380162178,0
+"BCA","Striatumventral","ExcludedBloodVascular",5,6691,0.772771019597995,0
+"BCA","Striatumventral","ExcludedImmuneNeurons",7,7663,0.719486968965928,0
+"BCA","Striatumventral","ExcludedImmuneOligos",46,9650,0.602477964662746,0
+"BCA","Striatumventral","ExcludedNeuronsOligos",192,13884,0.545641792801171,0
+"BCA","Striatumventral","ExcludedOligosVascular",30,9479,0.612436569950501,0
+"BCA","Striatumventral","Immune",1459,15191,0.509695639343063,0
+"BCA","Striatumventral","Neurons",10674,18870,0.470191345958558,0
+"BCA","Striatumventral","NeuronsNeuronsCycling",334,12761,0.55177920530722,0
+"BCA","Striatumventral","Oligos",3835,16238,0.504037480585609,0
+"BCA","Striatumventral","OligosOligosCycling",32,8575,0.557612869191847,0
+"BCA","Striatumventral","Vascular",999,15283,0.506219079162403,0
+"BCA","Sympathetic","AstrocytesOEC",2,2200,0.905756013538608,0
+"BCA","Sympathetic","Blood",2,992,0.912505705943248,0
+"BCA","Sympathetic","Neurons",1309,16838,0.674535193200155,0
+"BCA","Sympathetic","PeripheralGliaSatelliteglia",126,12267,0.604642235893534,0
+"BCA","Sympathetic","PeripheralGliaSatellitegliaCycling",3,3913,0.852140721459511,0
+"BCA","Sympathetic","Vascular",47,11756,0.635902464228343,0
+"BCA","Thalamus","AstrocytesAstrocyte",2038,15241,0.441197769421148,0
+"BCA","Thalamus","AstrocytesBergmannglia",2,1587,0.902533589700997,0
+"BCA","Thalamus","Blood",261,11192,0.492381775338415,0
+"BCA","Thalamus","Ependymal",158,13612,0.500763969189624,0
+"BCA","Thalamus","EpendymalTtr",50,10783,0.635419161818342,0
+"BCA","Thalamus","ExcludedAstrocyteImmune",55,9792,0.564687801432702,0
+"BCA","Thalamus","ExcludedAstrocyteNeurons",50,11757,0.545745350585384,0
+"BCA","Thalamus","ExcludedAstrocyteOligos",518,13901,0.504956438004626,0
+"BCA","Thalamus","ExcludedAstrocyteVascular",151,12359,0.492452382670205,0
+"BCA","Thalamus","ExcludedImmuneNeurons",2,2691,0.924799617750336,0
+"BCA","Thalamus","ExcludedImmuneOligos",153,12051,0.536267298309884,0
+"BCA","Thalamus","ExcludedNeuronsOligos",392,15171,0.528783837166018,0
+"BCA","Thalamus","ExcludedOligosVascular",188,12927,0.530710300169269,0
+"BCA","Thalamus","Immune",1334,14881,0.521355085014539,0
+"BCA","Thalamus","Neurons",8448,19204,0.501253218961566,0
+"BCA","Thalamus","NeuronsNeuronsCycling",7,3869,0.748343403263934,0
+"BCA","Thalamus","Oligos",19682,18307,0.500123070935801,0
+"BCA","Thalamus","OligosOligosCycling",58,10099,0.528272736730175,0
+"BCA","Thalamus","Vascular",3133,16541,0.480747750822571,0
+"MCA","Bladder","Basal epithelial cell",344,14165,0.62499607272656,0
+"MCA","Bladder","Dendritic cell_Cd74 high",38,7219,0.660574028726375,0
+"MCA","Bladder","Dendritic cell_Lyz2 high",41,7995,0.640402275116858,0
+"MCA","Bladder","Endothelial cell_Ly6c1 high",36,7768,0.627224132440735,0
+"MCA","Bladder","Epithelial cell_Gm23935 high",64,9410,0.600079386524007,0
+"MCA","Bladder","Epithelial cell_Upk3a high",224,11221,0.604115026468547,0
+"MCA","Bladder","Macrophage_Pf4 high",44,7835,0.607556244811263,0
+"MCA","Bladder","Mesenchymal stromal cell",357,13158,0.583322206226015,0
+"MCA","Bladder","NK cell",30,6514,0.676496225384504,0
+"MCA","Bladder","Smooth muscle cell",131,10704,0.565604233511446,0
+"MCA","Bladder","Stromal cell_Car3 high",236,12844,0.579342480953562,0
+"MCA","Bladder","Stromal cell_Dpt high",717,15075,0.582620836307264,0
+"MCA","Bladder","Umbrella cell",75,13369,0.703494154398242,0
+"MCA","Bladder","Urothelium",316,14830,0.644635825684174,0
+"MCA","Bladder","Vascular endothelial cell",80,9988,0.617160046867832,0
+"MCA","Bladder","Vascular smooth muscle progenitor cell",13,4489,0.677572861895995,0
+"MCA","BoneMarrow","B cell",388,11272,0.558375304436674,0
+"MCA","BoneMarrow","B cell_Igkc high",47,6473,0.581925814060352,0
+"MCA","BoneMarrow","Basophil",426,11373,0.562818520253228,0
+"MCA","BoneMarrow","Dendritic cell_H2-Eb1 high",4,2255,0.82256224702659,0
+"MCA","BoneMarrow","Dendritic cell_Siglech high",11,3961,0.705263533943498,0
+"MCA","BoneMarrow","Eosinophil progenitor cell",182,10087,0.579733382328925,0
+"MCA","BoneMarrow","Erythroblast",11,4205,0.675386090174215,0
+"MCA","BoneMarrow","Erythrocyte progenitor_Car1 high",809,11918,0.586384647990209,0
+"MCA","BoneMarrow","Erythrocyte progenitor_Hba-a1 high",264,10765,0.597943963415287,0
+"MCA","BoneMarrow","Hematopoietic stem progenitor cell",16,5742,0.689508640151154,0
+"MCA","BoneMarrow","Macrophage_C1qc high",210,10431,0.535375715292444,0
+"MCA","BoneMarrow","Macrophage_Cd74 high",199,10267,0.567036589325655,0
+"MCA","BoneMarrow","Macrophage_Ms4a6c high",26,7062,0.645860921346698,0
+"MCA","BoneMarrow","Macrophage_S100a4 high",118,9370,0.557772435470882,0
+"MCA","BoneMarrow","Mast cell",4,2141,0.818111762857304,0
+"MCA","BoneMarrow","Megakaryocyte progenitor cell",431,11506,0.567927061568124,0
+"MCA","BoneMarrow","Monocyte progenitor",2374,12548,0.597214492382366,0
+"MCA","BoneMarrow","Monocyte progenitor cell_Ctsg high",2223,12535,0.618330910619374,0
+"MCA","BoneMarrow","Monocyte progenitor cell_Prtn3 high",2627,12413,0.57257283741592,0
+"MCA","BoneMarrow","Monocyte_Mif high",2,3749,0.900693148256306,0
+"MCA","BoneMarrow","Monocyte_Prtn3 high",29,5919,0.594259834387446,0
+"MCA","BoneMarrow","Multipotent progenitor_Ctla2a high",1596,12515,0.567376359543252,0
+"MCA","BoneMarrow","Neutrophil progenitor",101,6731,0.565980059022264,0
+"MCA","BoneMarrow","Neutrophil_Cebpe high",18,5030,0.645628749362818,0
+"MCA","BoneMarrow","Neutrophil_Fcnb high",2371,12365,0.568896171111503,0
+"MCA","BoneMarrow","Neutrophil_Ighg1 high",3330,12238,0.51462796672977,0
+"MCA","BoneMarrow","Neutrophil_Lcn2 high",4647,12487,0.548912149462228,0
+"MCA","BoneMarrow","Neutrophil_Ltf high",1559,12005,0.546381253572459,0
+"MCA","BoneMarrow","Neutrophil_Mmp8 high",74,6400,0.589305875657869,0
+"MCA","BoneMarrow","Neutrophil_Ngp high",2462,11819,0.493454622154595,0
+"MCA","BoneMarrow","Neutrophil_Retnlg high",336,9685,0.54325973451295,0
+"MCA","BoneMarrow","Pre-pro B cell",68,8330,0.546634937662394,0
+"MCA","BoneMarrow","T cell_Ms4a4b high",30,6042,0.621594541920991,0
+"MCA","Brain","Astrocyte_Atp1b2 high",77,9024,0.558630893597843,0
+"MCA","Brain","Astrocyte_Mfe8 high",104,10166,0.538155935124496,0
+"MCA","Brain","Astrocyte_Pla2g7 high",18,3506,0.684821971480559,0
+"MCA","Brain","Astroglial cell",30,7930,0.593136208749269,0
+"MCA","Brain","Granulocyte_Il33 high",16,3453,0.684843866062023,0
+"MCA","Brain","Granulocyte_Ngp high",10,2020,0.739285173351826,0
+"MCA","Brain","Hypothalamic ependymal cell",9,5399,0.705020420553192,0
+"MCA","Brain","Macrophage_Klf2 high",88,10043,0.552261181615133,0
+"MCA","Brain","Macrophage_Lyz2 high",36,7963,0.60974252137671,0
+"MCA","Brain","Microglia",338,11808,0.534975387421816,0
+"MCA","Brain","Myelinating oligodendrocyte",3150,15886,0.460608204848823,0
+"MCA","Brain","Neuron",48,8470,0.517630225396075,0
+"MCA","Brain","Oligodendrocyte precursor cell",72,10734,0.493162162665443,0
+"MCA","Brain","Pan-GABAergic",26,7586,0.602260237814207,0
+"MCA","Brain","Schwann cell",16,6283,0.671557045299485,0
+"MCA","EmbryonicMesenchyme","Dendritic Cell",66,8159,0.60385675441228,0
+"MCA","EmbryonicMesenchyme","Endothelial Cell",14,4086,0.679681446060467,0
+"MCA","EmbryonicMesenchyme","Erythroblast_Hbb-bs high",137,8078,0.583699107226512,0
+"MCA","EmbryonicMesenchyme","Erythroblast_Mt2 high",19,5709,0.700899164954272,0
+"MCA","EmbryonicMesenchyme","Erythroid Cell",174,7904,0.543596995793244,0
+"MCA","EmbryonicMesenchyme","Ganglion cell_Cartpt high",35,6108,0.602911409688938,0
+"MCA","EmbryonicMesenchyme","Ganglion cell_Gal high",24,5527,0.638311028809704,0
+"MCA","EmbryonicMesenchyme","Ganglion cell_Mapt high",110,8898,0.525071245292536,0
+"MCA","EmbryonicMesenchyme","Lymphoid progenitor cell",32,6303,0.662107445948921,0
+"MCA","EmbryonicMesenchyme","Macrophage",295,11442,0.551094375952427,0
+"MCA","EmbryonicMesenchyme","Muscle",228,10609,0.587861470191412,0
+"MCA","EmbryonicMesenchyme","Neuron_Igfbpl1 high",213,10391,0.502755178459295,0
+"MCA","EmbryonicMesenchyme","Neuron_Isl1 high",80,7944,0.567823708216127,0
+"MCA","EmbryonicMesenchyme","Neuron_Npy high",72,7934,0.536416588666074,0
+"MCA","EmbryonicMesenchyme","Neuronal Progenitors",27,4919,0.59451875351852,0
+"MCA","EmbryonicMesenchyme","Neutrophil",11,2989,0.723129021209299,0
+"MCA","EmbryonicMesenchyme","Progenitor cell_Ptprcap high",10,3687,0.743996858324581,0
+"MCA","EmbryonicMesenchyme","Reproductive tissues",17,4485,0.667248229358309,0
+"MCA","EmbryonicMesenchyme","Skeletal Muscle",70,7042,0.630264858512731,0
+"MCA","EmbryonicMesenchyme","Stromal Cell Cldn11 high",28,4966,0.602495223630901,0
+"MCA","EmbryonicMesenchyme","Stromal Cell_Agtr2 high",191,10514,0.533624816912365,0
+"MCA","EmbryonicMesenchyme","Stromal Cell_Cnmd high",112,9096,0.574484750063208,0
+"MCA","EmbryonicMesenchyme","Stromal cell_Cxcl12 high",561,13390,0.509380936496902,0
+"MCA","EmbryonicMesenchyme","Stromal Cell_Cxcl14 high",145,9977,0.544990028856308,0
+"MCA","EmbryonicMesenchyme","Stromal Cell_fabp7 high",100,8823,0.548237874399355,0
+"MCA","EmbryonicStemCells","ES_2C_like",24,5366,0.68763500506286,0
+"MCA","EmbryonicStemCells","ES_Actb_high",8061,19947,0.588444278168924,0
+"MCA","EmbryonicStemCells","ES_Nedd4_high",341,12964,0.619123040311462,0
+"MCA","EmbryonicStemCells","ES_Rps28_high",1565,15651,0.63905064200476,0
+"MCA","FetalBrain","Dopaminergic neurons",256,10421,0.462048350316355,0
+"MCA","FetalBrain","Ependymal cell",71,8267,0.507238913600839,0
+"MCA","FetalBrain","Erythroblast_Hbb-bh1 high",159,8059,0.531456953975561,0
+"MCA","FetalBrain","Erythrocyte_Hbb-bt high",95,6638,0.535896313862053,0
+"MCA","FetalBrain","Granule neurons",556,12885,0.513746053861804,0
+"MCA","FetalBrain","Hippocampus neurons_Asic4 high",228,10575,0.473637665046273,0
+"MCA","FetalBrain","Macrophage",66,8169,0.555972751619649,0
+"MCA","FetalBrain","Microglia",79,8474,0.550756166933639,0
+"MCA","FetalBrain","Neural progenitor cell",325,11250,0.453572730703419,0
+"MCA","FetalBrain","Neuron_Kpna2 high",259,10945,0.465257713110688,0
+"MCA","FetalBrain","Neuron_tuba1c high",292,11477,0.529017687474151,0
+"MCA","FetalBrain","Postmitotic neurons_Lhx9 high",207,10330,0.534758416258283,0
+"MCA","FetalBrain","Purkinje cell",76,7895,0.509308876099137,0
+"MCA","FetalBrain","Pyramidal neuron cell",348,11556,0.531257436906418,0
+"MCA","FetalBrain","Radial glia_Fabp7 high",332,11727,0.456845444773476,0
+"MCA","FetalBrain","Radial glia_Vim high",290,11345,0.531953935851584,0
+"MCA","FetalBrain","Schwann cell",633,12825,0.445941264151935,0
+"MCA","FetalBrain","Stromal cell",97,9161,0.513325266445578,0
+"MCA","FetalIntestine","Acinar cell",74,8574,0.62460714961021,0
+"MCA","FetalIntestine","Endothelial cell",28,5451,0.625773594156002,0
+"MCA","FetalIntestine","Enteric muscle cell",353,11850,0.553969295331684,0
+"MCA","FetalIntestine","Enterocyte progenitor",868,14121,0.534044007537294,0
+"MCA","FetalIntestine","Enterocyte progenitor_late_Ccnb1 high",163,10189,0.547363726270201,0
+"MCA","FetalIntestine","Enterocyte progenitor_late_Ube2c high",602,12917,0.531971730340166,0
+"MCA","FetalIntestine","Enteroendocrine",22,5322,0.616892722930863,0
+"MCA","FetalIntestine","Epithelial cell_Bex1 high",190,11356,0.572032320069902,0
+"MCA","FetalIntestine","Epithelial cell_Lgals2 high",334,12343,0.574617703936757,0
+"MCA","FetalIntestine","Erythroblast_Car2 high",42,6032,0.610729868198211,0
+"MCA","FetalIntestine","Erythroblast_Hbb-bs high",215,10894,0.554813319925916,0
+"MCA","FetalIntestine","Erythroblast_Hbb-y high",118,9125,0.567958820101069,0
+"MCA","FetalIntestine","Macrophage_Lyz2 high",285,11338,0.575586637786202,0
+"MCA","FetalIntestine","Macrophage_Pf4 high",231,11041,0.557161655597548,0
+"MCA","FetalIntestine","Neuronal cell_Fabp7 high",448,12261,0.560985291938133,0
+"MCA","FetalIntestine","Neuronal Cells_Rtn1 high",152,10140,0.553924954123122,0
+"MCA","FetalIntestine","Stromal cell_Adamdec1 high",1317,14663,0.531178628856518,0
+"MCA","FetalIntestine","Stromal cell_Stmn2 high",360,12256,0.544897818225698,0
+"MCA","FetalIntestine","Stromal cell_Upk3b high",194,10903,0.546562015700346,0
+"MCA","FetalIntestine","T cell",80,8508,0.597625086835237,0
+"MCA","FetalLiver","B cell",22,5044,0.624581213356673,0
+"MCA","FetalLiver","Dendritic cell",154,9162,0.5553666506662,0
+"MCA","FetalLiver","Erythroblast_Hba-a2 high",83,6359,0.573309039456905,0
+"MCA","FetalLiver","Erythroblast_Klf1 high",1763,12938,0.560803657317605,0
+"MCA","FetalLiver","Hepatocyte_Afp high",52,7017,0.609467836804071,0
+"MCA","FetalLiver","Macrophage",76,7722,0.5645249292494,0
+"MCA","FetalLiver","Mast cell_Mcpt8 high",42,6302,0.588405449869898,0
+"MCA","FetalLiver","Megakaryocyte",23,5240,0.621444804889317,0
+"MCA","FetalLiver","Neutrophil_Elane high",249,9914,0.554409237686018,0
+"MCA","FetalLiver","Neutrophil_Ngp high",61,5844,0.560795804648412,0
+"MCA","FetalLiver","Stem and progenitor cell",174,9828,0.560849887814495,0
+"MCA","FetalLung","Epithelial cell_Aldh1a2_high",90,8619,0.597852354809635,0
+"MCA","FetalLung","Epithelial cell_Sftpc high",825,13652,0.582955736659495,0
+"MCA","FetalLung","Erythroblast_Hba-x high",239,10431,0.578796635729664,0
+"MCA","FetalLung","Erythroblast_Hbb-bs high",293,10798,0.572026891868514,0
+"MCA","FetalLung","Erythroblast_Mt2 high",254,9906,0.593410877742116,0
+"MCA","FetalLung","Erythroblast_Mt2&Mt1 high",149,8855,0.619321048050977,0
+"MCA","FetalLung","Macrophage_Lyz2 high",200,9849,0.605054033663764,0
+"MCA","FetalLung","Macrophage_Pf4high",126,9032,0.597159921095406,0
+"MCA","FetalLung","Neutrophil_Gm5483 high",96,7574,0.601377889350501,0
+"MCA","FetalLung","Neutrophil_S100a8 high",155,9991,0.598031647874486,0
+"MCA","FetalLung","Smooth muscle cell",370,11611,0.569254357530756,0
+"MCA","FetalLung","Stromal cell_Ankfy1 high",2389,15479,0.568369860010714,0
+"MCA","FetalLung","Stromal cell_Ptn high",1267,14439,0.559352291529092,0
+"MCA","FetalStomach","Acinar cell_Ctrb1 high",238,10600,0.595540502620428,0
+"MCA","FetalStomach","Acinar cell_Spp1 high",335,11540,0.574393830875242,0
+"MCA","FetalStomach","Endocrine cell",228,11205,0.514078127539041,0
+"MCA","FetalStomach","Endocrine progenitor cell",51,6536,0.583253463209549,0
+"MCA","FetalStomach","Epithelial cell",495,12815,0.541578466559158,0
+"MCA","FetalStomach","Erythroblast_Car2 high",235,9027,0.575582455237334,0
+"MCA","FetalStomach","Erythroblast_Hba-x HIGH",378,10682,0.505090093474181,0
+"MCA","FetalStomach","Erythroblast_Hbb-bs high",689,12957,0.503324391613285,0
+"MCA","FetalStomach","Erythroblast_Klf1 high",350,10670,0.573887985772493,0
+"MCA","FetalStomach","Erythroblast_Snca high",350,10176,0.50749622327675,0
+"MCA","FetalStomach","Hepatocyte-Like Cell",13,3208,0.694292231201014,0
+"MCA","FetalStomach","Immunocyte_Lyz2 high",183,9719,0.564992929773321,0
+"MCA","FetalStomach","Macrophage",250,10708,0.536724660300863,0
+"MCA","FetalStomach","Mast cell",203,10044,0.571030507605908,0
+"MCA","FetalStomach","Muscle cell",214,10273,0.543460077180165,0
+"MCA","FetalStomach","Neuron",93,8277,0.553011215625647,0
+"MCA","FetalStomach","Neutrophil",81,7052,0.585268840289003,0
+"MCA","FetalStomach","Progenitor cell",289,11427,0.534166346500559,0
+"MCA","FetalStomach","Stomach cell_Kazald1 high",284,10976,0.523097464102609,0
+"MCA","FetalStomach","Stromal cell_Cdkn1c high",525,12828,0.5226179158719,0
+"MCA","FetalStomach","Stromal cell_Dcn high",708,13232,0.517020553189441,0
+"MCA","Kidney","Adipocyte",2,1107,0.919622253399148,0
+"MCA","Kidney","B cell",21,4221,0.658356716152701,0
+"MCA","Kidney","Dendritic cell_Ccr7 high",53,5517,0.645708711795932,0
+"MCA","Kidney","Dendritic cell_Cst3 high",36,5265,0.687496178470763,0
+"MCA","Kidney","Distal collecting duct principal cell_Cldn4 high",96,7862,0.575102752788708,0
+"MCA","Kidney","Distal collecting duct principal cell_Hsd11b2 high",89,8038,0.579777763215088,0
+"MCA","Kidney","Distal convoluted tubule_Pvalb high",353,10790,0.579443933653694,0
+"MCA","Kidney","Distal convoluted tubule_S100g high",201,9502,0.568883636249043,0
+"MCA","Kidney","Endothelial cell",79,8018,0.580025790495217,0
+"MCA","Kidney","Epithelial cell_Cryab high",72,7575,0.581568041924317,0
+"MCA","Kidney","Fenestrated endothelial cell_Plvap high",117,8711,0.545091276104258,0
+"MCA","Kidney","Fenestrated endothelial cell_Tm4sf1 high",75,7188,0.584737125538224,0
+"MCA","Kidney","Glomerular epithelial cell_Aldh1a2 high",2,638,0.916890925338719,1.29853972142637e-286
+"MCA","Kidney","Intercalated cells of collecting duct_Aqp6 high",270,10361,0.562444269084094,0
+"MCA","Kidney","Intercalated cells of collecting duct_Slc26a4 high",265,10361,0.55925345521446,0
+"MCA","Kidney","Macrophage_Ccl4 high",193,9625,0.563344332564513,0
+"MCA","Kidney","Macrophage_Lyz2 high",62,6297,0.58774247666692,0
+"MCA","Kidney","Metanephric mesenchyme",3,2247,0.875326878815127,0
+"MCA","Kidney","Neutrophil progenitor_S100a8 high",13,2992,0.676030141681295,0
+"MCA","Kidney","Proximal tubule brush border cell",960,11999,0.560972981848059,0
+"MCA","Kidney","Proximal tubule cell_Cyp4a14 high",165,8822,0.568884911776337,0
+"MCA","Kidney","Proximal tubule cell_Osgin1 high",263,10658,0.556446067192303,0
+"MCA","Kidney","S1 proximal tubule cells",275,10312,0.563807751713487,0
+"MCA","Kidney","S3 proximal tubule cells",255,9975,0.573202252467685,0
+"MCA","Kidney","Stromal cell_Ankrd1 high",23,4449,0.640185183380604,0
+"MCA","Kidney","Stromal cell_Cxcl10 high",35,5340,0.631015223511671,0
+"MCA","Kidney","Stromal cell_Dcn high",63,7005,0.609267999412551,0
+"MCA","Kidney","Stromal cell_Mgp high",32,5153,0.628423487842611,0
+"MCA","Kidney","Stromal cell_Ptgds high",79,8090,0.59367854619573,0
+"MCA","Kidney","T cell",72,7376,0.592936890833086,0
+"MCA","Kidney","Thick ascending limb of the loop of Henle",418,11172,0.56729426131711,0
+"MCA","Kidney","Ureteric epithelium",41,6069,0.665053290296422,0
+"MCA","Liver","B cell_Fcmr high",97,8963,0.563777173669374,0
+"MCA","Liver","B cell_Jchain high",43,7075,0.599444441625229,0
+"MCA","Liver","Dendritic cell_Cst3 high",422,11749,0.550619149327635,0
+"MCA","Liver","Dendritic cell_Siglech high",90,8902,0.553017428798087,0
+"MCA","Liver","Endothelial cell",1196,13338,0.506170906378327,0
+"MCA","Liver","Epithelia cell_Spp1 high",99,8803,0.544967290584694,0
+"MCA","Liver","Epithelial cell",15,4561,0.676081101514525,0
+"MCA","Liver","Erythroblast_Hbb-bs high",555,12225,0.517978220387237,0
+"MCA","Liver","Erythroblast_Hbb-bt high",62,6547,0.563468002491565,0
+"MCA","Liver","Granulocyte",194,10125,0.527530350714337,0
+"MCA","Liver","Hepatocyte_Fabp1 high",149,7706,0.568730699202605,0
+"MCA","Liver","Hepatocyte_mt-Nd4 high",16,3228,0.676433053580947,0
+"MCA","Liver","Kuppfer cell",1046,13060,0.545570415633673,0
+"MCA","Liver","Macrophage_Chil3 high",191,10115,0.543036994377802,0
+"MCA","Liver","Neutrophil_Ngp high",14,3441,0.660369741750733,0
+"MCA","Liver","Pericentral hepatocytes",119,9721,0.567174655184355,0
+"MCA","Liver","Periportal hepatocyte",26,6304,0.65655117329949,0
+"MCA","Liver","Stromal cell",18,4891,0.65892803640973,0
+"MCA","Liver","T cell_Gzma high",114,9260,0.536984908344313,0
+"MCA","Liver","T cell_Trbc2 high",219,10762,0.530788891769485,0
+"MCA","Lung","Alveolar bipotent progenitor",32,6701,0.640252682459307,0
+"MCA","Lung","Alveolar macrophage_Ear2 high",499,13094,0.53697498429593,0
+"MCA","Lung","Alveolar macrophage_Pclaf high",36,7201,0.616601507417906,0
+"MCA","Lung","AT1 Cell",163,10832,0.499388259634279,0
+"MCA","Lung","AT2 Cell",2020,15606,0.532959389805552,0
+"MCA","Lung","B Cell",698,13129,0.560031304256311,0
+"MCA","Lung","Basophil",14,2701,0.719353853458922,0
+"MCA","Lung","Ciliated cell",108,11387,0.532387025802476,0
+"MCA","Lung","Clara Cell",165,11152,0.577871426813151,0
+"MCA","Lung","Conventional dendritic cell_Gngt2 high",161,9416,0.571290456066717,0
+"MCA","Lung","Conventional dendritic cell_H2-M2 high",21,4464,0.700146011930951,0
+"MCA","Lung","Conventional dendritic cell_Mgl2 high",161,9782,0.615213959779602,0
+"MCA","Lung","Conventional dendritic cell_Tubb5 high",30,6603,0.659513572702901,0
+"MCA","Lung","Dendritic cell_Naaa high",186,10548,0.615547054682247,0
+"MCA","Lung","Dividing cells",44,8631,0.600331345038567,0
+"MCA","Lung","Dividing dendritic cells",33,6824,0.655364713744449,0
+"MCA","Lung","Dividing T cells",53,8064,0.62265653008752,0
+"MCA","Lung","Endothelial cell_Kdr high",104,9331,0.519384120919124,0
+"MCA","Lung","Endothelial cell_Tmem100 high",143,10768,0.504534398994859,0
+"MCA","Lung","Endothelial cells_Vwf high",74,8908,0.565670481968958,0
+"MCA","Lung","Eosinophil granulocyte",265,9783,0.555148722850342,0
+"MCA","Lung","Ig−producing B cell",30,5734,0.658679184121448,0
+"MCA","Lung","Interstitial macrophage",224,11168,0.564443045230532,0
+"MCA","Lung","Monocyte progenitor cell",13,5185,0.715982614521881,0
+"MCA","Lung","Neutrophil granulocyte",70,6398,0.590459260133623,0
+"MCA","Lung","NK Cell",275,11321,0.534821489907863,0
+"MCA","Lung","Nuocyte",151,9891,0.571185916293626,0
+"MCA","Lung","Plasmacytoid dendritic cell",295,11116,0.570395110351512,0
+"MCA","Lung","Stromal cell_Acta2 high",62,7930,0.574866880017529,0
+"MCA","Lung","Stromal cell_Dcn high",183,11772,0.570211723384622,0
+"MCA","Lung","Stromal cell_Inmt high",167,11546,0.540906593062496,0
+"MCA","Lung","T Cell_Cd8b1 high",460,11998,0.622959864333446,0
+"MCA","MammaryGlandInvolution","B cell_Cd79a high",177,8486,0.653797999612433,0
+"MCA","MammaryGlandInvolution","B cell_Jchain high",195,8567,0.590153480029962,0
+"MCA","MammaryGlandInvolution","Dendritic cell_Ccl22 high",94,6741,0.641915821063926,0
+"MCA","MammaryGlandInvolution","Dendritic cell_Il1b high",74,5863,0.656952639199535,0
+"MCA","MammaryGlandInvolution","Dendritic cell_Siglech high",25,3880,0.690326866167444,0
+"MCA","MammaryGlandInvolution","Endothelial cell_Aqp1 high",55,6232,0.64557873854681,0
+"MCA","MammaryGlandInvolution","Endothelial cell_Fabp4 high",150,9331,0.580219632973798,0
+"MCA","MammaryGlandInvolution","Endothelial cell_Fabp4&Aqp1 high",16,3981,0.710072547217512,0
+"MCA","MammaryGlandInvolution","Endothelial cell_Glycam1 high",45,5397,0.636759233343649,0
+"MCA","MammaryGlandInvolution","Luminal cell",171,9721,0.596869317052484,0
+"MCA","MammaryGlandInvolution","Macrophage_Apoe high",140,8337,0.600742398964998,0
+"MCA","MammaryGlandInvolution","Macrophage_Pf4 high",292,10065,0.585386694275526,0
+"MCA","MammaryGlandInvolution","Macrophage_Plbd1 high",97,7263,0.642769227345554,0
+"MCA","MammaryGlandInvolution","Macrophage_Retnla high",163,8720,0.614513016535122,0
+"MCA","MammaryGlandInvolution","Mast cell",11,2621,0.719977501561206,0
+"MCA","MammaryGlandInvolution","Muscle cell_Inmt high",71,7128,0.605109048602729,0
+"MCA","MammaryGlandInvolution","Muscle cell_Pi16 high",296,10916,0.579272597532307,0
+"MCA","MammaryGlandInvolution","NK cell_Cd8b1 high",635,11026,0.669157466120323,0
+"MCA","MammaryGlandInvolution","NK cell_Gzma high",55,5796,0.660303710471028,0
+"MCA","MammaryGlandInvolution","Secretory alveoli cell_Csn2 high",79,8422,0.612166961202988,0
+"MCA","MammaryGlandInvolution","Secretory alveoli cell_Trf high",938,12879,0.604396032260009,0
+"MCA","MammaryGlandInvolution","Stromal cell",780,12570,0.561005403065142,0
+"MCA","MammaryGlandInvolution","T cell_Icos high",80,6662,0.647499675191487,0
+"MCA","MammaryGlandInvolution","T cell_Pclaf high",182,9339,0.599816157711575,0
+"MCA","MammaryGlandLactation","Adiocyte cell",244,4931,0.640284899698034,0
+"MCA","MammaryGlandLactation","B cell_Igkv6-15 high",207,3951,0.671986147704735,0
+"MCA","MammaryGlandLactation","B cell_Igkv6-23 high",90,2490,0.697985472504949,0
+"MCA","MammaryGlandLactation","B cell_Jchain high",554,7466,0.589542969747549,0
+"MCA","MammaryGlandLactation","Dendritic cell",236,4125,0.663818732411557,0
+"MCA","MammaryGlandLactation","Macrophage_C1qb high",212,3771,0.679516107809414,0
+"MCA","MammaryGlandLactation","Macrophage_Cd74 high",196,5781,0.615040603829791,0
+"MCA","MammaryGlandLactation","Muscel cell",79,2323,0.700074036940014,0
+"MCA","MammaryGlandLactation","Muscle  cell",276,4486,0.667268946974588,0
+"MCA","MammaryGlandLactation","Muscle cell",46,3050,0.651904602113574,0
+"MCA","MammaryGlandLactation","Natural kill cell",204,4403,0.649328585803427,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell",43,1229,0.79700237072812,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Actb high",170,3335,0.678232393632436,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Apod high",136,3705,0.650824485573272,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Atf3 high",127,3230,0.670692775873629,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_AW112010 high",81,2576,0.691848107270566,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Bckdha high",159,4150,0.628899412812656,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Ccng1 high",120,4366,0.624422077999644,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Cd63 high",83,2589,0.675693458809134,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Cd83_high",44,1842,0.701413129771801,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Cfd high",309,4655,0.65667622814488,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Cgrrf1 high",234,4964,0.6228629352279,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Cide&Wfdc3&Wap high",300,4094,0.686860746917479,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Cidea high",329,4951,0.6433391169075,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Cidea&Elovl5 high",238,3606,0.689469660458082,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Cidea&Fth1&Wfdc3 high",159,2867,0.730606641958583,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Clpx high",95,1843,0.751208905949127,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Clu high",272,3790,0.678053348759807,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Cnp high",62,2165,0.708548226033389,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Crip1 high",57,1927,0.73093501060107,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Cyb561 high",40,1636,0.731298630331874,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Dnajb1 high",212,4271,0.639279784575267,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Ehf high",92,2952,0.666287410663084,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Fcer1g high",68,2165,0.711999663730036,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Fth1 high",347,4272,0.693214194593698,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Fth1&Cib1 high",325,3892,0.692503834721493,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Fth1&Wfdc3 high",345,4203,0.671440204024333,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Gadd45b high",82,3291,0.647423914955823,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Ggnbp2 high",100,3019,0.666307827612448,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Gm1673 high",171,3964,0.645597389084611,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Gpx3 high",203,4093,0.658432033205169,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Hes1 high",174,4194,0.634661805729247,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Hsp90aa1 high",131,3473,0.660275292144438,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Hspa1a high",219,4228,0.64563036136412,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Ifi27l2a_high",45,1800,0.721864929088595,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Ifi35 high",157,3830,0.647382160740138,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Igfbp7 high",76,2458,0.697065374440513,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Ighm1 high",110,3323,0.663939201853164,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Igkv1-110 high",189,3533,0.687535645052271,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Igkv1-110&P4hb high",175,3417,0.693274157398451,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Igkv1-117 high",151,3166,0.684847897838278,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Iglc1 high",250,4157,0.670128543304647,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Igsf8 high",80,2765,0.67375646052896,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Kif5b high",147,4114,0.639100756853221,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Klf2 high",174,3801,0.665460827187971,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Klf6 high",169,4447,0.633706112661841,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Lgals1 high",61,1932,0.723125810799885,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Ly6a high",91,2530,0.700014584015487,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Lyz2 high",136,3285,0.670785112695631,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Malat1 high",191,4008,0.669112574303445,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Mat2a high",91,2923,0.673272859758409,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Mrpl15 high",67,2349,0.676849012926451,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_mt-Tp high",171,4348,0.637459003889881,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Naxd high",87,2624,0.684643795434244,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Pa2g4 high",134,3748,0.642127520740723,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Ppp2r3a high",27,1304,0.765518470585307,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Prkcsh high",106,2576,0.699428504432804,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Ptpn18 high",149,3739,0.649738737582412,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Rac2 high",74,2578,0.685061583157068,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Retnla high",149,3223,0.684560409201115,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Rgs2_high_Rora high",114,3038,0.677530653847977,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Rhob high",66,2340,0.691522896791445,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_S100a11 high",53,1865,0.719741171621077,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Sars high",86,2826,0.660728083539188,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Sh3bgrl3 high",117,3046,0.67869948768726,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Snord118 high",114,3296,0.653390060535971,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Spp1 high",201,4470,0.631008575705071,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Srsf11 high",109,3562,0.650850653610108,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Taf1d high",57,2187,0.693684769670621,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Thy1 high",58,1969,0.713034792320171,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Tmem123 high",81,2229,0.718744206749533,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Tmsb10 high",168,3350,0.683344265072071,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Tubb5 high",50,2280,0.698452966798653,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Tyrobp high",84,2477,0.692547010003209,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Ube2e3 high",111,3156,0.666701782629174,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Wfdc17 high",215,4476,0.636725227386109,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Wfdc3&Wap high",299,3838,0.68397844736941,0
+"MCA","MammaryGlandLactation","Secretory alveoli cell_Yif1b1 high",130,3908,0.639180625541474,0
+"MCA","MammaryGlandLactation","Stromal cell",148,5469,0.584063267986018,0
+"MCA","MammaryGlandLactation","T cell",149,4474,0.629389100871988,0
+"MCA","MammaryGlandPregnancy","B cell_Jchain high",5,4058,0.803360050188586,0
+"MCA","MammaryGlandPregnancy","B cell_Ly6d high",607,14266,0.579371269100711,0
+"MCA","MammaryGlandPregnancy","Dendritic cell_Cd209a high",61,9326,0.638821937101765,0
+"MCA","MammaryGlandPregnancy","Dendritic cell_Fscn1 high",41,8116,0.671643902767996,0
+"MCA","MammaryGlandPregnancy","Ductal luminal cell",2109,16744,0.562530708774194,0
+"MCA","MammaryGlandPregnancy","Endothelial cell",19,6715,0.66249357812389,0
+"MCA","MammaryGlandPregnancy","Luminal cell",16,9356,0.692421172906525,0
+"MCA","MammaryGlandPregnancy","Macrophage",91,11606,0.606499366661967,0
+"MCA","MammaryGlandPregnancy","Mast cell",6,2650,0.776770623519031,0
+"MCA","MammaryGlandPregnancy","Myeloid leukocyte",140,11323,0.60278256810938,0
+"MCA","MammaryGlandPregnancy","Myoepithelial cell",94,12439,0.626008788432606,0
+"MCA","MammaryGlandPregnancy","Neuron",4,1644,0.811719225594215,0
+"MCA","MammaryGlandPregnancy","NK cell_Gzma high",143,11387,0.582099697964786,0
+"MCA","MammaryGlandPregnancy","NK_cells_Gzmb high",183,13896,0.604443245236911,0
+"MCA","MammaryGlandPregnancy","Secretory alveoli cell",234,15063,0.593244889242523,0
+"MCA","MammaryGlandPregnancy","Stromal cell",196,14008,0.591130680452398,0
+"MCA","MammaryGlandPregnancy","T cell",954,15524,0.599359266717823,0
+"MCA","MammaryGlandPregnancy","T cell_Grwd1 high",6,2447,0.805054916474154,0
+"MCA","MammaryGlandVirgin","B cell_Cd79a&Fcer2a high",248,9679,0.640078098351395,0
+"MCA","MammaryGlandVirgin","B cell_Cd79a&Iglc2 high",742,11301,0.579321457080474,0
+"MCA","MammaryGlandVirgin","B cell_Jchain high",9,2919,0.747369560568541,0
+"MCA","MammaryGlandVirgin","Dendritic cell_Cst3 high",111,8541,0.635762298881509,0
+"MCA","MammaryGlandVirgin","Dendritic cell_Fscn1 high",224,9894,0.607570692163688,0
+"MCA","MammaryGlandVirgin","Dendritic cell_Siglech high",68,7068,0.620305035415565,0
+"MCA","MammaryGlandVirgin","Dividing cell",265,10900,0.578409974681699,0
+"MCA","MammaryGlandVirgin","Luminal cell_Krt19 high",160,10808,0.593095803699697,0
+"MCA","MammaryGlandVirgin","Luminal progenitor",56,8610,0.638947259430044,0
+"MCA","MammaryGlandVirgin","Macrophage_C1qc high",106,8892,0.589655184762987,0
+"MCA","MammaryGlandVirgin","Macrophage_Lyz1 high",199,9948,0.59192069768747,0
+"MCA","MammaryGlandVirgin","NK cell",104,8100,0.603847083603103,0
+"MCA","MammaryGlandVirgin","Stem and progenitor cell",145,9065,0.594052825897518,0
+"MCA","MammaryGlandVirgin","Stromal cell_Col3a1 high",464,12040,0.547316220562812,0
+"MCA","MammaryGlandVirgin","Stromal cell_Pi16 high",93,9574,0.600383165837261,0
+"MCA","MammaryGlandVirgin","T cell_Cd8b1 high",1788,12386,0.614606744231601,0
+"MCA","MammaryGlandVirgin","T cell_Ly6c2 high",441,10659,0.636536754693466,0
+"MCA","MammaryGlandVirgin","T-cells_Ctla4 high",157,9419,0.600055993229406,0
+"MCA","MesenchymalStemCells","B cell",441,11800,0.557720123662619,0
+"MCA","MesenchymalStemCells","Basophils",244,11053,0.568741670628242,0
+"MCA","MesenchymalStemCells","CXCL12-abundant reticular cell",66,8633,0.579363117616399,0
+"MCA","MesenchymalStemCells","Endothelial cells",84,8974,0.574894754796166,0
+"MCA","MesenchymalStemCells","Endothelial cells_Ly6c1 high",184,10772,0.541540425818335,0
+"MCA","MesenchymalStemCells","Eosinophils",86,8992,0.578794774056598,0
+"MCA","MesenchymalStemCells","Erythroblast",657,12138,0.556191668181295,0
+"MCA","MesenchymalStemCells","Erythrocytes",929,12346,0.611997356838366,0
+"MCA","MesenchymalStemCells","Fibroblasts",333,11230,0.604688834758153,0
+"MCA","MesenchymalStemCells","Granulocyte monocyte progenitors",42,7539,0.644774934831224,0
+"MCA","MesenchymalStemCells","Megakaryocyte",56,8103,0.587587959369592,0
+"MCA","MesenchymalStemCells","Mesenchymal stem cell_Cxcl1 high",3697,14679,0.595552031543578,0
+"MCA","MesenchymalStemCells","Mesenchymal stem cell_Cxcl10 high",58,8201,0.641712286434951,0
+"MCA","MesenchymalStemCells","Mesenchymal stem cell_Tmsb10 high",3564,14443,0.579227345770526,0
+"MCA","MesenchymalStemCells","MSC",82,9122,0.572355122079263,0
+"MCA","MesenchymalStemCells","Myoblast",62,7915,0.569381218769052,0
+"MCA","MesenchymalStemCells","Neutrophil",461,11741,0.530365549508021,0
+"MCA","MesenchymalStemCells","Osteoblasts",470,11622,0.544142272272849,0
+"MCA","MesenchymalStemCells","Proerythrocytes",1522,13632,0.607334837158653,0
+"MCA","MesenchymalStemCells","Stromal cell_Cnmd high",210,11163,0.582868416122169,0
+"MCA","MesenchymalStemCells","Stromal cell_Col10a1_high",65,8416,0.618419349219712,0
+"MCA","MesenchymalStemCells","Stromal cell_Col1a2 high",1371,13358,0.579645006275443,0
+"MCA","MesenchymalStemCellsPrimary","B cell",441,12839,0.557065757714379,0
+"MCA","MesenchymalStemCellsPrimary","Basophils",244,11943,0.570302278074276,0
+"MCA","MesenchymalStemCellsPrimary","CXCL12-abundant reticular cell",66,9113,0.580173218478713,0
+"MCA","MesenchymalStemCellsPrimary","Endothelial cells",84,9520,0.572168080493578,0
+"MCA","MesenchymalStemCellsPrimary","Endothelial cells_Ly6c1 high",184,11547,0.53893151411633,0
+"MCA","MesenchymalStemCellsPrimary","Eosinophils",86,9506,0.584327471560758,0
+"MCA","MesenchymalStemCellsPrimary","Erythroblast",657,13252,0.55537749926366,0
+"MCA","MesenchymalStemCellsPrimary","Erythrocytes",929,13456,0.614229331072718,0
+"MCA","MesenchymalStemCellsPrimary","Fibroblasts",333,12030,0.603633056058483,0
+"MCA","MesenchymalStemCellsPrimary","Granulocyte monocyte progenitors",42,7929,0.64986631066483,0
+"MCA","MesenchymalStemCellsPrimary","Megakaryocyte",56,8581,0.586762185596022,0
+"MCA","MesenchymalStemCellsPrimary","MSC",82,9660,0.571643385448661,0
+"MCA","MesenchymalStemCellsPrimary","Myoblast",62,8326,0.568604390634835,0
+"MCA","MesenchymalStemCellsPrimary","Neutrophil",461,12831,0.535723375892799,0
+"MCA","MesenchymalStemCellsPrimary","Osteoblasts",470,12611,0.544028914173045,0
+"MCA","MesenchymalStemCellsPrimary","Proerythrocytes",1522,15321,0.605600416269447,0
+"MCA","MesenchymalStemCellsPrimary","Stromal cell_Cnmd high",210,12037,0.590879864798519,0
+"MCA","MesenchymalStemCellsPrimary","Stromal cell_Col10a1_high",65,8896,0.622876616944374,0
+"MCA","MesenchymalStemCellsPrimary","Stromal cell_Col1a2 high",1371,14922,0.577890969115739,0
+"MCA","Muscle","B cell_Jchain high",22,4578,0.656766351074911,0
+"MCA","Muscle","B cell_Vpreb3 high",102,8555,0.562616470584786,0
+"MCA","Muscle","Dendritic cell",10,2395,0.727126897988828,0
+"MCA","Muscle","Endothelial cell",27,4458,0.619449572921235,0
+"MCA","Muscle","Erythroblast_Car1 high",31,7983,0.685135435767339,0
+"MCA","Muscle","Erythroblast_Car2 high",181,7694,0.543554691349991,0
+"MCA","Muscle","Granulocyte monocyte progenitor cell",83,8840,0.606421093823074,0
+"MCA","Muscle","Macrophage_Ms4a6c high",138,9461,0.574175664346179,0
+"MCA","Muscle","Macrophage_Retnla high",25,5395,0.654835826471582,0
+"MCA","Muscle","Neutrophil_Camp high",171,7915,0.558110248142094,0
+"MCA","Muscle","Neutrophil_Prg2 high",8,2178,0.726584202600118,0
+"MCA","Muscle","Neutrophil_Retnlg high",137,6524,0.593452513496736,0
+"MCA","Muscle","Stromal cell",23,5276,0.644242243184904,0
+"MCA","Muscle","T cell",9,2238,0.747341882100137,0
+"MCA","NeonatalCalvaria","Dividng cell",184,10631,0.584022116439954,0
+"MCA","NeonatalCalvaria","Endothelial cell",74,8075,0.612939937576435,0
+"MCA","NeonatalCalvaria","Erythroblast",51,5535,0.636234623804217,0
+"MCA","NeonatalCalvaria","Granulocyte monocyte progenitor cell",41,6428,0.656304299593765,0
+"MCA","NeonatalCalvaria","Mast cell",98,8269,0.596416592802629,0
+"MCA","NeonatalCalvaria","Muscle cell_Actc1 high",32,5109,0.707615834945501,0
+"MCA","NeonatalCalvaria","Muscle cell_Junb high",437,11864,0.602172024788874,0
+"MCA","NeonatalCalvaria","Muscle cell_Myl9 high",28,5124,0.64703703376742,0
+"MCA","NeonatalCalvaria","Neuron",156,11484,0.542295807751582,0
+"MCA","NeonatalCalvaria","Neutrophil",165,8696,0.61224310971985,0
+"MCA","NeonatalCalvaria","Osteoblast ",1120,14084,0.607620602656042,0
+"MCA","NeonatalCalvaria","Preosteoblast/Osteoblast/Bone cell/Cartilage cell",5205,16912,0.563518608058107,0
+"MCA","NeonatalCalvaria","Stromal cell_Col1a1 high",323,11448,0.595558793794051,0
+"MCA","NeonatalCalvaria","Stromal cell_Col3a1 high",50,6755,0.618123342967516,0
+"MCA","NeonatalHeart","Atrial cardiomyocyte",140,9306,0.609986912334669,0
+"MCA","NeonatalHeart","Atrial cardiomyocyte_Acta2 high",131,8975,0.563366911590047,0
+"MCA","NeonatalHeart","Cardiac muscle cell",54,6172,0.631523969289231,0
+"MCA","NeonatalHeart","Dendritic cell",49,6540,0.62580810751733,0
+"MCA","NeonatalHeart","Dividing cell",71,8547,0.58712848878738,0
+"MCA","NeonatalHeart","Endothelial cell_Eln high",15,4256,0.682497347423082,0
+"MCA","NeonatalHeart","Endothelial cell_Enpp2 high",32,6427,0.623834192267042,0
+"MCA","NeonatalHeart","Endothelial cell_Igfbp5 high",349,12178,0.555240348048798,0
+"MCA","NeonatalHeart","Epithelial cell",20,5079,0.652771886926857,0
+"MCA","NeonatalHeart","Left ventricle cardiomyocyte_Myl2 high",1139,14471,0.573093158611689,0
+"MCA","NeonatalHeart","Macrophage",102,8358,0.581794926649207,0
+"MCA","NeonatalHeart","Neutrophil_Ngp high",36,5040,0.639322617783331,0
+"MCA","NeonatalHeart","Neutrophil_Retnlg high",29,4692,0.631155418561828,0
+"MCA","NeonatalHeart","Smooth muscle cell",178,9749,0.570388357622285,0
+"MCA","NeonatalHeart","Stromal cell_Col3a1 high",912,13919,0.53419230965145,0
+"MCA","NeonatalHeart","Stromal cell_Fmod high",295,11483,0.552559474264706,0
+"MCA","NeonatalHeart","Vascular endothelial cell",315,11468,0.569820106870942,0
+"MCA","NeonatalHeart","Ventricle cardiomyocyte_Kcnj8 high",81,7727,0.568342736598803,0
+"MCA","NeonatalMuscle","Adipocyte ",64,8254,0.645826385022562,0
+"MCA","NeonatalMuscle","B cell",99,9423,0.603939097985111,0
+"MCA","NeonatalMuscle","Brown adipose tissue",102,9443,0.672218413958632,0
+"MCA","NeonatalMuscle","Chondrocyte",165,10182,0.621080381578816,0
+"MCA","NeonatalMuscle","Dendritic cell",39,6238,0.642655135967923,0
+"MCA","NeonatalMuscle","Endothelial cell",152,10352,0.577764654864371,0
+"MCA","NeonatalMuscle","Epithelial cell",290,11630,0.578789687549546,0
+"MCA","NeonatalMuscle","Erythroblast_Car2 high",68,8831,0.655061022904474,0
+"MCA","NeonatalMuscle","Erythroblast_Hbb-bs high",66,5651,0.621049098155254,0
+"MCA","NeonatalMuscle","Glial cell",60,7954,0.576786301362011,0
+"MCA","NeonatalMuscle","Macrophage_Lyz2 high",136,9352,0.590558512116879,0
+"MCA","NeonatalMuscle","Macrophage_Pf4 high",111,9666,0.589138150479655,0
+"MCA","NeonatalMuscle","Mast cell",88,8556,0.600048499036073,0
+"MCA","NeonatalMuscle","Mesenchymal cell",634,12846,0.604066943155536,0
+"MCA","NeonatalMuscle","Muscle cell_Actc1 high",217,10233,0.6253122586715,0
+"MCA","NeonatalMuscle","Muscle cell_Myl9 high",228,11121,0.564375479678721,0
+"MCA","NeonatalMuscle","Neuron",97,9266,0.569442692851079,0
+"MCA","NeonatalMuscle","Neutrophil_Elane high",92,9895,0.636411656128702,0
+"MCA","NeonatalMuscle","Neutrophil_Hmox1 high",250,8196,0.607986354765919,0
+"MCA","NeonatalMuscle","Neutrophil_Stfa3 high",613,11373,0.563110030817992,0
+"MCA","NeonatalMuscle","Skeletal muscle cell_Myl1 high",101,8800,0.616832273494497,0
+"MCA","NeonatalMuscle","Skeletal muscle cell_Tnnc2 high",35,4921,0.674509360981195,0
+"MCA","NeonatalMuscle","Smooth muscle cell_Mylk high",93,8774,0.598986158270555,0
+"MCA","NeonatalMuscle","Stromal cell_Ndn high",814,13427,0.565051460932389,0
+"MCA","NeonatalMuscle","Stromal cell_Spp1 high",15,4724,0.711298808152372,0
+"MCA","NeonatalMuscle","T cell",59,7780,0.635925300606532,0
+"MCA","NeonatalMuscle","Tendon stem/progenitor cell",185,10457,0.59130661927071,0
+"MCA","NeonatalRib","B cell",179,10854,0.586847469921586,0
+"MCA","NeonatalRib","Cartilage cell_Clu high",380,12377,0.616329607227568,0
+"MCA","NeonatalRib","Cartilage cell_Col2a1 high",568,12079,0.573854159046002,0
+"MCA","NeonatalRib","Cartilage cell_Cxcl14 high",534,12965,0.599873530058857,0
+"MCA","NeonatalRib","Cartilage cell_Ppa1 high",351,11822,0.592303991236448,0
+"MCA","NeonatalRib","Cartilage cell_Prg4 high",390,12095,0.577513505331871,0
+"MCA","NeonatalRib","Dividing cell",67,7501,0.607130197754482,0
+"MCA","NeonatalRib","Endothelial cell",40,6459,0.62960952097105,0
+"MCA","NeonatalRib","Erythroblast_Hba-a1 high",184,10667,0.583480009716426,0
+"MCA","NeonatalRib","Erythroblast_Ttr high",1410,14312,0.576599948178035,0
+"MCA","NeonatalRib","Granulocyte",124,9927,0.604281857933915,0
+"MCA","NeonatalRib","Macrophage_C1qc high",72,8401,0.611005534304209,0
+"MCA","NeonatalRib","Macrophage_Ctss high",213,10342,0.583071150978501,0
+"MCA","NeonatalRib","Muscle cell",93,9130,0.654770236949812,0
+"MCA","NeonatalRib","Muscle cell_Acta2 high",42,6595,0.628266738382325,0
+"MCA","NeonatalRib","Muscle cell_Actc1 high",24,4604,0.696231681285211,0
+"MCA","NeonatalRib","Neuron_Mpz high",33,6388,0.634096823425619,0
+"MCA","NeonatalRib","Neuron_Stmn2 high",73,9151,0.567992122090641,0
+"MCA","NeonatalRib","Neutrophil",674,11869,0.571399162493088,0
+"MCA","NeonatalRib","Neutrophil_Elane high",82,8636,0.617621553096122,0
+"MCA","NeonatalRib","Oligodendrocyte",26,6074,0.634070643906675,0
+"MCA","NeonatalRib","Osteoblast",73,8364,0.61117947311375,0
+"MCA","NeonatalRib","Osteoclast",22,4725,0.664493447608182,0
+"MCA","NeonatalRib","Stromal cell_Acta1 high",372,12701,0.577186507967347,0
+"MCA","NeonatalRib","Stromal cell_Tnmd high",236,11297,0.601094416461998,0
+"MCA","NeonatalSkin","Adipocyte",368,12411,0.586419584406165,0
+"MCA","NeonatalSkin","Brown adipose tissue_Cidea high",288,11859,0.638912798599851,0
+"MCA","NeonatalSkin","Brown adipose tissue_Cox8b high",27,5674,0.686677801422957,0
+"MCA","NeonatalSkin","Brown adipose tissue_mt-Nd5 high",16,3642,0.725072578977959,0
+"MCA","NeonatalSkin","Dividing cell",73,8469,0.613962039582278,0
+"MCA","NeonatalSkin","Endothelial cell",110,9132,0.619990690814403,0
+"MCA","NeonatalSkin","Epithelial cell",71,8102,0.594939308393352,0
+"MCA","NeonatalSkin","Erythroblast",241,10127,0.581987465612797,0
+"MCA","NeonatalSkin","Keratinocyte",61,8399,0.650408441363243,0
+"MCA","NeonatalSkin","Lymphatic vessel endothelial cell",14,5144,0.713025593000539,0
+"MCA","NeonatalSkin","Macrophage_Cd74 high",18,3799,0.714535403875201,0
+"MCA","NeonatalSkin","Macrophage_Lyz2 high",17,3764,0.716722704782012,0
+"MCA","NeonatalSkin","Macrophage_Pf4 high",27,5993,0.664397162908886,0
+"MCA","NeonatalSkin","Mast cell",73,7637,0.61062845401336,0
+"MCA","NeonatalSkin","Melanocyte",34,5885,0.645426513166373,0
+"MCA","NeonatalSkin","Muscle cell_Actc1 high",45,6110,0.672578569001002,0
+"MCA","NeonatalSkin","Muscle cell_Lrrc15 high",96,8640,0.622723657844545,0
+"MCA","NeonatalSkin","Neuron",36,5821,0.623466572836669,0
+"MCA","NeonatalSkin","Neutrophil",12,2342,0.711908675028922,0
+"MCA","NeonatalSkin","Osteoblast_Dlk1 high",365,12104,0.593176007486601,0
+"MCA","NeonatalSkin","Osteoblast_Ppic high",897,13913,0.583073416547316,0
+"MCA","NeonatalSkin","Smooth muscle cell_Acta2 high",60,7209,0.616123992312602,0
+"MCA","NeonatalSkin","Stromal cell_Akr1c18 high",61,7858,0.626551184752191,0
+"MCA","NeonatalSkin","Stromal cell_Gas6 high",382,11971,0.608204280717927,0
+"MCA","Ovary","Cumulus cell_Car14 high",602,13330,0.546943600697577,0
+"MCA","Ovary","Cumulus cell_Nupr1 high",274,11520,0.567338460356864,0
+"MCA","Ovary","Cumulus cell_Ube2c high",407,13214,0.559658794602812,0
+"MCA","Ovary","Granulosa cell_Inhba high",236,11478,0.569979329789269,0
+"MCA","Ovary","Granulosa cell_Kctd14 high",241,11395,0.566863765336378,0
+"MCA","Ovary","Large luteal cell",206,12145,0.596630057144009,0
+"MCA","Ovary","luteal cells",523,14290,0.633175284866815,0
+"MCA","Ovary","Macrophage_Lyz2 high",87,9279,0.598025165004791,0
+"MCA","Ovary","Marcrophage_Cd74 high",35,4973,0.618190874689298,0
+"MCA","Ovary","Ovarian surface epithelium cell",84,9696,0.576818814156453,0
+"MCA","Ovary","Ovarian vascular surface endothelium cell",153,11529,0.569780944125017,0
+"MCA","Ovary","Small luteal cell",558,12063,0.546529910349099,0
+"MCA","Ovary","Stroma cell",484,13178,0.530338547645169,0
+"MCA","Ovary","Thecal cell",473,12808,0.557501761796358,0
+"MCA","Pancreas","Acinar cell",260,10061,0.629410081575635,0
+"MCA","Pancreas","B cell",16,3946,0.67828450194814,0
+"MCA","Pancreas","Dendrtic cell",34,7210,0.660392622574534,0
+"MCA","Pancreas","Dividing cell",12,7316,0.681775065353384,0
+"MCA","Pancreas","Ductal cell",381,14327,0.492958350805855,0
+"MCA","Pancreas","Endocrine cell",82,10789,0.562473570442967,0
+"MCA","Pancreas","Endothelial cell_Fabp4 high",562,13723,0.480540299984165,0
+"MCA","Pancreas","Endothelial cell_Lrg1 high",21,5940,0.65157455389093,0
+"MCA","Pancreas","Endothelial cell_Tm4sf1 high",136,10563,0.511296488649869,0
+"MCA","Pancreas","Erythroblast_Hbb-bt high",49,6487,0.569462815140344,0
+"MCA","Pancreas","Erythroblast_Igkc high",768,13558,0.488466563735735,0
+"MCA","Pancreas","Glial cell",11,3242,0.677573859140798,0
+"MCA","Pancreas","Granulocyte",13,3302,0.685514047385273,0
+"MCA","Pancreas","Macrophage",265,12060,0.506028036224025,0
+"MCA","Pancreas","Macrophage_Ly6c2 high",13,4183,0.690118618661739,0
+"MCA","Pancreas","Smooth muscle cell_Acta2 high",21,5456,0.619763662269552,0
+"MCA","Pancreas","Smooth muscle cell_Rgs5 high",24,5410,0.589117025988504,0
+"MCA","Pancreas","Stromal cell_Fn1 high",188,12013,0.547290178465555,0
+"MCA","Pancreas","Stromal cell_Mfap4 high",71,10150,0.590704729551949,0
+"MCA","Pancreas","Stromal cell_Smoc2 high",519,14129,0.503633920583139,0
+"MCA","Pancreas","T cell",39,6344,0.62810476637491,0
+"MCA","Pancreas","β-cell",125,11776,0.519960913170339,0
+"MCA","PeripheralBlood","B cell_Igha high",32,5134,0.638218804705833,0
+"MCA","PeripheralBlood","B cell_Ly6d high",1113,10732,0.58911517296281,0
+"MCA","PeripheralBlood","B cell_Rps27rt high",77,6984,0.612564425698403,0
+"MCA","PeripheralBlood","B cell_Vpreb3 high",189,9252,0.552942557022751,0
+"MCA","PeripheralBlood","Basophil_Prss34 high",58,6919,0.616786366915332,0
+"MCA","PeripheralBlood","Dendritic cell_Siglech high",74,7380,0.594381422592598,0
+"MCA","PeripheralBlood","Erythroblast_Car2 high",92,8666,0.619844936579169,0
+"MCA","PeripheralBlood","Erythroblast_Hba-a2 high",22,3023,0.687973367688698,0
+"MCA","PeripheralBlood","Macrophage_Ace high",297,9355,0.553877068719753,0
+"MCA","PeripheralBlood","Macrophage_Flt-ps1 high",32,5748,0.648876251412276,0
+"MCA","PeripheralBlood","Macrophage_Pf4 high",41,4307,0.599851943455173,0
+"MCA","PeripheralBlood","Macrophage_S100a4 high",810,10588,0.568965052492081,0
+"MCA","PeripheralBlood","Monocyte_Elane high",226,9891,0.598194371214572,0
+"MCA","PeripheralBlood","Monocyte_F13a1 high",133,8857,0.60120403007439,0
+"MCA","PeripheralBlood","Neutrophil_Camp high",464,9405,0.538638385046788,0
+"MCA","PeripheralBlood","Neutrophil_Il1b high",406,9362,0.550996990171335,0
+"MCA","PeripheralBlood","Neutrophil_Ltf high",480,8761,0.559865276471145,0
+"MCA","PeripheralBlood","Neutrophil_Retnlg high",542,8685,0.549882981950946,0
+"MCA","PeripheralBlood","NK cell_Gzma high",319,9732,0.561949767856543,0
+"MCA","PeripheralBlood","T cell_Gm14303 high",131,8303,0.649875371763921,0
+"MCA","PeripheralBlood","T cell_Trbc2 high",1557,10959,0.624057867999622,0
+"MCA","Placenta","B cell",35,5149,0.64461723993491,0
+"MCA","Placenta","Basophil",41,5714,0.632413708832645,0
+"MCA","Placenta","Decidual stromal cell",103,9064,0.546093158079347,0
+"MCA","Placenta","Dendritic cell",223,9734,0.577587339591854,0
+"MCA","Placenta","Endodermal cell_Afp high",80,8319,0.594414762689226,0
+"MCA","Placenta","Endothelial cell_Maged2 high",153,9925,0.53169290532042,0
+"MCA","Placenta","Erythroblast_Hbb-y high",76,6482,0.562589757737174,0
+"MCA","Placenta","Granulocyte monocyte progenitors",44,7171,0.62711035641096,0
+"MCA","Placenta","Granulocyte_Neat1 high",40,5246,0.614242654992374,0
+"MCA","Placenta","Granulocyte_S100a9 high",63,6170,0.575060310368306,0
+"MCA","Placenta","HSPC_Lmo2 high",39,7361,0.644116991375463,0
+"MCA","Placenta","Invasive spongiotrophoblast",671,12221,0.539887853799842,0
+"MCA","Placenta","Labyrinthine trophoblast",23,6113,0.664838495184747,0
+"MCA","Placenta","Macrophage_Apoe high",192,10406,0.545742312265231,0
+"MCA","Placenta","Macrophage_Spp1 high",388,11876,0.565217757302205,0
+"MCA","Placenta","Megakaryocyte progenitor cell",21,4963,0.613223028350779,0
+"MCA","Placenta","Monocyte",302,10357,0.54746068000323,0
+"MCA","Placenta","NK cell",64,7026,0.607030781960597,0
+"MCA","Placenta","NKT cell",33,5914,0.635450521944203,0
+"MCA","Placenta","PE lineage cell_Gkn2 high",251,10972,0.538866430929437,0
+"MCA","Placenta","PE lineage cell_S100g high",252,11511,0.527928842089013,0
+"MCA","Placenta","Progenitor trophoblast_Gjb3 high",437,12606,0.588558592581748,0
+"MCA","Placenta","Spiral artery trophoblast giant cells",283,11395,0.592716659746665,0
+"MCA","Placenta","Spongiotrophoblast_Hsd11b2 high",78,9002,0.623714335583362,0
+"MCA","Placenta","Spongiotrophoblast_Phlda2 high",180,10369,0.590811856850547,0
+"MCA","Placenta","Stromal cell",164,10669,0.559842590591008,0
+"MCA","Placenta","Stromal cell_Acta2 high",42,6798,0.602890121260638,0
+"MCA","Placenta","Trophoblast progenitor_Taf7l high",68,6478,0.581313017767285,0
+"MCA","Prostate","Dendritic cell",21,2801,0.656883186449356,0
+"MCA","Prostate","Epithelial cell",68,5671,0.573911361150327,0
+"MCA","Prostate","Glandular epithelium",112,6754,0.565550858279384,0
+"MCA","Prostate","Stromal cell",48,4648,0.581725050468818,0
+"MCA","Prostate","T cell",33,3899,0.611251038293386,0
+"MCA","SmallIntestine","B cell_Ighd high",117,8756,0.627950631184605,0
+"MCA","SmallIntestine","B cell_Igkv12-46 high",94,9294,0.590071378305448,0
+"MCA","SmallIntestine","B cell_Jchain high",1095,12245,0.497670995564668,0
+"MCA","SmallIntestine","B cell_Ms4a1 high",197,10877,0.561496844971369,0
+"MCA","SmallIntestine","Columnar epithelium",267,12001,0.542941032765592,0
+"MCA","SmallIntestine","Dendritic cell_Siglech high",52,7727,0.632389899454553,0
+"MCA","SmallIntestine","Dendrtic cell_Cst3 high",79,8269,0.589192215559571,0
+"MCA","SmallIntestine","Epithelial cell_Kcne3 high",628,12864,0.565302226928602,0
+"MCA","SmallIntestine","Epithelial cell_Sh2d6 high",43,7623,0.598681701423287,0
+"MCA","SmallIntestine","Epithelium of small intestinal villi_Fabp1 high",582,12296,0.583471059662872,0
+"MCA","SmallIntestine","Epithelium of small intestinal villi_Fabp6 high",428,11842,0.562050251880331,0
+"MCA","SmallIntestine","Epithelium of small intestinal villi_Gm23935 high",207,9958,0.538463663405466,0
+"MCA","SmallIntestine","Epithelium of small intestinal villi_mt-Nd1 high",88,7734,0.570901521130519,0
+"MCA","SmallIntestine","Epithelium of small intestinal villi_S100g high",96,8071,0.570077204608823,0
+"MCA","SmallIntestine","Erythroblast",536,11376,0.564863815075203,0
+"MCA","SmallIntestine","Macrophage_Apoe high",154,9477,0.550155917785306,0
+"MCA","SmallIntestine","Macrophage_Cxcl2 high",8,2972,0.761145597597008,0
+"MCA","SmallIntestine","Macrophage_G0s2 high",86,8261,0.536429711280886,0
+"MCA","SmallIntestine","Mast cell",9,4539,0.761152556180988,0
+"MCA","SmallIntestine","Paneth cell",255,11392,0.56358961609386,0
+"MCA","SmallIntestine","S cell_Chgb high",27,7640,0.624506900291873,0
+"MCA","SmallIntestine","S cell_Gip high",26,6416,0.617775713357781,0
+"MCA","SmallIntestine","Stromal cell_Adamdec1 high",25,6028,0.62990585095135,0
+"MCA","SmallIntestine","Stromal cell_Dcn high",23,6574,0.672049397134501,0
+"MCA","SmallIntestine","T cell_Ccl5 high",662,12026,0.554671982626039,0
+"MCA","SmallIntestine","T cell_Cd7 high",609,12428,0.546511482174588,0
+"MCA","SmallIntestine","T cell_Icos high",231,11049,0.551430392123739,0
+"MCA","SmallIntestine","T cell_Ms4a4b high",60,7732,0.625354289217137,0
+"MCA","Spleen","Dendritic cell_S100a4 high",67,7943,0.605616958171598,0
+"MCA","Spleen","Dendritic cell_Siglech high",18,4661,0.672624091393834,0
+"MCA","Spleen","Erythroblast",10,6901,0.73385810899062,0
+"MCA","Spleen","Granulocyte",35,4888,0.609340300057738,0
+"MCA","Spleen","Macrophage",26,5731,0.645074361939887,0
+"MCA","Spleen","Marginal zone B cell",1026,13715,0.544016111638911,0
+"MCA","Spleen","Monocyte",57,7478,0.601050740915984,0
+"MCA","Spleen","Neutrophil",8,3698,0.728140657084679,0
+"MCA","Spleen","NK cell",80,7555,0.578235977058912,0
+"MCA","Spleen","Plasma cell",21,5768,0.682101322305314,0
+"MCA","Spleen","T cell",622,12749,0.553572066356122,0
+"MCA","Stomach","Antral mucous cell",220,11865,0.606947914893981,0
+"MCA","Stomach","Dendritic cell",19,5404,0.72894091008308,0
+"MCA","Stomach","Dividing cell",160,11777,0.64030007938848,0
+"MCA","Stomach","Epithelial cell_Gkn3 high",36,7684,0.649240007695429,0
+"MCA","Stomach","Epithelial cell_Krt20 high",165,10584,0.644107843194064,0
+"MCA","Stomach","Epithelial cell_Pla2g1b high",205,7433,0.600371838352403,0
+"MCA","Stomach","G cell",51,7628,0.601272343068957,0
+"MCA","Stomach","Gastric mucosal cell",47,7067,0.666580761484199,0
+"MCA","Stomach","Macrophage",21,4156,0.69698454673319,0
+"MCA","Stomach","Muscle cell",37,6220,0.634858309387154,0
+"MCA","Stomach","Parietal cell",90,10224,0.679460109141762,0
+"MCA","Stomach","Pit cell_Gm26917 high",89,7999,0.569831024706349,0
+"MCA","Stomach","Pit cell_Ifrd1 high",304,11869,0.649428398985054,0
+"MCA","Stomach","Tuft cell",30,7269,0.64928258980569,0
+"MCA","Testis","Elongating spermatid",4326,20410,0.476853846070189,0
+"MCA","Testis","Erythroblast_Hbb-bs high",119,10147,0.493906559776869,0
+"MCA","Testis","Leydig cell",462,16480,0.513439107502003,0
+"MCA","Testis","Macrophage_Lyz2 high",205,14106,0.514302869614358,0
+"MCA","Testis","Pre-Sertoli cell_Cst9 high",465,14845,0.498776492953475,0
+"MCA","Testis","Pre-Sertoli cell_Ctsl high",99,11563,0.534490330763162,0
+"MCA","Testis","Preleptotene spermatogonia",637,17287,0.513245557079489,0
+"MCA","Testis","Sertoli cell",269,15471,0.497321626582035,0
+"MCA","Testis","Spermatids_1700016P04Rik high",655,15024,0.52122888118887,0
+"MCA","Testis","Spermatids_Cst13 high",830,17356,0.538091391550363,0
+"MCA","Testis","Spermatids_Hmgb4 high",329,13750,0.617302437538191,0
+"MCA","Testis","Spermatids_Tnp1 high",756,16158,0.55618136066312,0
+"MCA","Testis","Spermatocyte_1700001F09Rik high",501,17259,0.583719170245107,0
+"MCA","Testis","Spermatocyte_Cabs1 high",528,14839,0.548645424469252,0
+"MCA","Testis","Spermatocyte_Calm2 high",1059,17523,0.541501201595526,0
+"MCA","Testis","Spermatocyte_Mesp1 high",782,15455,0.542691285066465,0
+"MCA","Testis","Spermatocyte_Slc2a3 high",816,17503,0.568222613195424,0
+"MCA","Testis","Spermatogonia_1700001P01Rik high",987,16749,0.531292654392046,0
+"MCA","Testis","Spermatogonia_Tbc1d23 high",180,14411,0.57144893688286,0
+"MCA","Thymus","abT cell",237,10364,0.481532838643353,0
+"MCA","Thymus","B cell",2261,13294,0.446602808899339,0
+"MCA","Thymus","DPT cell",1012,12444,0.447064466513308,0
+"MCA","Thymus","gdT cell",77,9418,0.560750428910101,0
+"MCA","Thymus","Pre T cell",18,6149,0.634628023222266,0
+"MCA","Thymus","Proliferating thymocyte",403,11462,0.51784189741324,0
+"MCA","Thymus","T cell_Id2 high",26,6138,0.637782758255187,0
+"MCA","Thymus","T cell_Ms4a4b high",255,10893,0.535479833653077,0
+"MCA","TrophoblastStemCells","MEF",854,14486,0.602725556978707,0
+"MCA","TrophoblastStemCells","TS_dif_epithelial",42,7595,0.656757946725485,0
+"MCA","TrophoblastStemCells","TS_Mrp155_high",11,2678,0.709191273616678,0
+"MCA","TrophoblastStemCells","TS_Mrpl12_high",16180,20127,0.55615410496661,0
+"MCA","TrophoblastStemCells","TS_Rps28_high",2402,16721,0.612330779606158,0
+"MCA","Uterus","B cell",16,5832,0.673333295891117,0
+"MCA","Uterus","Dendritic cell",131,9400,0.569186096986099,0
+"MCA","Uterus","Endothelial cell_Cldn5 high",29,6241,0.625448050087811,0
+"MCA","Uterus","Endothelial cell_Tm4sf1 high",236,11261,0.546467720407276,0
+"MCA","Uterus","Glandular epithelium_Ltf high",66,9630,0.621091741052393,0
+"MCA","Uterus","Glandular epithelium_Sprr2f high",187,12937,0.593852991378561,0
+"MCA","Uterus","Granulocyte",76,8949,0.553346283577855,0
+"MCA","Uterus","Keratinocyte",25,6222,0.643886514461453,0
+"MCA","Uterus","Macrophage",247,11671,0.536548679624343,0
+"MCA","Uterus","Monocyte",78,8176,0.565722805056755,0
+"MCA","Uterus","Muscle cell_Mgp high",530,12740,0.529791228149188,0
+"MCA","Uterus","Muscle cell_Pcp4 high",34,6164,0.621456069426124,0
+"MCA","Uterus","NK cell",186,11138,0.544581344548552,0
+"MCA","Uterus","Smooth muscle cell_Rgs5 high",43,6186,0.594718549919639,0
+"MCA","Uterus","Stromal cell_Ccl11 high",489,14223,0.598625901702146,0
+"MCA","Uterus","Stromal cell_Cxcl14 high",445,12469,0.530578769134073,0
+"MCA","Uterus","Stromal cell_Gm23935 high",90,9834,0.590131873863431,0
+"MCA","Uterus","Stromal cell_Has1 high",268,13107,0.584859886829689,0
+"MCA","Uterus","Stromal cell_Hsd11b2 high",563,13271,0.55949848339456,0
+"TM, 10X","Bladder","basal cell of urothelium",266,13730,0.66219214981665,0
+"TM, 10X","Bladder","bladder cell",923,15415,0.64826445863033,0
+"TM, 10X","Bladder","endothelial cell",68,11789,0.653658710621696,0
+"TM, 10X","Bladder","leukocyte",57,12040,0.621864499906806,0
+"TM, 10X","Bladder","mesenchymal cell",1186,15289,0.637969774165035,0
+"TM, 10X","Heart","cardiac muscle cell",83,11836,0.612182457699532,0
+"TM, 10X","Heart","endocardial cell",65,11720,0.612873199057616,0
+"TM, 10X","Heart","endothelial cell",178,12307,0.545590845357497,0
+"TM, 10X","Heart","erythrocyte",55,11208,0.638626922273191,0
+"TM, 10X","Heart","fibroblast",222,13565,0.589471102293053,0
+"TM, 10X","Heart","smooth muscle cell",21,9622,0.667711221209205,0
+"TM, 10X","Kidney","endothelial cell",45,11882,0.578872782023296,0
+"TM, 10X","Kidney","fenestrated cell",345,13711,0.537495220299131,0
+"TM, 10X","Kidney","fibroblast",113,14042,0.585730531276638,0
+"TM, 10X","Kidney","kidney collecting duct cell",72,12121,0.609627940096673,0
+"TM, 10X","Kidney","kidney tubule cell",1921,15616,0.582144801568712,0
+"TM, 10X","Kidney","leukocyte",54,11359,0.58762029646401,0
+"TM, 10X","Kidney","macrophage",181,12751,0.61474580995364,0
+"TM, 10X","Kidney","smooth muscle cell",50,11553,0.635404826848172,0
+"TM, 10X","Liver","endothelial cell",20,8047,0.664457249853477,0
+"TM, 10X","Liver","hepatocyte",1006,13429,0.604958845398941,0
+"TM, 10X","Lung","B cell",205,11362,0.617112479367364,0
+"TM, 10X","Lung","ciliated cell",41,12254,0.652117876274489,0
+"TM, 10X","Lung","Clara cell",5,8719,0.796699892826103,0
+"TM, 10X","Lung","dendritic cell",225,11986,0.635220423218607,0
+"TM, 10X","Lung","endothelial cell",425,13523,0.562496090601347,0
+"TM, 10X","Lung","leukocyte",151,10775,0.5965717962514,0
+"TM, 10X","Lung","macrophage",456,14457,0.607633986887921,0
+"TM, 10X","Lung","mast cell",22,6059,0.739929696781452,0
+"TM, 10X","Lung","mesothelial cell",24,10512,0.680279671806888,0
+"TM, 10X","Lung","monocyte",145,11887,0.67514692495037,0
+"TM, 10X","Lung","natural killer cell",832,13506,0.599768062905017,0
+"TM, 10X","Lung","stromal cell",2534,15583,0.563650030937391,0
+"TM, 10X","Lung","T cell",246,12500,0.604458473360673,0
+"TM, 10X","Lung","type II pneumocyte",89,12476,0.616774285212036,0
+"TM, 10X","Lung","unknown",49,12334,0.571050737482948,0
+"TM, 10X","Mammary","B cell",764,13892,0.561483779202025,0
+"TM, 10X","Mammary","basal cell",393,14162,0.653189864474449,0
+"TM, 10X","Mammary","endothelial cell",251,13414,0.632490272738167,0
+"TM, 10X","Mammary","luminal cell of lactiferous duct",430,14927,0.618795300228289,0
+"TM, 10X","Mammary","macrophage",186,13296,0.616321559363512,0
+"TM, 10X","Mammary","stromal cell",697,14966,0.621454356452627,0
+"TM, 10X","Mammary","T cell",1760,14784,0.58756245509889,0
+"TM, 10X","Marrow","B cell",390,12791,0.611634697109569,0
+"TM, 10X","Marrow","erythrocyte",142,9333,0.652609742553611,0
+"TM, 10X","Marrow","Fraction A pre-pro B cell",63,10166,0.640492221265512,0
+"TM, 10X","Marrow","granulocyte",770,12508,0.605901451205197,0
+"TM, 10X","Marrow","hematopoietic stem cell",1381,14834,0.609793992440555,0
+"TM, 10X","Marrow","macrophage",222,11746,0.635974415149572,0
+"TM, 10X","Marrow","monocyte",522,12444,0.66375501509864,0
+"TM, 10X","Marrow","T cell",162,11101,0.633360570364173,0
+"TM, 10X","Muscle","B cell",463,11837,0.622885299811006,0
+"TM, 10X","Muscle","chondroblast",380,13710,0.644404969237714,0
+"TM, 10X","Muscle","endothelial cell",1290,14207,0.587699362301375,0
+"TM, 10X","Muscle","macrophage",308,13620,0.602652404615786,0
+"TM, 10X","Muscle","mesenchymal stem cell",1111,14823,0.635309461814663,0
+"TM, 10X","Muscle","skeletal muscle satellite cell",349,12646,0.639781079920931,0
+"TM, 10X","Muscle","T cell",323,12424,0.623151402738208,0
+"TM, 10X","Muscle","unknown",312,13615,0.572526292049105,0
+"TM, 10X","Spleen","B cell",6726,14564,0.582422998272111,0
+"TM, 10X","Spleen","dendritic cell",144,11457,0.619375663227617,0
+"TM, 10X","Spleen","macrophage",395,13041,0.602655494819908,0
+"TM, 10X","Spleen","T cell",2287,13472,0.598373208680777,0
+"TM, 10X","Thymus","stromal cell",112,11475,0.613521381628814,0
+"TM, 10X","Thymus","T cell",1317,13244,0.590806951885931,0
+"TM, 10X","Tongue","basal cell of epidermis",5085,16488,0.648387716430716,0
+"TM, 10X","Tongue","keratinocyte",2416,15468,0.671194103682204,0
+"TM, 10X","Tongue","unknown",37,9753,0.70063531916709,0
+"TM, 10X","Trachea","basal cell of epithelium of trachea",36,11663,0.632840272976072,0
+"TM, 10X","Trachea","ciliated epithelial cell",20,9905,0.634910540456403,0
+"TM, 10X","Trachea","endothelial cell",1039,14689,0.56481543983104,0
+"TM, 10X","Trachea","epithelial cell",829,15613,0.575660520114606,0
+"TM, 10X","Trachea","leukocyte",898,14232,0.624905740743898,0
+"TM, 10X","Trachea","neuroendocrine cell",543,14242,0.581888595913508,0
+"TM, 10X","Trachea","stromal cell",7904,16920,0.597454537348932,0
+"TM, FACS","Bladder","basal cell of urothelium",99,14516,0.677655504775158,0
+"TM, FACS","Bladder","bladder cell",532,17163,0.637676392477866,0
+"TM, FACS","Bladder","mesenchymal cell",656,17419,0.577427364329525,0
+"TM, FACS","BrainMicroglia","macrophage",36,11635,0.535888454588664,0
+"TM, FACS","BrainMicroglia","microglial cell",4329,20267,0.455503474096236,0
+"TM, FACS","BrainNeurons","astrocyte of the cerebral cortex",403,16694,0.440723956296471,0
+"TM, FACS","BrainNeurons","Bergmann glial cell",30,12165,0.562590053666931,0
+"TM, FACS","BrainNeurons","brain pericyte",132,15173,0.493512137396854,0
+"TM, FACS","BrainNeurons","endothelial cell",625,17415,0.465757031095855,0
+"TM, FACS","BrainNeurons","neuron",196,17000,0.445463499651052,0
+"TM, FACS","BrainNeurons","neuronal stem cell",36,13515,0.558515836970994,0
+"TM, FACS","BrainNeurons","oligodendrocyte",1186,17781,0.527699440690037,0
+"TM, FACS","BrainNeurons","oligodendrocyte precursor cell",202,16182,0.470524657386875,0
+"TM, FACS","BrainNeurons","smooth muscle cell",14,11792,0.626871427830282,0
+"TM, FACS","BrainNeurons","unknown",176,15776,0.393821093272619,0
+"TM, FACS","Colon","Brush cell of epithelium proper of large intestine",45,15629,0.54153536553046,0
+"TM, FACS","Colon","enterocyte of epithelium of large intestine",782,21847,0.498387457860494,0
+"TM, FACS","Colon","enteroendocrine cell",25,13627,0.555414156091213,0
+"TM, FACS","Colon","epithelial cell of large intestine",1793,21924,0.48739688511806,0
+"TM, FACS","Colon","large intestine goblet cell",814,19470,0.57847466389201,0
+"TM, FACS","Fat","B cell",513,15795,0.475484714717481,0
+"TM, FACS","Fat","endothelial cell",590,17116,0.429675996867469,0
+"TM, FACS","Fat","epithelial cell",51,14084,0.589365920472189,0
+"TM, FACS","Fat","granulocyte",409,16368,0.467938468774566,0
+"TM, FACS","Fat","mesenchymal stem cell of adipose",1924,19391,0.527657732285027,0
+"TM, FACS","Fat","myeloid cell",479,17233,0.476397035213309,0
+"TM, FACS","Fat","natural killer cell",129,13103,0.516190332537806,0
+"TM, FACS","Fat","neutrophil",221,14678,0.514617724510888,0
+"TM, FACS","Fat","smooth muscle cell",27,11963,0.579340350677451,0
+"TM, FACS","Fat","T cell",366,15848,0.483957446119092,0
+"TM, FACS","Heart","cardiac muscle cell",140,15826,0.574667890626656,0
+"TM, FACS","Heart","endocardial cell",175,14302,0.506367450957191,0
+"TM, FACS","Heart","endothelial cell",1268,20438,0.445168503322303,0
+"TM, FACS","Heart","epicardial adipocyte",93,17926,0.463669659888953,0
+"TM, FACS","Heart","erythrocyte",11,4881,0.724945268803506,0
+"TM, FACS","Heart","fibroblast",2087,19853,0.491181158382997,0
+"TM, FACS","Heart","hematopoietic cell",17,12352,0.630229743207313,0
+"TM, FACS","Heart","leukocyte",488,16555,0.483680010407144,0
+"TM, FACS","Heart","smooth muscle cell",255,18529,0.43593085568551,0
+"TM, FACS","Heart","unknown",51,15561,0.503617433142838,0
+"TM, FACS","Kidney","endothelial cell",40,11199,0.564322296009312,0
+"TM, FACS","Kidney","fenestrated cell",69,12555,0.496408294062348,0
+"TM, FACS","Kidney","fibroblast",65,13347,0.410649963458735,0
+"TM, FACS","Kidney","kidney collecting duct cell",44,10605,0.570624110415964,0
+"TM, FACS","Kidney","kidney tubule cell",261,14594,0.442509849584575,0
+"TM, FACS","Kidney","leukocyte",38,11373,0.556340155781501,0
+"TM, FACS","Liver","B cell",29,10140,0.59479190652739,0
+"TM, FACS","Liver","endothelial cell of hepatic sinusoid",196,15027,0.435859553825627,0
+"TM, FACS","Liver","hepatocyte",399,16114,0.699566637713447,0
+"TM, FACS","Liver","Kupffer cell",51,11622,0.542387646823779,0
+"TM, FACS","Liver","natural killer cell",35,12020,0.576993845109819,0
+"TM, FACS","Lung","B cell",55,11459,0.536044557762667,0
+"TM, FACS","Lung","ciliated cell",14,11418,0.59376693310878,0
+"TM, FACS","Lung","Clara cell",13,10074,0.62684567407618,0
+"TM, FACS","Lung","dendritic cell",69,12292,0.506255619778912,0
+"TM, FACS","Lung","endothelial cell",738,17348,0.448347002187869,0
+"TM, FACS","Lung","epithelial cell",9,9184,0.65052736052355,0
+"TM, FACS","Lung","leukocyte",31,8185,0.662399267521398,0
+"TM, FACS","Lung","lung neuroendocrine cell",2,5894,0.875284307854667,0
+"TM, FACS","Lung","macrophage",69,13801,0.496664924078324,0
+"TM, FACS","Lung","mesothelial cell",2,4736,0.90178667807861,0
+"TM, FACS","Lung","monocyte",65,12584,0.552507962590013,0
+"TM, FACS","Lung","natural killer cell",36,11168,0.558415209971374,0
+"TM, FACS","Lung","stromal cell",366,16530,0.457062651134465,0
+"TM, FACS","Lung","T cell",55,12070,0.534037327254424,0
+"TM, FACS","Lung","type I pneumocyte",2,6329,0.873528506343844,0
+"TM, FACS","Lung","type II pneumocyte",94,13952,0.482685308162412,0
+"TM, FACS","Mammary","basal cell",1275,18192,0.576166781471228,0
+"TM, FACS","Mammary","endothelial cell",49,11495,0.565498498040816,0
+"TM, FACS","Mammary","luminal epithelial cell of mammary gland",552,16946,0.561400790061892,0
+"TM, FACS","Mammary","stromal cell",428,16461,0.526456688908952,0
+"TM, FACS","Marrow","B cell",1848,18883,0.445974479190671,0
+"TM, FACS","Marrow","Fraction A pre-pro B cell",177,14612,0.447583881459282,0
+"TM, FACS","Marrow","granulocyte",380,15187,0.514285705297435,0
+"TM, FACS","Marrow","hematopoietic stem cell",1291,18033,0.550261272769061,0
+"TM, FACS","Marrow","monocyte",324,15792,0.539560046585,0
+"TM, FACS","Marrow","natural killer cell",136,13873,0.505607451760732,0
+"TM, FACS","Marrow","neutrophil",599,16623,0.503699539560246,0
+"TM, FACS","Marrow","T cell",142,14565,0.489008644743539,0
+"TM, FACS","Muscle","B cell",151,13574,0.481134562070687,0
+"TM, FACS","Muscle","endothelial cell",206,15002,0.472349031638721,0
+"TM, FACS","Muscle","macrophage",71,12738,0.542489871809524,0
+"TM, FACS","Muscle","mesenchymal stem cell",486,16983,0.504195227589613,0
+"TM, FACS","Muscle","skeletal muscle satellite cell",546,16745,0.508533355226906,0
+"TM, FACS","Muscle","skeletal muscle satellite stem cell",442,16044,0.480333471065458,0
+"TM, FACS","Muscle","T cell",35,10816,0.575158619006988,0
+"TM, FACS","Pancreas","endothelial cell",49,12855,0.524355018484741,0
+"TM, FACS","Pancreas","leukocyte",45,12698,0.526502339571815,0
+"TM, FACS","Pancreas","pancreatic A cell",287,16767,0.519435410356387,0
+"TM, FACS","Pancreas","pancreatic acinar cell",177,14659,0.412195661754638,0
+"TM, FACS","Pancreas","pancreatic D cell",91,15224,0.493710962856408,0
+"TM, FACS","Pancreas","pancreatic ductal cell",131,15083,0.460455226637637,0
+"TM, FACS","Pancreas","pancreatic PP cell",107,15731,0.496034069747593,0
+"TM, FACS","Pancreas","pancreatic stellate cell",29,12487,0.542443034303351,0
+"TM, FACS","Pancreas","type B pancreatic cell",411,17209,0.514423539958985,0
+"TM, FACS","Skin","basal cell of epidermis",402,16126,0.515713194436015,0
+"TM, FACS","Skin","epidermal cell",445,16898,0.529585658082427,0
+"TM, FACS","Skin","keratinocyte stem cell",1371,18407,0.479530438500066,0
+"TM, FACS","Skin","stem cell of epidermis",45,13151,0.590678665740829,0
+"TM, FACS","Spleen","B cell",1238,17449,0.466571767159655,0
+"TM, FACS","Spleen","myeloid cell",48,11420,0.515574640253128,0
+"TM, FACS","Spleen","T cell",403,15674,0.481135615753277,0
+"TM, FACS","Thymus","mesenchymal stem cell",33,12879,0.518027924099268,0
+"TM, FACS","Thymus","T cell",1250,18325,0.457788777520025,0
+"TM, FACS","Tongue","basal cell of epidermis",1033,18511,0.580369925105701,0
+"TM, FACS","Tongue","keratinocyte",361,16923,0.6225644552262,0
+"TM, FACS","Trachea","endothelial cell",33,11927,0.59002275806647,0
+"TM, FACS","Trachea","epithelial cell",128,17004,0.429754574720205,0
+"TM, FACS","Trachea","leukocyte",116,14401,0.56211585969334,0
+"TM, FACS","Trachea","stromal cell",569,18028,0.561806289170792,0
+"sciATACseq","WholeBrain","Astrocytes",749,156805,0.453439258762021,0
+"sciATACseq","WholeBrain","Cerebellar granule cells",3004,166723,0.427744064405636,0
+"sciATACseq","WholeBrain","Collisions",489,165796,0.384994408480369,0
+"sciATACseq","WholeBrain","Endothelial I cells",18,21916,0.839268248403574,0
+"sciATACseq","WholeBrain","Endothelial II cells",161,95386,0.529752278567236,0
+"sciATACseq","WholeBrain","Ex. neurons CPN",439,164757,0.429635806897261,0
+"sciATACseq","WholeBrain","Ex. neurons CThPN",543,166581,0.404362817282269,0
+"sciATACseq","WholeBrain","Ex. neurons SCPN",303,164293,0.431287863149872,0
+"sciATACseq","WholeBrain","Hematopoietic progenitors",4,3131,0.995012191631799,0
+"sciATACseq","WholeBrain","Inhibitory neurons",1205,166984,0.363024307707877,0
+"sciATACseq","WholeBrain","Macrophages",28,40234,0.802786111434318,0
+"sciATACseq","WholeBrain","Microglia",191,116290,0.544649923870759,0
+"sciATACseq","WholeBrain","Oligodendrocytes",969,150912,0.519115515714142,0
+"sciATACseq","WholeBrain","Podocytes",2,3088,0.997688749400594,0
+"sciATACseq","WholeBrain","Purkinje cells",195,134081,0.480078986345429,0
+"sciATACseq","WholeBrain","SOM+ Interneurons",148,143782,0.526492735273578,0
+"sciATACseq","WholeBrain","T cells",4,11613,0.9767570135103,0
+"sciATACseq","WholeBrain","Unknown",309,155210,0.490334077067728,0
+"sciATACseq","Thymus","B cells",83,87591,0.552044834123382,0
+"sciATACseq","Thymus","Collisions",12,42800,0.746744869119708,0
+"sciATACseq","Thymus","Dendritic cells",33,71513,0.640792136269979,0
+"sciATACseq","Thymus","Enterocytes",2,22033,0.911820211476564,0
+"sciATACseq","Thymus","Hematopoietic progenitors",4,13547,0.96369011576746,0
+"sciATACseq","Thymus","Macrophages",14,39343,0.793403053197281,0
+"sciATACseq","Thymus","Monocytes",31,59139,0.653377232114954,0
+"sciATACseq","Thymus","NK cells",6,21376,0.833268244663634,0
+"sciATACseq","Thymus","Regulatory T cells",108,78111,0.557841423491392,0
+"sciATACseq","Thymus","T cells",7287,166978,0.359464904277154,0
+"sciATACseq","Thymus","Unknown",34,84011,0.68903112178411,0
+"sciATACseq","Spleen","Activated B cells",244,90460,0.531046010294009,0
+"sciATACseq","Spleen","B cells",2197,158297,0.446458981140477,0
+"sciATACseq","Spleen","Collisions",148,108722,0.570502069322761,0
+"sciATACseq","Spleen","Dendritic cells",197,127293,0.495122405353709,0
+"sciATACseq","Spleen","Erythroblasts",53,88403,0.521190165183382,0
+"sciATACseq","Spleen","Hematopoietic progenitors",58,53581,0.838845829910493,0
+"sciATACseq","Spleen","Immature B cells",3,4420,0.977036033120197,0
+"sciATACseq","Spleen","Macrophages",46,74898,0.670312613670906,0
+"sciATACseq","Spleen","Monocytes",89,90724,0.657210827039461,0
+"sciATACseq","Spleen","NK cells",49,56646,0.611081672526942,0
+"sciATACseq","Spleen","Podocytes",4,12276,0.905034108712234,0
+"sciATACseq","Spleen","Regulatory T cells",173,90035,0.559732460380442,0
+"sciATACseq","Spleen","T cells",715,129411,0.486689378899406,0
+"sciATACseq","Spleen","Unknown",43,57031,0.882365601701916,0
+"sciATACseq","SmallIntestine","Activated B cells",5,3011,0.996935110833561,0
+"sciATACseq","SmallIntestine","B cells",374,163100,0.501544113868036,0
+"sciATACseq","SmallIntestine","Dendritic cells",2,7377,0.973241792259134,0
+"sciATACseq","SmallIntestine","Endothelial I (glomerular)",7,4506,0.97883122579773,0
+"sciATACseq","SmallIntestine","Endothelial I cells",40,32252,0.832898572777318,0
+"sciATACseq","SmallIntestine","Endothelial II cells",15,14423,0.946409984697319,0
+"sciATACseq","SmallIntestine","Enterocytes",142,146980,0.589701836157163,0
+"sciATACseq","SmallIntestine","Hematopoietic progenitors",20,24620,0.950117245163109,0
+"sciATACseq","SmallIntestine","Hepatocytes",16,40145,0.846531928595439,0
+"sciATACseq","SmallIntestine","Inhibitory neurons",2,9872,0.969345985255372,0
+"sciATACseq","SmallIntestine","Macrophages",17,51846,0.879431901262313,0
+"sciATACseq","SmallIntestine","Podocytes",18,10802,0.981082049648917,0
+"sciATACseq","SmallIntestine","Regulatory T cells",2,1172,0.999834000742498,0
+"sciATACseq","SmallIntestine","T cells",63,71708,0.723898000352824,0
+"sciATACseq","SmallIntestine","Unknown",3351,167013,0.293643443018379,0
+"sciATACseq","PreFrontalCortex","Astrocytes",551,123632,0.516875017986844,0
+"sciATACseq","PreFrontalCortex","B cells",4,2927,0.97904328517656,0
+"sciATACseq","PreFrontalCortex","Collisions",177,107107,0.581720938285963,0
+"sciATACseq","PreFrontalCortex","Dendritic cells",2,1781,0.995151003117441,0
+"sciATACseq","PreFrontalCortex","Endothelial I cells",9,8537,0.939851996955624,0
+"sciATACseq","PreFrontalCortex","Endothelial II cells",77,58644,0.687682543481023,0
+"sciATACseq","PreFrontalCortex","Ex. neurons CPN",1391,166780,0.47751086009083,0
+"sciATACseq","PreFrontalCortex","Ex. neurons CThPN",995,166559,0.491361391788881,0
+"sciATACseq","PreFrontalCortex","Ex. neurons SCPN",1160,166734,0.400961658977393,0
+"sciATACseq","PreFrontalCortex","Inhibitory neurons",320,157457,0.435866384408172,0
+"sciATACseq","PreFrontalCortex","Macrophages",12,8425,0.960126979284563,0
+"sciATACseq","PreFrontalCortex","Microglia",197,89622,0.581152984013795,0
+"sciATACseq","PreFrontalCortex","Oligodendrocytes",458,108486,0.582373271049915,0
+"sciATACseq","PreFrontalCortex","Podocytes",10,7921,0.976987376680523,0
+"sciATACseq","PreFrontalCortex","SOM+ Interneurons",386,158563,0.532321553833911,0
+"sciATACseq","PreFrontalCortex","Unknown",204,135243,0.547928366484203,0
+"sciATACseq","Lung","Activated B cells",211,72628,0.574999525661538,0
+"sciATACseq","Lung","Alveolar macrophages",557,153385,0.403244375257889,0
+"sciATACseq","Lung","B cells",2335,162194,0.392447788343132,0
+"sciATACseq","Lung","Cardiomyocytes",9,27482,0.904467581242495,0
+"sciATACseq","Lung","Cerebellar granule cells",2,6190,0.997051157936654,0
+"sciATACseq","Lung","Collisions",65,76409,0.543932075480201,0
+"sciATACseq","Lung","Dendritic cells",575,137288,0.419252435306769,0
+"sciATACseq","Lung","Endothelial I cells",189,77608,0.557385233253332,0
+"sciATACseq","Lung","Endothelial II cells",1174,164668,0.411707407145973,0
+"sciATACseq","Lung","Enterocytes",5,4039,0.991625978596673,0
+"sciATACseq","Lung","Hematopoietic progenitors",268,128199,0.632621688141622,0
+"sciATACseq","Lung","Hepatocytes",33,72920,0.656704269340361,0
+"sciATACseq","Lung","Immature B cells",4,13285,0.837782402016858,0
+"sciATACseq","Lung","Inhibitory neurons",5,41943,0.840776541878657,0
+"sciATACseq","Lung","Macrophages",51,94081,0.758448667173881,0
+"sciATACseq","Lung","Monocytes",205,106451,0.490001407301973,0
+"sciATACseq","Lung","NK cells",211,79482,0.473383333603485,0
+"sciATACseq","Lung","Oligodendrocytes",2,4206,0.998146243872197,0
+"sciATACseq","Lung","Podocytes",4,3221,0.990603558111785,0
+"sciATACseq","Lung","Regulatory T cells",131,76883,0.494302314605642,0
+"sciATACseq","Lung","Sperm",6,28851,0.904785606980327,0
+"sciATACseq","Lung","T cells",639,124396,0.446398458137762,0
+"sciATACseq","Lung","Type I pneumocytes",1622,164173,0.378108106882043,0
+"sciATACseq","Lung","Type II pneumocytes",156,99810,0.555692702447254,0
+"sciATACseq","Lung","Unknown",1535,166909,0.432085695373016,0
+"sciATACseq","Liver","Activated B cells",2,1177,0.996896116245761,0
+"sciATACseq","Liver","B cells",24,22793,0.846702610177036,0
+"sciATACseq","Liver","Collisions",3,2524,0.99252022962853,0
+"sciATACseq","Liver","Dendritic cells",8,11303,0.938962690510185,0
+"sciATACseq","Liver","Endothelial I (glomerular)",3,1496,0.999643928112019,0
+"sciATACseq","Liver","Endothelial I cells",195,69269,0.600372510371316,0
+"sciATACseq","Liver","Endothelial II cells",123,53717,0.637484352555446,0
+"sciATACseq","Liver","Enterocytes",4,2658,0.998626962223094,0
+"sciATACseq","Liver","Hepatocytes",5611,166999,0.361723590723963,0
+"sciATACseq","Liver","Macrophages",95,54204,0.729634611973123,0
+"sciATACseq","Liver","Monocytes",11,16005,0.866906223426686,0
+"sciATACseq","Liver","NK cells",4,5567,0.960525044603451,0
+"sciATACseq","Liver","Podocytes",2,2030,0.98841570256088,0
+"sciATACseq","Liver","Regulatory T cells",21,22387,0.834779970702825,0
+"sciATACseq","Liver","T cells",15,20536,0.834132577223829,0
+"sciATACseq","Liver","Unknown",45,37736,0.893956109936695,0
+"sciATACseq","LargeIntestine","Activated B cells",7,5909,0.977950434486332,0
+"sciATACseq","LargeIntestine","Astrocytes",3,4728,0.962514379596181,0
+"sciATACseq","LargeIntestine","B cells",343,155534,0.524085625059381,0
+"sciATACseq","LargeIntestine","Cardiomyocytes",2,5774,0.985188112404629,0
+"sciATACseq","LargeIntestine","Collisions",4,10078,0.974383754983515,0
+"sciATACseq","LargeIntestine","Endothelial I (glomerular)",2,2612,0.984144626111243,0
+"sciATACseq","LargeIntestine","Endothelial I cells",25,23389,0.865781700859966,0
+"sciATACseq","LargeIntestine","Endothelial II cells",18,19934,0.908661472901845,0
+"sciATACseq","LargeIntestine","Enterocytes",4623,167013,0.355380919611661,0
+"sciATACseq","LargeIntestine","Hematopoietic progenitors",7,24710,0.941275860951528,0
+"sciATACseq","LargeIntestine","Inhibitory neurons",15,40880,0.88655030013017,0
+"sciATACseq","LargeIntestine","Macrophages",65,97514,0.727540140793101,0
+"sciATACseq","LargeIntestine","NK cells",2,3154,0.979419721260517,0
+"sciATACseq","LargeIntestine","Podocytes",3,2245,0.99741433341653,0
+"sciATACseq","LargeIntestine","Regulatory T cells",11,19468,0.87537383165414,0
+"sciATACseq","LargeIntestine","T cells",122,97444,0.634585315928966,0
+"sciATACseq","LargeIntestine","Unknown",1831,166992,0.321486872090065,0
+"sciATACseq","Kidney","Activated B cells",10,9245,0.941357826387814,0
+"sciATACseq","Kidney","B cells",27,40286,0.749636146713604,0
+"sciATACseq","Kidney","Collecting duct",164,104079,0.549644343143219,0
+"sciATACseq","Kidney","DCT/CD",499,148480,0.474255485018107,0
+"sciATACseq","Kidney","Dendritic cells",13,19626,0.876997071044219,0
+"sciATACseq","Kidney","Distal convoluted tubule",319,130966,0.484252051374435,0
+"sciATACseq","Kidney","Endothelial I (glomerular)",534,108029,0.543264800918453,0
+"sciATACseq","Kidney","Endothelial I cells",24,21459,0.842291461373322,0
+"sciATACseq","Kidney","Endothelial II cells",15,24199,0.824053602626245,0
+"sciATACseq","Kidney","Hematopoietic progenitors",5,12475,0.962500703149497,0
+"sciATACseq","Kidney","Loop of henle",814,154334,0.493247367048084,0
+"sciATACseq","Kidney","Macrophages",50,46709,0.751115386993024,0
+"sciATACseq","Kidney","Monocytes",3,12797,0.931043577538941,0
+"sciATACseq","Kidney","NK cells",3,4386,0.981374219807449,0
+"sciATACseq","Kidney","Podocytes",447,126856,0.537304067879849,0
+"sciATACseq","Kidney","Proximal tubule",2565,166249,0.455873544713729,0
+"sciATACseq","Kidney","Proximal tubule S3",594,159800,0.542086030929129,0
+"sciATACseq","Kidney","Regulatory T cells",8,8959,0.949750389290302,0
+"sciATACseq","Kidney","T cells",18,20532,0.873404206298085,0
+"sciATACseq","Kidney","Unknown",313,146541,0.555509586192326,0
+"sciATACseq","Heart","Activated B cells",3,1993,0.995727728645248,0
+"sciATACseq","Heart","B cells",79,64588,0.701979148691388,0
+"sciATACseq","Heart","Cardiomyocytes",4064,167012,0.414588786369038,0
+"sciATACseq","Heart","Collisions",5,7508,0.944652081198142,0
+"sciATACseq","Heart","DCT/CD",4,34690,0.81414586744608,0
+"sciATACseq","Heart","Dendritic cells",14,21589,0.895091003872408,0
+"sciATACseq","Heart","Endothelial I cells",443,112326,0.57801452098354,0
+"sciATACseq","Heart","Endothelial II cells",1358,158840,0.480300468562388,0
+"sciATACseq","Heart","Enterocytes",2,2173,0.991393732757634,0
+"sciATACseq","Heart","Hematopoietic progenitors",8,16834,0.967031196368607,0
+"sciATACseq","Heart","Immature B cells",2,4402,0.966382880641938,0
+"sciATACseq","Heart","Macrophages",201,114628,0.641676762038369,0
+"sciATACseq","Heart","Microglia",4,3716,0.993729512680426,0
+"sciATACseq","Heart","Monocytes",5,9921,0.916203943044541,0
+"sciATACseq","Heart","NK cells",2,3989,0.99985320069914,0
+"sciATACseq","Heart","Podocytes",2,2416,0.988466914209451,0
+"sciATACseq","Heart","Proximal tubule",5,12645,0.941810443768008,0
+"sciATACseq","Heart","T cells",18,25708,0.868817976314476,0
+"sciATACseq","Heart","Unknown",1428,166537,0.408777475450033,0
+"sciATACseq","Cerebellum","Astrocytes",363,104450,0.588357067326096,0
+"sciATACseq","Cerebellum","Cerebellar granule cells",1091,148859,0.540843948722705,0
+"sciATACseq","Cerebellum","Collisions",104,120613,0.554270165654162,0
+"sciATACseq","Cerebellum","Endothelial I cells",8,5584,0.966364507203532,0
+"sciATACseq","Cerebellum","Endothelial II cells",68,49740,0.706363866399252,0
+"sciATACseq","Cerebellum","Ex. neurons CPN",2,9673,0.95171226711637,0
+"sciATACseq","Cerebellum","Ex. neurons CThPN",2,10284,0.957607616146848,0
+"sciATACseq","Cerebellum","Ex. neurons SCPN",2,8560,0.977551499059985,0
+"sciATACseq","Cerebellum","Inhibitory neurons",281,158724,0.526453583263815,0
+"sciATACseq","Cerebellum","Macrophages",4,7149,0.92973684163691,0
+"sciATACseq","Cerebellum","Microglia",29,37281,0.754537497717275,0
+"sciATACseq","Cerebellum","Oligodendrocytes",128,60692,0.669876898949436,0
+"sciATACseq","Cerebellum","Podocytes",3,4228,0.968741866967319,0
+"sciATACseq","Cerebellum","Purkinje cells",122,97980,0.55846691586307,0
+"sciATACseq","Cerebellum","SOM+ Interneurons",18,33126,0.867268228181441,0
+"sciATACseq","Cerebellum","Unknown",49,65614,0.759177144136003,0
+"sciATACseq","BoneMarrow","Activated B cells",17,12201,0.936316159513317,0
+"sciATACseq","BoneMarrow","B cells",300,101245,0.520214295068116,0
+"sciATACseq","BoneMarrow","Collisions",210,107174,0.581936669650625,0
+"sciATACseq","BoneMarrow","Dendritic cells",112,62231,0.729830021919215,0
+"sciATACseq","BoneMarrow","Endothelial I (glomerular)",4,8779,0.97289544245547,0
+"sciATACseq","BoneMarrow","Endothelial II cells",3,2063,0.993127323964893,0
+"sciATACseq","BoneMarrow","Erythroblasts",2758,166159,0.411584773964366,0
+"sciATACseq","BoneMarrow","Hematopoietic progenitors",3047,167010,0.345847024428115,0
+"sciATACseq","BoneMarrow","Immature B cells",560,116584,0.563473753148306,0
+"sciATACseq","BoneMarrow","Macrophages",124,91802,0.552629513725026,0
+"sciATACseq","BoneMarrow","Monocytes",827,155725,0.466663700521939,0
+"sciATACseq","BoneMarrow","NK cells",43,33934,0.70322306552986,0
+"sciATACseq","BoneMarrow","Podocytes",3,3581,0.996118200442263,0
+"sciATACseq","BoneMarrow","Regulatory T cells",51,35404,0.654892578346525,0
+"sciATACseq","BoneMarrow","T cells",72,41730,0.692011996158884,0
+"sciATACseq","BoneMarrow","Unknown",270,166244,0.328558282086149,0
+"MOCA","CardiacMuscleLineages","CardiacMuscleLineages.Cardiac muscle lineages",2678,20560,0.407840578116195,0
+"MOCA","CholinergicNeurons","CholinergicNeurons.Cholinergic neurons",6878,22653,0.467121472654225,0
+"MOCA","ChondroctyeProgenitors","ChondroctyeProgenitors.Chondroctye progenitors",33168,25418,0.393116835927935,0
+"MOCA","DefinitiveErythroidLineage","DefinitiveErythroidLineage.Definitive erythroid lineage",16961,23270,0.298423798277332,0
+"MOCA","EarlyMesenchyme","EarlyMesenchyme.Early mesenchyme",71328,25758,0.364736426873069,0
+"MOCA","EndothelialCells","EndothelialCells.Endothelial cells",25301,24831,0.365444501540168,0
+"MOCA","EpendymalCell","EpendymalCell.Ependymal cell",8260,23385,0.380102249513085,0
+"MOCA","EpithelialCells","EpithelialCells.Epithelial cells",65449,25952,0.352657298172667,0
+"MOCA","ExcitatoryNeurons","ExcitatoryNeurons.Excitatory neurons",63251,25877,0.452655898560083,0
+"MOCA","GranuleNeurons","GranuleNeurons.Granule neurons",15140,23682,0.425709165140888,0
+"MOCA","Hepatocytes","Hepatocytes.Hepatocytes",10884,23112,0.345277137889177,0
+"MOCA","InhibitoryInterneurons","InhibitoryInterneurons.Inhibitory interneurons",13419,23350,0.392868663865097,0
+"MOCA","InhibitoryNeuronProgenitors","InhibitoryNeuronProgenitors.Inhibitory neuron progenitors",30620,25006,0.424894381571349,0
+"MOCA","InhibitoryNeurons","InhibitoryNeurons.Inhibitory neurons",44104,25547,0.450112033220716,0
+"MOCA","IsthmicOrganizerCells","IsthmicOrganizerCells.Isthmic organizer cells",47950,25602,0.362894520795101,0
+"MOCA","JawAndToothProgenitors","JawAndToothProgenitors.Jaw and tooth progenitors",80682,25936,0.380042914200623,0
+"MOCA","Lens","Lens.Lens",135,12313,0.427249408892525,0
+"MOCA","LimbMesenchyme","LimbMesenchyme.Limb mesenchyme",26346,24813,0.368476247104174,0
+"MOCA","Megakaryocytes","Megakaryocytes.Megakaryocytes",1351,18005,0.396792615550785,0
+"MOCA","Melanocytes","Melanocytes.Melanocytes",2025,19684,0.380306451234094,0
+"MOCA","Myocytes","Myocytes.Myocytes",42625,25614,0.366068700515568,0
+"MOCA","NeuralProgenitorCells","NeuralProgenitorCells.Neural progenitor cells",57607,25560,0.387297268208914,0
+"MOCA","NeuralTube","NeuralTube.Neural Tube",45771,25326,0.360516978347792,0
+"MOCA","NotochordCells","NotochordCells.Notochord cells",15298,24000,0.396019127906951,0
+"MOCA","OligodendrocyteProgenitors","OligodendrocyteProgenitors.Oligodendrocyte Progenitors",54128,25650,0.359869714057719,0
+"MOCA","Osteoblasts","Osteoblasts.Osteoblasts",22625,25017,0.351065559435619,0
+"MOCA","PostmitoticPrematureNeurons","PostmitoticPrematureNeurons.Postmitotic premature neurons",55062,25675,0.431832692105032,0
+"MOCA","PrematureOligodendrocyte","PrematureOligodendrocyte.Premature oligodendrocyte",29452,24850,0.365728154717415,0
+"MOCA","PrimitiveErythroidLineage","PrimitiveErythroidLineage.Primitive erythroid lineage",15116,22098,0.353756652945383,0
+"MOCA","RadialGlia","RadialGlia.Radial glia",64975,25702,0.374701656120756,0
+"MOCA","SchwannCellPrecursor","SchwannCellPrecursor.Schwann cell precursor",22901,24738,0.362490951072354,0
+"MOCA","SensoryNeurons","SensoryNeurons.Sensory neurons",25847,25308,0.436407864123286,0
+"MOCA","StromalCells","StromalCells.Stromal cells",19119,23940,0.264438435808426,0
+"MOCA","WhiteBloodCells","WhiteBloodCells.White blood cells",7178,22167,0.320645362382531,0

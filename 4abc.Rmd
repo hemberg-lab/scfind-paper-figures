@@ -1,0 +1,86 @@
+---
+title: "Figure 4"
+output: html_notebook
+---
+
+
+```{r message=FALSE, warning=FALSE}
+suppressPackageStartupMessages(source("scripts/themes.R"))
+tm.facs <- loadObject(filename = url("https://scfind.cog.sanger.ac.uk/indexes/tm_facs.rds"))
+```
+
+## Figure 4a
+```{r message=FALSE, warning=FALSE, paged.print=TRUE}
+result <- markerGenes(tm.facs, 
+            gene.list = c("Acta1", "Actc1", "Atp2a2", "Myh6", "Nppa", "Ryr2", "Tnnc1", "Tpm"))
+
+table.4a <- hyperQueryCellTypes(tm.facs, 
+                    gene.list = strsplit(as.character(result$Query[which.max(result$tfidf)]), ",")[[1]])
+
+head(result[order(result$tfidf, decreasing = T),])
+table.4a[order(table.4a$pval, decreasing = F),]
+```
+
+
+## Figure 4b
+```{r message=FALSE, warning=FALSE}
+mx.4b <- readRDS("data/fig4b.rds")
+df.4b <- read.table("data/fig4b_legend.csv", sep = ",", header = T, stringsAsFactors = F)
+
+tissues <-  data.frame(row.names = rownames(mx.4b), "Tissue" = as.character(gsub("\\..*", "", rownames(mx.4b))), stringsAsFactors = F)
+
+
+names(colour18) <- unique(tissues$Tissue)
+ha = rowAnnotation("Tissue" = tissues$Tissue,
+                   col = list("Tissue" = colour18),
+                   cells = anno_mark(at = c(32:38, 73:77, 102:106, 109),
+                                     labels = rownames(mx.4b)[ c(32:38, 73:77, 102:106, 109)] ),
+                   annotation_legend_param = list( "Tissue" = list(nrow = 2)))
+
+names(colourGO) <- unique(df.4b$V3)
+
+ta = HeatmapAnnotation("GO parents" = df.4b$V3,
+                       col = list("GO parents" = colourGO),
+                       annotation_legend_param = list( "GO parents" = list(nrow = 2)))
+
+draw(Heatmap(mx.4b, name = "-log10(p-value)",
+        cluster_rows = F, show_row_names = F,
+        cluster_columns = F,show_column_names = F,
+        col = c("white", brewer.pal(9, "RdPu")), na_col = "#49006A",
+        column_title = NULL,
+        top_annotation = ta,
+        right_annotation = ha
+        ) ,
+     heatmap_legend_side = "right", annotation_legend_side = "bottom"
+     )
+
+```
+
+
+## Figure 4c
+```{r message=FALSE, warning=FALSE}
+df.4c <- read.table("data/fig4c.csv", sep = ",", header = T, stringsAsFactors = F)
+df.4c$atlas <- factor(df.4c$atlas, levels = gsub("\\s", "\n", legend_order))
+
+log_scale_y <- scale_y_log10(breaks = trans_breaks("log10", function(x) 10^x), 
+                             labels = trans_format("log10", math_format(10^.x)), 
+                             limits = c(-1,100)
+                             )
+
+p.4c <- ggplot(data = df.4c, aes(x = gene_number, y = x, colour = atlas)) + 
+    main  + log_scale_y +
+    labs(colour = "Atlas") + xlab("Number of genes") + ylab("Mean time (sec)") + 
+    scale_colour_manual(values=RColorBrewer::brewer.pal(8,colorcode)[c(1:4, 6)]) +
+    geom_point(size = dotsize) + geom_line(size = linesize) + geom_ribbon(aes(ymin=df.4c$x + df.4c$se, ymax = df.4c$x - df.4c$se), linetype = 1, alpha = 0.1) + xlim(5, 25)
+```
+
+
+### Figure 4
+```{r message=FALSE, warning=FALSE}
+plot_grid(NULL,
+          p.4c, 
+          labels = c('A','C'), 
+          nrow = 2, ncol =2
+          )
+```
+

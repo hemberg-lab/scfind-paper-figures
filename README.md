@@ -9,7 +9,7 @@ This repository contains scripts to recreate the figures from the [scfind paper]
 [RcolorBrewer](https://cran.r-project.org/web/packages/RColorBrewer/index.html)
 [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html)
 [ggpubr](https://cran.r-project.org/web/packages/ggpubr/index.html)
-[pheatmap](https://cran.r-project.org/web/packages/pheatmap/index.html)
+[ComplexHeatmap](https://github.com/jokergoo/ComplexHeatmap)
 [scales](https://cran.r-project.org/web/packages/scales/index.html)
 [cowplot](https://cran.r-project.org/web/packages/cowplot/index.html)
 

@@ -1,0 +1,457 @@
+"atlas","tissue","celltype","method","no_of_markers","time"
+"TM, 10X","Bladder","Bladder.basal cell of urothelium","scfind",1,0.0168361663818359
+"TM, 10X","Bladder","Bladder.basal cell of urothelium","sce",1,0.105921506881714
+"TM, 10X","Bladder","Bladder.basal cell of urothelium","seurat",1,0.39878511428833
+"TM, 10X","Bladder","Bladder.basal cell of urothelium","loom",1,0.959523677825928
+"TM, 10X","Bladder","Bladder.basal cell of urothelium","scfind",2,0.0187966823577881
+"TM, 10X","Bladder","Bladder.basal cell of urothelium","sce",2,0.108759164810181
+"TM, 10X","Bladder","Bladder.basal cell of urothelium","seurat",2,1.20841097831726
+"TM, 10X","Bladder","Bladder.basal cell of urothelium","loom",2,0.96085524559021
+"TM, 10X","Bladder","Bladder.basal cell of urothelium","scfind",3,0.0185718536376953
+"TM, 10X","Bladder","Bladder.basal cell of urothelium","sce",3,0.116625308990479
+"TM, 10X","Bladder","Bladder.basal cell of urothelium","seurat",3,1.64875411987305
+"TM, 10X","Bladder","Bladder.basal cell of urothelium","loom",3,1.89544749259949
+"TM, 10X","Bladder","Bladder.basal cell of urothelium","scfind",4,0.0189931392669678
+"TM, 10X","Bladder","Bladder.basal cell of urothelium","sce",4,0.10897159576416
+"TM, 10X","Bladder","Bladder.basal cell of urothelium","seurat",4,2.03566217422485
+"TM, 10X","Bladder","Bladder.basal cell of urothelium","loom",4,1.90430045127869
+"TM, 10X","Bladder","Bladder.basal cell of urothelium","scfind",5,0.0190174579620361
+"TM, 10X","Bladder","Bladder.basal cell of urothelium","sce",5,0.11738109588623
+"TM, 10X","Bladder","Bladder.basal cell of urothelium","seurat",5,2.48308348655701
+"TM, 10X","Bladder","Bladder.basal cell of urothelium","loom",5,2.03819513320923
+"TM, 10X","Bladder","Bladder.basal cell of urothelium","scfind",6,0.0254313945770264
+"TM, 10X","Bladder","Bladder.basal cell of urothelium","sce",6,0.144373416900635
+"TM, 10X","Bladder","Bladder.basal cell of urothelium","seurat",6,2.99535322189331
+"TM, 10X","Bladder","Bladder.basal cell of urothelium","loom",6,1.91453409194946
+"TM, 10X","Bladder","Bladder.bladder cell","scfind",1,0.0164647102355957
+"TM, 10X","Bladder","Bladder.bladder cell","sce",1,0.117342948913574
+"TM, 10X","Bladder","Bladder.bladder cell","seurat",1,0.393522024154663
+"TM, 10X","Bladder","Bladder.bladder cell","loom",1,0.943887710571289
+"TM, 10X","Bladder","Bladder.bladder cell","scfind",2,0.0191566944122314
+"TM, 10X","Bladder","Bladder.bladder cell","sce",2,0.111795663833618
+"TM, 10X","Bladder","Bladder.bladder cell","seurat",2,1.21434497833252
+"TM, 10X","Bladder","Bladder.bladder cell","loom",2,1.87343215942383
+"TM, 10X","Bladder","Bladder.bladder cell","scfind",3,0.0192291736602783
+"TM, 10X","Bladder","Bladder.bladder cell","sce",3,0.14713716506958
+"TM, 10X","Bladder","Bladder.bladder cell","seurat",3,1.63146018981934
+"TM, 10X","Bladder","Bladder.bladder cell","loom",3,2.7897355556488
+"TM, 10X","Bladder","Bladder.bladder cell","scfind",4,0.0192759037017822
+"TM, 10X","Bladder","Bladder.bladder cell","sce",4,0.110157012939453
+"TM, 10X","Bladder","Bladder.bladder cell","seurat",4,2.08967137336731
+"TM, 10X","Bladder","Bladder.bladder cell","loom",4,2.78790879249573
+"TM, 10X","Bladder","Bladder.bladder cell","scfind",5,0.0197820663452148
+"TM, 10X","Bladder","Bladder.bladder cell","sce",5,0.114875555038452
+"TM, 10X","Bladder","Bladder.bladder cell","seurat",5,2.45316338539124
+"TM, 10X","Bladder","Bladder.bladder cell","loom",5,3.73416519165039
+"TM, 10X","Bladder","Bladder.bladder cell","scfind",6,0.019392728805542
+"TM, 10X","Bladder","Bladder.bladder cell","sce",6,0.112866163253784
+"TM, 10X","Bladder","Bladder.bladder cell","seurat",6,2.92287635803223
+"TM, 10X","Bladder","Bladder.bladder cell","loom",6,3.73015928268433
+"TM, 10X","Bladder","Bladder.endothelial cell","scfind",1,0.0175280570983887
+"TM, 10X","Bladder","Bladder.endothelial cell","sce",1,0.113906145095825
+"TM, 10X","Bladder","Bladder.endothelial cell","seurat",1,0.397664785385132
+"TM, 10X","Bladder","Bladder.endothelial cell","loom",1,0.931833505630493
+"TM, 10X","Bladder","Bladder.endothelial cell","scfind",2,1559255795.52413
+"TM, 10X","Bladder","Bladder.endothelial cell","sce",2,0.140667200088501
+"TM, 10X","Bladder","Bladder.endothelial cell","seurat",2,1.21008205413818
+"TM, 10X","Bladder","Bladder.endothelial cell","loom",2,1.89363145828247
+"TM, 10X","Bladder","Bladder.endothelial cell","scfind",3,1559255798.79394
+"TM, 10X","Bladder","Bladder.endothelial cell","sce",3,0.109764099121094
+"TM, 10X","Bladder","Bladder.endothelial cell","seurat",3,1.62570953369141
+"TM, 10X","Bladder","Bladder.endothelial cell","loom",3,1.88782954216003
+"TM, 10X","Bladder","Bladder.endothelial cell","scfind",4,1559255802.43945
+"TM, 10X","Bladder","Bladder.endothelial cell","sce",4,0.113929033279419
+"TM, 10X","Bladder","Bladder.endothelial cell","seurat",4,2.06652879714966
+"TM, 10X","Bladder","Bladder.endothelial cell","loom",4,2.81880807876587
+"TM, 10X","Bladder","Bladder.endothelial cell","scfind",5,1559255807.46104
+"TM, 10X","Bladder","Bladder.endothelial cell","sce",5,0.112120389938354
+"TM, 10X","Bladder","Bladder.endothelial cell","seurat",5,2.4997022151947
+"TM, 10X","Bladder","Bladder.endothelial cell","loom",5,2.83644318580627
+"TM, 10X","Bladder","Bladder.endothelial cell","scfind",6,1559255812.93136
+"TM, 10X","Bladder","Bladder.endothelial cell","sce",6,0.111720561981201
+"TM, 10X","Bladder","Bladder.endothelial cell","seurat",6,2.91817116737366
+"TM, 10X","Bladder","Bladder.endothelial cell","loom",6,2.85281348228455
+"TM, 10X","Bladder","Bladder.leukocyte","scfind",1,0.0159633159637451
+"TM, 10X","Bladder","Bladder.leukocyte","sce",1,0.112317085266113
+"TM, 10X","Bladder","Bladder.leukocyte","seurat",1,0.40010666847229
+"TM, 10X","Bladder","Bladder.leukocyte","loom",1,0.938480138778687
+"TM, 10X","Bladder","Bladder.leukocyte","scfind",2,0.0195038318634033
+"TM, 10X","Bladder","Bladder.leukocyte","sce",2,0.112297058105469
+"TM, 10X","Bladder","Bladder.leukocyte","seurat",2,1.22627925872803
+"TM, 10X","Bladder","Bladder.leukocyte","loom",2,0.940664529800415
+"TM, 10X","Bladder","Bladder.leukocyte","scfind",3,0.0203092098236084
+"TM, 10X","Bladder","Bladder.leukocyte","sce",3,0.115538597106934
+"TM, 10X","Bladder","Bladder.leukocyte","seurat",3,1.66404795646667
+"TM, 10X","Bladder","Bladder.leukocyte","loom",3,1.88595724105835
+"TM, 10X","Bladder","Bladder.leukocyte","scfind",4,0.019251823425293
+"TM, 10X","Bladder","Bladder.leukocyte","sce",4,0.113758325576782
+"TM, 10X","Bladder","Bladder.leukocyte","seurat",4,2.04756784439087
+"TM, 10X","Bladder","Bladder.leukocyte","loom",4,1.89335155487061
+"TM, 10X","Bladder","Bladder.leukocyte","scfind",5,0.0191233158111572
+"TM, 10X","Bladder","Bladder.leukocyte","sce",5,0.141757488250732
+"TM, 10X","Bladder","Bladder.leukocyte","seurat",5,2.46163296699524
+"TM, 10X","Bladder","Bladder.leukocyte","loom",5,2.80068612098694
+"TM, 10X","Bladder","Bladder.leukocyte","scfind",6,0.0188641548156738
+"TM, 10X","Bladder","Bladder.leukocyte","sce",6,0.110735416412354
+"TM, 10X","Bladder","Bladder.leukocyte","seurat",6,2.8693253993988
+"TM, 10X","Bladder","Bladder.leukocyte","loom",6,2.80200910568237
+"TM, 10X","Bladder","Bladder.mesenchymal cell","scfind",1,0.0162324905395508
+"TM, 10X","Bladder","Bladder.mesenchymal cell","sce",1,0.109064340591431
+"TM, 10X","Bladder","Bladder.mesenchymal cell","seurat",1,0.391949415206909
+"TM, 10X","Bladder","Bladder.mesenchymal cell","loom",1,0.940858364105225
+"TM, 10X","Bladder","Bladder.mesenchymal cell","scfind",2,0.0194554328918457
+"TM, 10X","Bladder","Bladder.mesenchymal cell","sce",2,0.143090963363647
+"TM, 10X","Bladder","Bladder.mesenchymal cell","seurat",2,1.20399641990662
+"TM, 10X","Bladder","Bladder.mesenchymal cell","loom",2,1.86408853530884
+"TM, 10X","Bladder","Bladder.mesenchymal cell","scfind",3,0.0194065570831299
+"TM, 10X","Bladder","Bladder.mesenchymal cell","sce",3,0.109842538833618
+"TM, 10X","Bladder","Bladder.mesenchymal cell","seurat",3,1.62261390686035
+"TM, 10X","Bladder","Bladder.mesenchymal cell","loom",3,2.81709933280945
+"TM, 10X","Bladder","Bladder.mesenchymal cell","scfind",4,0.0191256999969482
+"TM, 10X","Bladder","Bladder.mesenchymal cell","sce",4,0.114586353302002
+"TM, 10X","Bladder","Bladder.mesenchymal cell","seurat",4,2.04945397377014
+"TM, 10X","Bladder","Bladder.mesenchymal cell","loom",4,3.6799111366272
+"TM, 10X","Bladder","Bladder.mesenchymal cell","scfind",5,0.0195953845977783
+"TM, 10X","Bladder","Bladder.mesenchymal cell","sce",5,0.112953186035156
+"TM, 10X","Bladder","Bladder.mesenchymal cell","seurat",5,2.54163932800293
+"TM, 10X","Bladder","Bladder.mesenchymal cell","loom",5,3.71556043624878
+"TM, 10X","Bladder","Bladder.mesenchymal cell","scfind",6,0.0199213027954102
+"TM, 10X","Bladder","Bladder.mesenchymal cell","sce",6,0.114869832992554
+"TM, 10X","Bladder","Bladder.mesenchymal cell","seurat",6,2.93412923812866
+"TM, 10X","Bladder","Bladder.mesenchymal cell","loom",6,3.72589015960693
+"TM, 10X","Heart","Heart.cardiac muscle cell","scfind",1,0.0161762237548828
+"TM, 10X","Heart","Heart.cardiac muscle cell","sce",1,0.0277349948883057
+"TM, 10X","Heart","Heart.cardiac muscle cell","seurat",1,0.406018495559692
+"TM, 10X","Heart","Heart.cardiac muscle cell","loom",1,0.928720712661743
+"TM, 10X","Heart","Heart.cardiac muscle cell","scfind",2,0.0228257179260254
+"TM, 10X","Heart","Heart.cardiac muscle cell","sce",2,0.0278120040893555
+"TM, 10X","Heart","Heart.cardiac muscle cell","seurat",2,1.20929288864136
+"TM, 10X","Heart","Heart.cardiac muscle cell","loom",2,1.84462022781372
+"TM, 10X","Heart","Heart.cardiac muscle cell","scfind",3,0.0190443992614746
+"TM, 10X","Heart","Heart.cardiac muscle cell","sce",3,0.0266096591949463
+"TM, 10X","Heart","Heart.cardiac muscle cell","seurat",3,1.62157654762268
+"TM, 10X","Heart","Heart.cardiac muscle cell","loom",3,2.78574085235596
+"TM, 10X","Heart","Heart.cardiac muscle cell","scfind",4,0.0187597274780273
+"TM, 10X","Heart","Heart.cardiac muscle cell","sce",4,0.06624436378479
+"TM, 10X","Heart","Heart.cardiac muscle cell","seurat",4,2.01642823219299
+"TM, 10X","Heart","Heart.cardiac muscle cell","loom",4,2.79190158843994
+"TM, 10X","Heart","Heart.cardiac muscle cell","scfind",5,0.0188164710998535
+"TM, 10X","Heart","Heart.cardiac muscle cell","sce",5,0.0279812812805176
+"TM, 10X","Heart","Heart.cardiac muscle cell","seurat",5,2.48775863647461
+"TM, 10X","Heart","Heart.cardiac muscle cell","loom",5,2.79682159423828
+"TM, 10X","Heart","Heart.cardiac muscle cell","scfind",6,0.019223690032959
+"TM, 10X","Heart","Heart.cardiac muscle cell","sce",6,0.0279977321624756
+"TM, 10X","Heart","Heart.cardiac muscle cell","seurat",6,2.86078643798828
+"TM, 10X","Heart","Heart.cardiac muscle cell","loom",6,2.81056928634644
+"TM, 10X","Heart","Heart.endocardial cell","scfind",1,0.0158531665802002
+"TM, 10X","Heart","Heart.endocardial cell","sce",1,0.0609049797058105
+"TM, 10X","Heart","Heart.endocardial cell","seurat",1,0.39760422706604
+"TM, 10X","Heart","Heart.endocardial cell","loom",1,0.94397234916687
+"TM, 10X","Heart","Heart.endocardial cell","scfind",2,0.0191483497619629
+"TM, 10X","Heart","Heart.endocardial cell","sce",2,0.0316157341003418
+"TM, 10X","Heart","Heart.endocardial cell","seurat",2,1.20647931098938
+"TM, 10X","Heart","Heart.endocardial cell","loom",2,1.85987734794617
+"TM, 10X","Heart","Heart.endocardial cell","scfind",3,0.01936936378479
+"TM, 10X","Heart","Heart.endocardial cell","sce",3,0.0300402641296387
+"TM, 10X","Heart","Heart.endocardial cell","seurat",3,1.62268328666687
+"TM, 10X","Heart","Heart.endocardial cell","loom",3,1.87328219413757
+"TM, 10X","Heart","Heart.endocardial cell","scfind",4,0.0190451145172119
+"TM, 10X","Heart","Heart.endocardial cell","sce",4,0.0280330181121826
+"TM, 10X","Heart","Heart.endocardial cell","seurat",4,2.08318066596985
+"TM, 10X","Heart","Heart.endocardial cell","loom",4,1.87754321098328
+"TM, 10X","Heart","Heart.endocardial cell","scfind",5,1559255908.69309
+"TM, 10X","Heart","Heart.endocardial cell","sce",5,0.0273590087890625
+"TM, 10X","Heart","Heart.endocardial cell","seurat",5,2.48824238777161
+"TM, 10X","Heart","Heart.endocardial cell","loom",5,1.92519116401672
+"TM, 10X","Heart","Heart.endocardial cell","scfind",6,1559255913.1569
+"TM, 10X","Heart","Heart.endocardial cell","sce",6,0.0361301898956299
+"TM, 10X","Heart","Heart.endocardial cell","seurat",6,2.89620447158813
+"TM, 10X","Heart","Heart.endocardial cell","loom",6,2.83521461486816
+"TM, 10X","Heart","Heart.endothelial cell","scfind",1,0.016965389251709
+"TM, 10X","Heart","Heart.endothelial cell","sce",1,0.0284767150878906
+"TM, 10X","Heart","Heart.endothelial cell","seurat",1,0.409552812576294
+"TM, 10X","Heart","Heart.endothelial cell","loom",1,0.953588962554932
+"TM, 10X","Heart","Heart.endothelial cell","scfind",2,0.0193550586700439
+"TM, 10X","Heart","Heart.endothelial cell","sce",2,0.02803635597229
+"TM, 10X","Heart","Heart.endothelial cell","seurat",2,1.27310657501221
+"TM, 10X","Heart","Heart.endothelial cell","loom",2,1.91472768783569
+"TM, 10X","Heart","Heart.endothelial cell","scfind",3,0.019526481628418
+"TM, 10X","Heart","Heart.endothelial cell","sce",3,0.027864933013916
+"TM, 10X","Heart","Heart.endothelial cell","seurat",3,1.6401891708374
+"TM, 10X","Heart","Heart.endothelial cell","loom",3,2.82682466506958
+"TM, 10X","Heart","Heart.endothelial cell","scfind",4,0.0189995765686035
+"TM, 10X","Heart","Heart.endothelial cell","sce",4,0.0285639762878418
+"TM, 10X","Heart","Heart.endothelial cell","seurat",4,2.12943410873413
+"TM, 10X","Heart","Heart.endothelial cell","loom",4,3.76024746894836
+"TM, 10X","Heart","Heart.endothelial cell","scfind",5,0.0191619396209717
+"TM, 10X","Heart","Heart.endothelial cell","sce",5,0.0281121730804443
+"TM, 10X","Heart","Heart.endothelial cell","seurat",5,2.48017835617065
+"TM, 10X","Heart","Heart.endothelial cell","loom",5,3.75949239730835
+"TM, 10X","Heart","Heart.endothelial cell","scfind",6,0.0193517208099365
+"TM, 10X","Heart","Heart.endothelial cell","sce",6,0.0288608074188232
+"TM, 10X","Heart","Heart.endothelial cell","seurat",6,2.95782232284546
+"TM, 10X","Heart","Heart.endothelial cell","loom",6,3.75828957557678
+"TM, 10X","Heart","Heart.erythrocyte","scfind",1,0.0173337459564209
+"TM, 10X","Heart","Heart.erythrocyte","sce",1,0.0278329849243164
+"TM, 10X","Heart","Heart.erythrocyte","seurat",1,0.41419792175293
+"TM, 10X","Heart","Heart.erythrocyte","loom",1,0.930683612823486
+"TM, 10X","Heart","Heart.erythrocyte","scfind",2,0.0191929340362549
+"TM, 10X","Heart","Heart.erythrocyte","sce",2,0.0277290344238281
+"TM, 10X","Heart","Heart.erythrocyte","seurat",2,1.28072190284729
+"TM, 10X","Heart","Heart.erythrocyte","loom",2,0.937120676040649
+"TM, 10X","Heart","Heart.erythrocyte","scfind",3,0.0196187496185303
+"TM, 10X","Heart","Heart.erythrocyte","sce",3,0.027987003326416
+"TM, 10X","Heart","Heart.erythrocyte","seurat",3,1.6451518535614
+"TM, 10X","Heart","Heart.erythrocyte","loom",3,0.927757978439331
+"TM, 10X","Heart","Heart.erythrocyte","scfind",4,0.0226066112518311
+"TM, 10X","Heart","Heart.erythrocyte","sce",4,0.0277042388916016
+"TM, 10X","Heart","Heart.erythrocyte","seurat",4,2.10694289207458
+"TM, 10X","Heart","Heart.erythrocyte","loom",4,1.87296628952026
+"TM, 10X","Heart","Heart.erythrocyte","scfind",5,0.0209987163543701
+"TM, 10X","Heart","Heart.erythrocyte","sce",5,0.0293385982513428
+"TM, 10X","Heart","Heart.erythrocyte","seurat",5,2.48283195495605
+"TM, 10X","Heart","Heart.erythrocyte","loom",5,2.82256722450256
+"TM, 10X","Heart","Heart.erythrocyte","scfind",6,0.0195837020874023
+"TM, 10X","Heart","Heart.erythrocyte","sce",6,0.0329132080078125
+"TM, 10X","Heart","Heart.erythrocyte","seurat",6,2.99435138702393
+"TM, 10X","Heart","Heart.erythrocyte","loom",6,3.73872542381287
+"TM, 10X","Heart","Heart.fibroblast","scfind",1,0.0197055339813232
+"TM, 10X","Heart","Heart.fibroblast","sce",1,0.0284531116485596
+"TM, 10X","Heart","Heart.fibroblast","seurat",1,0.395369052886963
+"TM, 10X","Heart","Heart.fibroblast","loom",1,0.962199449539185
+"TM, 10X","Heart","Heart.fibroblast","scfind",2,0.0193252563476562
+"TM, 10X","Heart","Heart.fibroblast","sce",2,0.0283157825469971
+"TM, 10X","Heart","Heart.fibroblast","seurat",2,1.2768223285675
+"TM, 10X","Heart","Heart.fibroblast","loom",2,1.98986339569092
+"TM, 10X","Heart","Heart.fibroblast","scfind",3,0.0204508304595947
+"TM, 10X","Heart","Heart.fibroblast","sce",3,0.0301246643066406
+"TM, 10X","Heart","Heart.fibroblast","seurat",3,1.63573217391968
+"TM, 10X","Heart","Heart.fibroblast","loom",3,1.90962409973145
+"TM, 10X","Heart","Heart.fibroblast","scfind",4,0.019993782043457
+"TM, 10X","Heart","Heart.fibroblast","sce",4,0.0268893241882324
+"TM, 10X","Heart","Heart.fibroblast","seurat",4,2.10951519012451
+"TM, 10X","Heart","Heart.fibroblast","loom",4,1.90199065208435
+"TM, 10X","Heart","Heart.fibroblast","scfind",5,0.0196852684020996
+"TM, 10X","Heart","Heart.fibroblast","sce",5,0.028986930847168
+"TM, 10X","Heart","Heart.fibroblast","seurat",5,2.48564743995667
+"TM, 10X","Heart","Heart.fibroblast","loom",5,2.83047246932983
+"TM, 10X","Heart","Heart.fibroblast","scfind",6,0.0235636234283447
+"TM, 10X","Heart","Heart.fibroblast","sce",6,0.029268741607666
+"TM, 10X","Heart","Heart.fibroblast","seurat",6,2.95057415962219
+"TM, 10X","Heart","Heart.fibroblast","loom",6,2.83705139160156
+"TM, 10X","Heart","Heart.smooth muscle cell","scfind",1,0.0164752006530762
+"TM, 10X","Heart","Heart.smooth muscle cell","sce",1,0.0278496742248535
+"TM, 10X","Heart","Heart.smooth muscle cell","seurat",1,0.406457901000977
+"TM, 10X","Heart","Heart.smooth muscle cell","loom",1,0.967718601226807
+"TM, 10X","Heart","Heart.smooth muscle cell","scfind",2,0.0196971893310547
+"TM, 10X","Heart","Heart.smooth muscle cell","sce",2,0.0281474590301514
+"TM, 10X","Heart","Heart.smooth muscle cell","seurat",2,1.27474927902222
+"TM, 10X","Heart","Heart.smooth muscle cell","loom",2,0.975222110748291
+"TM, 10X","Heart","Heart.smooth muscle cell","scfind",3,0.0196449756622314
+"TM, 10X","Heart","Heart.smooth muscle cell","sce",3,0.029822826385498
+"TM, 10X","Heart","Heart.smooth muscle cell","seurat",3,1.65106534957886
+"TM, 10X","Heart","Heart.smooth muscle cell","loom",3,1.90870904922485
+"TM, 10X","Heart","Heart.smooth muscle cell","scfind",4,1559256001.20034
+"TM, 10X","Heart","Heart.smooth muscle cell","sce",4,0.0274062156677246
+"TM, 10X","Heart","Heart.smooth muscle cell","seurat",4,2.1168954372406
+"TM, 10X","Heart","Heart.smooth muscle cell","loom",4,2.84320473670959
+"TM, 10X","Heart","Heart.smooth muscle cell","scfind",5,1559256006.21114
+"TM, 10X","Heart","Heart.smooth muscle cell","sce",5,0.0288681983947754
+"TM, 10X","Heart","Heart.smooth muscle cell","seurat",5,2.49294495582581
+"TM, 10X","Heart","Heart.smooth muscle cell","loom",5,2.8535304069519
+"TM, 10X","Heart","Heart.smooth muscle cell","scfind",6,1559256011.60975
+"TM, 10X","Heart","Heart.smooth muscle cell","sce",6,0.0296740531921387
+"TM, 10X","Heart","Heart.smooth muscle cell","seurat",6,2.95621109008789
+"TM, 10X","Heart","Heart.smooth muscle cell","loom",6,2.85334134101868
+"TM, 10X","Kidney","Kidney.endothelial cell","scfind",1,0.0170924663543701
+"TM, 10X","Kidney","Kidney.endothelial cell","sce",1,0.130807161331177
+"TM, 10X","Kidney","Kidney.endothelial cell","seurat",1,0.401769638061523
+"TM, 10X","Kidney","Kidney.endothelial cell","loom",1,0.971069097518921
+"TM, 10X","Kidney","Kidney.endothelial cell","scfind",2,0.0211565494537354
+"TM, 10X","Kidney","Kidney.endothelial cell","sce",2,0.183994770050049
+"TM, 10X","Kidney","Kidney.endothelial cell","seurat",2,1.2277626991272
+"TM, 10X","Kidney","Kidney.endothelial cell","loom",2,1.90959429740906
+"TM, 10X","Kidney","Kidney.endothelial cell","scfind",3,0.0200371742248535
+"TM, 10X","Kidney","Kidney.endothelial cell","sce",3,0.127975940704346
+"TM, 10X","Kidney","Kidney.endothelial cell","seurat",3,1.64882302284241
+"TM, 10X","Kidney","Kidney.endothelial cell","loom",3,1.90528607368469
+"TM, 10X","Kidney","Kidney.endothelial cell","scfind",4,1559256031.12025
+"TM, 10X","Kidney","Kidney.endothelial cell","sce",4,0.180357217788696
+"TM, 10X","Kidney","Kidney.endothelial cell","seurat",4,2.05261087417603
+"TM, 10X","Kidney","Kidney.endothelial cell","loom",4,2.82514667510986
+"TM, 10X","Kidney","Kidney.endothelial cell","scfind",5,1559256036.20596
+"TM, 10X","Kidney","Kidney.endothelial cell","sce",5,0.135051727294922
+"TM, 10X","Kidney","Kidney.endothelial cell","seurat",5,2.61415004730225
+"TM, 10X","Kidney","Kidney.endothelial cell","loom",5,2.83970189094543
+"TM, 10X","Kidney","Kidney.endothelial cell","scfind",6,1559256041.81831
+"TM, 10X","Kidney","Kidney.endothelial cell","sce",6,0.134373188018799
+"TM, 10X","Kidney","Kidney.endothelial cell","seurat",6,2.95388913154602
+"TM, 10X","Kidney","Kidney.endothelial cell","loom",6,2.8381187915802
+"TM, 10X","Kidney","Kidney.fenestrated cell","scfind",1,0.0175302028656006
+"TM, 10X","Kidney","Kidney.fenestrated cell","sce",1,0.132342338562012
+"TM, 10X","Kidney","Kidney.fenestrated cell","seurat",1,0.398709535598755
+"TM, 10X","Kidney","Kidney.fenestrated cell","loom",1,0.93729043006897
+"TM, 10X","Kidney","Kidney.fenestrated cell","scfind",2,0.0205173492431641
+"TM, 10X","Kidney","Kidney.fenestrated cell","sce",2,0.133962631225586
+"TM, 10X","Kidney","Kidney.fenestrated cell","seurat",2,1.2258415222168
+"TM, 10X","Kidney","Kidney.fenestrated cell","loom",2,1.8728334903717
+"TM, 10X","Kidney","Kidney.fenestrated cell","scfind",3,0.0231022834777832
+"TM, 10X","Kidney","Kidney.fenestrated cell","sce",3,0.190412759780884
+"TM, 10X","Kidney","Kidney.fenestrated cell","seurat",3,1.66324687004089
+"TM, 10X","Kidney","Kidney.fenestrated cell","loom",3,1.90208053588867
+"TM, 10X","Kidney","Kidney.fenestrated cell","scfind",4,0.020099401473999
+"TM, 10X","Kidney","Kidney.fenestrated cell","sce",4,0.133079051971436
+"TM, 10X","Kidney","Kidney.fenestrated cell","seurat",4,2.13505506515503
+"TM, 10X","Kidney","Kidney.fenestrated cell","loom",4,2.84955954551697
+"TM, 10X","Kidney","Kidney.fenestrated cell","scfind",5,0.0238633155822754
+"TM, 10X","Kidney","Kidney.fenestrated cell","sce",5,0.137380838394165
+"TM, 10X","Kidney","Kidney.fenestrated cell","seurat",5,2.49564552307129
+"TM, 10X","Kidney","Kidney.fenestrated cell","loom",5,3.76437592506409
+"TM, 10X","Kidney","Kidney.fenestrated cell","scfind",6,0.0200281143188477
+"TM, 10X","Kidney","Kidney.fenestrated cell","sce",6,0.194756746292114
+"TM, 10X","Kidney","Kidney.fenestrated cell","seurat",6,2.90627026557922
+"TM, 10X","Kidney","Kidney.fenestrated cell","loom",6,3.72257208824158
+"TM, 10X","Kidney","Kidney.fibroblast","scfind",1,0.0164151191711426
+"TM, 10X","Kidney","Kidney.fibroblast","sce",1,0.126224994659424
+"TM, 10X","Kidney","Kidney.fibroblast","seurat",1,0.389165639877319
+"TM, 10X","Kidney","Kidney.fibroblast","loom",1,0.935508251190186
+"TM, 10X","Kidney","Kidney.fibroblast","scfind",2,0.0186021327972412
+"TM, 10X","Kidney","Kidney.fibroblast","sce",2,0.155804634094238
+"TM, 10X","Kidney","Kidney.fibroblast","seurat",2,1.21150851249695
+"TM, 10X","Kidney","Kidney.fibroblast","loom",2,2.03089046478271
+"TM, 10X","Kidney","Kidney.fibroblast","scfind",3,0.0265796184539795
+"TM, 10X","Kidney","Kidney.fibroblast","sce",3,0.167032480239868
+"TM, 10X","Kidney","Kidney.fibroblast","seurat",3,1.68636536598206
+"TM, 10X","Kidney","Kidney.fibroblast","loom",3,1.88768243789673
+"TM, 10X","Kidney","Kidney.fibroblast","scfind",4,0.0224027633666992
+"TM, 10X","Kidney","Kidney.fibroblast","sce",4,0.198558807373047
+"TM, 10X","Kidney","Kidney.fibroblast","seurat",4,2.03863310813904
+"TM, 10X","Kidney","Kidney.fibroblast","loom",4,2.79890894889832
+"TM, 10X","Kidney","Kidney.fibroblast","scfind",5,1559256088.84802
+"TM, 10X","Kidney","Kidney.fibroblast","sce",5,0.138296127319336
+"TM, 10X","Kidney","Kidney.fibroblast","seurat",5,2.50231838226318
+"TM, 10X","Kidney","Kidney.fibroblast","loom",5,2.85200214385986
+"TM, 10X","Kidney","Kidney.fibroblast","scfind",6,1559256094.36384
+"TM, 10X","Kidney","Kidney.fibroblast","sce",6,0.132716178894043
+"TM, 10X","Kidney","Kidney.fibroblast","seurat",6,2.96774554252625
+"TM, 10X","Kidney","Kidney.fibroblast","loom",6,2.85482478141785
+"TM, 10X","Kidney","Kidney.kidney collecting duct cell","scfind",1,0.0168142318725586
+"TM, 10X","Kidney","Kidney.kidney collecting duct cell","sce",1,0.132529258728027
+"TM, 10X","Kidney","Kidney.kidney collecting duct cell","seurat",1,0.39800500869751
+"TM, 10X","Kidney","Kidney.kidney collecting duct cell","loom",1,0.929423809051514
+"TM, 10X","Kidney","Kidney.kidney collecting duct cell","scfind",2,0.0197474956512451
+"TM, 10X","Kidney","Kidney.kidney collecting duct cell","sce",2,0.135347843170166
+"TM, 10X","Kidney","Kidney.kidney collecting duct cell","seurat",2,1.22233939170837
+"TM, 10X","Kidney","Kidney.kidney collecting duct cell","loom",2,0.931783437728882
+"TM, 10X","Kidney","Kidney.kidney collecting duct cell","scfind",3,0.0203845500946045
+"TM, 10X","Kidney","Kidney.kidney collecting duct cell","sce",3,0.19530463218689
+"TM, 10X","Kidney","Kidney.kidney collecting duct cell","seurat",3,1.65128207206726
+"TM, 10X","Kidney","Kidney.kidney collecting duct cell","loom",3,1.8778076171875
+"TM, 10X","Kidney","Kidney.kidney collecting duct cell","scfind",4,0.0200693607330322
+"TM, 10X","Kidney","Kidney.kidney collecting duct cell","sce",4,0.131832361221313
+"TM, 10X","Kidney","Kidney.kidney collecting duct cell","seurat",4,2.13057398796082
+"TM, 10X","Kidney","Kidney.kidney collecting duct cell","loom",4,1.87851405143738
+"TM, 10X","Kidney","Kidney.kidney collecting duct cell","scfind",5,0.0237245559692383
+"TM, 10X","Kidney","Kidney.kidney collecting duct cell","sce",5,0.134195327758789
+"TM, 10X","Kidney","Kidney.kidney collecting duct cell","seurat",5,2.52020049095154
+"TM, 10X","Kidney","Kidney.kidney collecting duct cell","loom",5,1.87316155433655
+"TM, 10X","Kidney","Kidney.kidney collecting duct cell","scfind",6,0.0210096836090088
+"TM, 10X","Kidney","Kidney.kidney collecting duct cell","sce",6,0.16109824180603
+"TM, 10X","Kidney","Kidney.kidney collecting duct cell","seurat",6,2.88364481925964
+"TM, 10X","Kidney","Kidney.kidney collecting duct cell","loom",6,2.77023029327393
+"TM, 10X","Kidney","Kidney.kidney tubule cell","scfind",1,0.0171716213226318
+"TM, 10X","Kidney","Kidney.kidney tubule cell","sce",1,0.190471410751343
+"TM, 10X","Kidney","Kidney.kidney tubule cell","seurat",1,0.39912748336792
+"TM, 10X","Kidney","Kidney.kidney tubule cell","loom",1,0.949152231216431
+"TM, 10X","Kidney","Kidney.kidney tubule cell","scfind",2,0.0241274833679199
+"TM, 10X","Kidney","Kidney.kidney tubule cell","sce",2,0.132666110992432
+"TM, 10X","Kidney","Kidney.kidney tubule cell","seurat",2,1.21558022499084
+"TM, 10X","Kidney","Kidney.kidney tubule cell","loom",2,0.946237325668335
+"TM, 10X","Kidney","Kidney.kidney tubule cell","scfind",3,0.0205285549163818
+"TM, 10X","Kidney","Kidney.kidney tubule cell","sce",3,0.130907297134399
+"TM, 10X","Kidney","Kidney.kidney tubule cell","seurat",3,1.69601631164551
+"TM, 10X","Kidney","Kidney.kidney tubule cell","loom",3,1.90624117851257
+"TM, 10X","Kidney","Kidney.kidney tubule cell","scfind",4,0.0211901664733887
+"TM, 10X","Kidney","Kidney.kidney tubule cell","sce",4,0.138149976730347
+"TM, 10X","Kidney","Kidney.kidney tubule cell","seurat",4,2.05633068084717
+"TM, 10X","Kidney","Kidney.kidney tubule cell","loom",4,2.78479695320129
+"TM, 10X","Kidney","Kidney.kidney tubule cell","scfind",5,0.0202064514160156
+"TM, 10X","Kidney","Kidney.kidney tubule cell","sce",5,0.174377918243408
+"TM, 10X","Kidney","Kidney.kidney tubule cell","seurat",5,2.49362301826477
+"TM, 10X","Kidney","Kidney.kidney tubule cell","loom",5,3.68551063537598
+"TM, 10X","Kidney","Kidney.kidney tubule cell","scfind",6,0.0208933353424072
+"TM, 10X","Kidney","Kidney.kidney tubule cell","sce",6,0.137739419937134
+"TM, 10X","Kidney","Kidney.kidney tubule cell","seurat",6,2.95928740501404
+"TM, 10X","Kidney","Kidney.kidney tubule cell","loom",6,3.70504474639893
+"TM, 10X","Kidney","Kidney.leukocyte","scfind",1,0.017235279083252
+"TM, 10X","Kidney","Kidney.leukocyte","sce",1,0.139455556869507
+"TM, 10X","Kidney","Kidney.leukocyte","seurat",1,0.400500774383545
+"TM, 10X","Kidney","Kidney.leukocyte","loom",1,0.957763195037842
+"TM, 10X","Kidney","Kidney.leukocyte","scfind",2,0.0203394889831543
+"TM, 10X","Kidney","Kidney.leukocyte","sce",2,0.137017250061035
+"TM, 10X","Kidney","Kidney.leukocyte","seurat",2,1.29305529594421
+"TM, 10X","Kidney","Kidney.leukocyte","loom",2,1.89373636245728
+"TM, 10X","Kidney","Kidney.leukocyte","scfind",3,1559256153.7015
+"TM, 10X","Kidney","Kidney.leukocyte","sce",3,0.133984327316284
+"TM, 10X","Kidney","Kidney.leukocyte","seurat",3,1.65232253074646
+"TM, 10X","Kidney","Kidney.leukocyte","loom",3,2.78318428993225
+"TM, 10X","Kidney","Kidney.leukocyte","scfind",4,1559256158.29454
+"TM, 10X","Kidney","Kidney.leukocyte","sce",4,0.16908073425293
+"TM, 10X","Kidney","Kidney.leukocyte","seurat",4,2.07958626747131
+"TM, 10X","Kidney","Kidney.leukocyte","loom",4,2.81374096870422
+"TM, 10X","Kidney","Kidney.leukocyte","scfind",5,1559256163.38039
+"TM, 10X","Kidney","Kidney.leukocyte","sce",5,0.133563280105591
+"TM, 10X","Kidney","Kidney.leukocyte","seurat",5,2.52681565284729
+"TM, 10X","Kidney","Kidney.leukocyte","loom",5,2.81475043296814
+"TM, 10X","Kidney","Kidney.leukocyte","scfind",6,1559256168.87933
+"TM, 10X","Kidney","Kidney.leukocyte","sce",6,0.13424825668335
+"TM, 10X","Kidney","Kidney.leukocyte","seurat",6,2.9396960735321
+"TM, 10X","Kidney","Kidney.leukocyte","loom",6,2.83924198150635
+"TM, 10X","Kidney","Kidney.macrophage","scfind",1,0.0172045230865479
+"TM, 10X","Kidney","Kidney.macrophage","sce",1,0.125220060348511
+"TM, 10X","Kidney","Kidney.macrophage","seurat",1,0.387953281402588
+"TM, 10X","Kidney","Kidney.macrophage","loom",1,0.945396423339844
+"TM, 10X","Kidney","Kidney.macrophage","scfind",2,0.019866943359375
+"TM, 10X","Kidney","Kidney.macrophage","sce",2,0.128299951553345
+"TM, 10X","Kidney","Kidney.macrophage","seurat",2,1.23173332214355
+"TM, 10X","Kidney","Kidney.macrophage","loom",2,0.951043844223022
+"TM, 10X","Kidney","Kidney.macrophage","scfind",3,0.0187740325927734
+"TM, 10X","Kidney","Kidney.macrophage","sce",3,0.159027099609375
+"TM, 10X","Kidney","Kidney.macrophage","seurat",3,1.62779474258423
+"TM, 10X","Kidney","Kidney.macrophage","loom",3,0.952708005905151
+"TM, 10X","Kidney","Kidney.macrophage","scfind",4,0.0201103687286377
+"TM, 10X","Kidney","Kidney.macrophage","sce",4,0.132858753204346
+"TM, 10X","Kidney","Kidney.macrophage","seurat",4,2.71769404411316
+"TM, 10X","Kidney","Kidney.macrophage","loom",4,1.8760232925415
+"TM, 10X","Kidney","Kidney.macrophage","scfind",5,0.0199902057647705
+"TM, 10X","Kidney","Kidney.macrophage","sce",5,0.130374193191528
+"TM, 10X","Kidney","Kidney.macrophage","seurat",5,2.46845126152039
+"TM, 10X","Kidney","Kidney.macrophage","loom",5,2.81875848770142
+"TM, 10X","Kidney","Kidney.macrophage","scfind",6,0.0187044143676758
+"TM, 10X","Kidney","Kidney.macrophage","sce",6,0.129412889480591
+"TM, 10X","Kidney","Kidney.macrophage","seurat",6,2.8409321308136
+"TM, 10X","Kidney","Kidney.macrophage","loom",6,2.80035781860352
+"TM, 10X","Kidney","Kidney.smooth muscle cell","scfind",1,0.0156350135803223
+"TM, 10X","Kidney","Kidney.smooth muscle cell","sce",1,0.160565853118896
+"TM, 10X","Kidney","Kidney.smooth muscle cell","seurat",1,0.403779745101929
+"TM, 10X","Kidney","Kidney.smooth muscle cell","loom",1,0.947203874588013
+"TM, 10X","Kidney","Kidney.smooth muscle cell","scfind",2,0.0188918113708496
+"TM, 10X","Kidney","Kidney.smooth muscle cell","sce",2,0.122687339782715
+"TM, 10X","Kidney","Kidney.smooth muscle cell","seurat",2,1.20296812057495
+"TM, 10X","Kidney","Kidney.smooth muscle cell","loom",2,1.88202691078186
+"TM, 10X","Kidney","Kidney.smooth muscle cell","scfind",3,0.0184953212738037
+"TM, 10X","Kidney","Kidney.smooth muscle cell","sce",3,0.126616954803467
+"TM, 10X","Kidney","Kidney.smooth muscle cell","seurat",3,1.65940356254578
+"TM, 10X","Kidney","Kidney.smooth muscle cell","loom",3,1.88804936408997
+"TM, 10X","Kidney","Kidney.smooth muscle cell","scfind",4,0.0226879119873047
+"TM, 10X","Kidney","Kidney.smooth muscle cell","sce",4,0.127904415130615
+"TM, 10X","Kidney","Kidney.smooth muscle cell","seurat",4,2.02817130088806
+"TM, 10X","Kidney","Kidney.smooth muscle cell","loom",4,2.82962775230408
+"TM, 10X","Kidney","Kidney.smooth muscle cell","scfind",5,0.0186200141906738
+"TM, 10X","Kidney","Kidney.smooth muscle cell","sce",5,0.128673791885376
+"TM, 10X","Kidney","Kidney.smooth muscle cell","seurat",5,2.47693848609924
+"TM, 10X","Kidney","Kidney.smooth muscle cell","loom",5,2.82458853721619
+"TM, 10X","Kidney","Kidney.smooth muscle cell","scfind",6,0.0187318325042725
+"TM, 10X","Kidney","Kidney.smooth muscle cell","sce",6,0.130127429962158
+"TM, 10X","Kidney","Kidney.smooth muscle cell","seurat",6,2.88559198379517
+"TM, 10X","Kidney","Kidney.smooth muscle cell","loom",6,2.79477119445801
