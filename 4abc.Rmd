@@ -24,26 +24,19 @@ table.4a[order(table.4a$pval, decreasing = F),]
 
 ## Figure 4b
 ```{r message=FALSE, warning=FALSE}
-mx.4b <- readRDS("data/fig4b.rds")
-df.4b <- read.table("data/fig4b_legend.csv", sep = ",", header = T, stringsAsFactors = F)
+df.4b <- readRDS("data/fig4b.rds")
 
-tissues <-  data.frame(row.names = rownames(mx.4b), "Tissue" = as.character(gsub("\\..*", "", rownames(mx.4b))), stringsAsFactors = F)
-
-
-names(colour18) <- unique(tissues$Tissue)
-ha = rowAnnotation("Tissue" = tissues$Tissue,
-                   col = list("Tissue" = colour18),
+ha = rowAnnotation("Tissue" = df.4b$tissues,
+                   col = list("Tissue" = df.4b$colour18),
                    cells = anno_mark(at = c(32:38, 73:77, 102:106, 109),
-                                     labels = rownames(mx.4b)[ c(32:38, 73:77, 102:106, 109)] ),
+                                     labels = rownames(df.4b$mx)[ c(32:38, 73:77, 102:106, 109)] ),
                    annotation_legend_param = list( "Tissue" = list(nrow = 2)))
 
-names(colourGO) <- unique(df.4b$V3)
-
 ta = HeatmapAnnotation("GO parents" = df.4b$V3,
-                       col = list("GO parents" = colourGO),
+                       col = list("GO parents" = df.4b$colourAncestors),
                        annotation_legend_param = list( "GO parents" = list(nrow = 2)))
 
-draw(Heatmap(mx.4b, name = "-log10(p-value)",
+draw(Heatmap(df.4b$mx, name = "-log10(p-value)",
         cluster_rows = F, show_row_names = F,
         cluster_columns = F,show_column_names = F,
         col = c("white", brewer.pal(9, "RdPu")), na_col = "#49006A",
@@ -53,7 +46,6 @@ draw(Heatmap(mx.4b, name = "-log10(p-value)",
         ) ,
      heatmap_legend_side = "right", annotation_legend_side = "bottom"
      )
-
 ```
 
 
