@@ -48,7 +48,7 @@ This repository contains scripts to recreate the figures from the [scfind paper]
 ![](keynote/4.jpeg)
 
 ### Fig. 5
-
+[script](5b.Rmd)  
 [keynote](keynote/5.key)  
 [pdf](keynote/5.pdf)  
 [jpg](keynote/5.jpeg)  
