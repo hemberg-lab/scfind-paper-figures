@@ -1,0 +1,39 @@
+---
+title: "Figure 4"
+output:
+  html_document:
+    df_print: paged
+---
+
+### To enable free text search and generate wordcloud from the result, users need to download the `freetext` version of `scfind`
+```{r message=FALSE, warning=FALSE} 
+devtools::install_github(repo = "hemberg-lab/scfind",
+                         ref = "freetext",
+                         force = T # In case user already installed scfind 3.5.0 version
+                         )
+library("scfind")
+```
+
+### Figure 4
+```{r eval=FALSE, message=FALSE, warning=FALSE, include=FALSE, paged.print=TRUE}
+object <- loadObject(url("https://scfind.cog.sanger.ac.uk/indexes/tm_facs.rds"))
+
+download.file(url = ("https://scfind.cog.sanger.ac.uk/w2v/scfind_dictionary_mm_v1.rds"),
+              destfile = "data/dictionary.rds", 
+              method="curl")
+
+download.file(url = ("http://evexdb.org/pmresources/vec-space-models/PubMed-w2v.bin"),
+              destfile = "data/w2v.bin", 
+              method="curl")
+
+dictionary <- scfindQ2loadDictionaries(w2v = "data/w2v.bin", dictionary = "data/dictionary.rds")
+scfindShiny(dictionary = dictionary, object = object)
+
+```
+
+# Input the following arbitrary query for result:
+
+### factor xa
+### Irx4, Myl2, Xdh, Dlk1, Hyal2, Tmem190, Cpne4, Cyp1a1 and Irx5
+### endurance capacity for marathon Col5a1 rs12722
+

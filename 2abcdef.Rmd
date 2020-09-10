@@ -1,0 +1,121 @@
+---
+title: "Figure 2"
+output:
+  html_document:
+    df_print: paged
+---
+
+
+```{r message=FALSE, warning=FALSE}
+suppressPackageStartupMessages(source("scripts/themes.R"))
+tm.facs <- loadObject(filename = url("https://scfind.cog.sanger.ac.uk/indexes/tm_facs.rds"))
+tm.10x <- loadObject(filename = url("https://scfind.cog.sanger.ac.uk/indexes/tm_10X.rds"))
+```
+
+## Table 2a
+```{r paged.print=TRUE}
+table.2a <- hyperQueryCellTypes(object = tm.facs, 
+                    gene.list = c("Il2ra", "Ptprc", "Il7r", "Ctla4"))
+
+table.2a[order(table.2a$pval, decreasing = F),]
+```
+
+
+## Figure 2b
+```{r message=FALSE, warning=FALSE}
+source("scripts/2b.R")
+
+df.2b.p1 <- read.table("data/fig2b.csv", sep = ",", header = T, stringsAsFactors = F)
+
+p1.vs.cellmarker <- ggplot(
+  df.2b.p1, 
+  aes( y = recall, x = precision, colour = MarkerGenes)
+) + geom_density_2d(alpha = .6) + geom_point(alpha = .6) + main + 
+scale_colour_manual("Marker Genes", values = tritPalette[c(2,4,3)], labels = c("CellMarker", "Seurat", "SCfind")) +
+  ylab("Recall") + xlab("Precision") + xlim(0,1) + ylim(0,1) 
+```
+
+## Figure 2c
+```{r message=FALSE, warning=FALSE}
+df.2c.p2 <- read.table("data/fig2c.csv", sep = ",", header = T, stringsAsFactors = F)
+
+p2.vs.cellmarker <- ggplot(
+    df.2c.p2,
+    aes(x = scfind,
+        y = CellMarker,
+        colour = Tissue)
+    ) + geom_point(alpha = .5) + main + 
+  xlab("SCfind") + ylab("CellMarker") + xlim(0,1) + ylim(0,1) + 
+  guides(col = guide_legend(ncol = 2, title = "Tissue")) +
+  geom_abline(inintercept = 0, colour = "red", linetype=2)
+```
+
+## Figure 2d
+```{r message=FALSE, warning=FALSE}
+df.2d <- read.table("data/fig2d.csv", sep = ",", header = T, stringsAsFactors = F)
+
+p.2d <- ggplot(df.2d[!df.2d$no_of_genes %in% 5,]
+               , aes(x = as.character(no_of_genes), y = score, fill = type)) + 
+    main + 
+    xlab("Number of genes") + ylab("Score") + 
+    scale_fill_manual("Score type", values = cbPalette) + 
+    geom_boxplot(size = .2, notch = T, outlier.size = .2) + 
+    facet_grid(. ~ query)
+```
+
+## Figure 2e
+```{r message=FALSE, warning=FALSE}
+df.2e <- read.table("data/fig2e.csv", sep = ",", header = T, stringsAsFactors = F)
+
+p.2e <-  ggplot(df.2e, aes(x = values, fill = atlas)) + 
+    geom_density(alpha=.8, aes(y = ..scaled..)) + 
+        main  + theme(panel.margin = unit(-3, "lines"),strip.text.y = element_blank() ) +
+    scale_y_continuous(breaks = c(1)) +
+    labs(x = "Number of cell types", y = "Gene/peak\ndensity (arbitrary)", fill = "Atlas") + 
+    scale_x_log10(breaks = trans_breaks("log10", function(x) 10^x), labels = trans_format("log10", math_format(10^.x))) + 
+    scale_fill_manual(values = RColorBrewer::brewer.pal(8,colorcode)) + 
+    facet_grid(atlas~.)
+```
+
+## Figure 2f
+```{r message=FALSE, warning=FALSE}
+df.2f <- readRDS("data/fig2f.rds")
+
+p.2f <- upset(fromList((df.2f)), 
+              order.by="freq", 
+              empty.intersections = "off", 
+              sets.bar.color = RColorBrewer::brewer.pal(8,colorcode)[c(4:2,8)], 
+              sets = c("TM, FACS","TM, 10X","MCA", "Eisenberg & Levanon" ), 
+              mainbar.y.label = "House Keeping Gene\nIntersection", 
+              text.scale = c(2.5), mb.ratio = c(.7,.3), number.angles = -45, scale.sets = "log10", point.size = 5, line.size = 3)
+```
+
+### Figure 2
+```{r message=FALSE, warning=FALSE}
+plot_grid(
+  plot_grid(
+    plot_grid(
+      p1.vs.cellmarker + theme(legend.position = "none"),
+      p2.vs.cellmarker + theme(legend.position = "none"),
+      labels = c("B", "C")
+    ),
+    plot_grid(
+      get_legend(p1.vs.cellmarker),
+      get_legend(p2.vs.cellmarker), 
+      nrow = 2, ncol = 1
+    ),
+    rel_widths = c(7,3)
+  ),
+  p.2d,
+  ncol = 1, labels = c("", "D")
+)
+
+plot_grid(
+    p.2e + theme(legend.position="bottom") + guides(fill = guide_legend(title.position = "top")),
+    NULL, 
+    labels = c('E', 'F'),
+    ncol = 2
+)
+
+p.2f
+```
