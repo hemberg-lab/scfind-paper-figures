@@ -10,9 +10,9 @@ This repository contains scripts to recreate the figures from the [scfind paper]
 [ggplot2](https://cran.r-project.org/web/packages/ggplot2/index.html)
 [ggpubr](https://cran.r-project.org/web/packages/ggpubr/index.html)
 [ComplexHeatmap](https://github.com/jokergoo/ComplexHeatmap)
+[UpSetR](https://cran.r-project.org/web/packages/UpSetR/index.html)
 [scales](https://cran.r-project.org/web/packages/scales/index.html)
 [cowplot](https://cran.r-project.org/web/packages/cowplot/index.html)
-
 
 
 ### Fig. 1
@@ -62,14 +62,6 @@ This repository contains scripts to recreate the figures from the [scfind paper]
 [jpg](keynote/6.jpeg)  
 
 ![](keynote/6.jpeg)
-
-### Fig. 7
-[script](7a.Rmd)  
-[keynote](keynote/7.key)  
-[pdf](keynote/7.pdf)  
-[jpg](keynote/7.jpeg)  
-
-![](keynote/7.jpeg)
 
 ### Table 1
 [pdf](pdf/Table1.pdf)  
@@ -158,3 +150,6 @@ This repository contains scripts to recreate the figures from the [scfind paper]
 
 ### Table S7
 [data_compression](data/S7.tsv)
+
+### Table S8
+[data_compression](data/S8.tsv)
