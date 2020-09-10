@@ -63,65 +63,85 @@ This repository contains scripts to recreate the figures from the [scfind paper]
 ![](jpeg/Table1.jpeg)
 
 ### Fig. S1
-[pdf](pdf/S1.pdf)  
 [jpeg](jpeg/S1.jpeg)  
 
 ![](jpeg/S1.jpeg)
 
 ### Fig. S2
-[pdf](pdf/S2.pdf)  
 [jpeg](jpeg/S2.jpeg)  
 
 ![](jpeg/S2.jpeg)
 
 ### Fig. S3
-[pdf](pdf/S3.pdf)  
 [jpeg](jpeg/S3.jpeg)  
 
 ![](jpeg/S3.jpeg)
 
 ### Fig. S4
-[pdf](pdf/S4.pdf)  
 [jpeg](jpeg/S4.jpeg)  
 
 ![](jpeg/S4.jpeg)
 
 
 ### Fig. S5
-[pdf](pdf/S5.pdf)  
 [jpeg](jpeg/S5.jpeg)  
 
 ![](jpeg/S5.jpeg)
 
 ### Fig. S6
-[pdf](pdf/S6.pdf)  
 [jpeg](jpeg/S6.jpeg)  
 
 ![](jpeg/S6.jpeg)
 
 ### Fig. S7
-[pdf](pdf/S7.pdf)  
 [jpeg](jpeg/S7.jpeg)  
 
 ![](jpeg/S7.jpeg)
 
 ### Fig. S8
-[pdf](pdf/S8.pdf)  
 [jpeg](jpeg/S8.jpeg)  
 
 ![](jpeg/S8.jpeg)
 
 ### Fig. S9
-[pdf](pdf/S9.pdf)  
 [jpeg](jpeg/S9.jpeg)  
 
 ![](jpeg/S9.jpeg)
 
 ### Fig. S10
-[pdf](pdf/S10.pdf)  
 [jpeg](jpeg/S10.jpeg)  
 
 ![](jpeg/S10.jpeg)
+
+### Fig. S13
+[jpeg](jpeg/S13.jpeg)  
+
+![](jpeg/S13.jpeg)
+
+### Fig. S14
+[jpeg](jpeg/S14.jpeg)  
+
+![](jpeg/S14.jpeg)
+
+### Fig. S15
+[jpeg](jpeg/S15.jpeg)  
+
+![](jpeg/S15.jpeg)
+
+### Fig. S16
+[jpeg](jpeg/S16.jpeg)  
+
+![](jpeg/S16.jpeg)
+
+### Fig. S17
+[jpeg](jpeg/S17.jpeg)  
+
+![](jpeg/S17.jpeg)
+
+### Fig. S18
+[jpeg](jpeg/S18.jpeg)  
+
+![](jpeg/S18.jpeg)
 
 ### Table S1
 [data_compression](data/S1.tsv)
