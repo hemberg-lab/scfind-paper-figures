@@ -1,6 +1,8 @@
 ---
 title: "Figure 1"
-output: html_notebook
+output:
+  html_document:
+    df_print: paged
 ---
 
 
@@ -9,7 +11,7 @@ suppressPackageStartupMessages(source("scripts/themes.R"))
 ```
 
 ## Figure 1b
-```{r}
+```{r, warning=FALSE}
 df.1bc <- read.table("data/fig1bc.csv", sep = ",", header = T, stringsAsFactors = F)
 df.1bc$atlas <- factor(df.1bc$atlas, levels = legend_order)
 
@@ -21,7 +23,7 @@ p.1b <- ggplot(df.1bc, aes(x = total_cells, y = uncompressed/compressed, colour 
 ```
 
 ## Figure 1c
-```{r}
+```{r, warning=FALSE}
 p.1c.left <- ggplot(df.1bc, aes(x = total_cells, y = total_compressed/1024^2, colour = atlas)) + 
     main + 
     xlab('Number of cells') + ylab("Index size (MB)") + 
@@ -36,7 +38,7 @@ p.1c.right <- ggplot(df.1bc, aes(x = sparsity, y = uncompressed/compressed, colo
 ```
 
 ## Figure 1d
-```{r}
+```{r, warning=FALSE}
 df.1d <- read.table("data/fig1d.csv", sep = ",", header = T, stringsAsFactors = F)
 df.1d$atlas <- factor(df.1d$atlas, levels = legend_order)
 
@@ -48,7 +50,7 @@ p.1d <- ggplot(df.1d, aes(x = atlas, y = as.numeric(rho), fill = atlas)) +
 ```
 
 ## Figure 1e
-```{r}
+```{r, warning=FALSE}
 df.1e <- read.table("data/fig1e.csv", sep = ",", header = T, stringsAsFactors = F)
 df.1e$atlas <- factor(df.1e$atlas, levels = legend_order)
 
@@ -60,19 +62,21 @@ p.1e <- ggplot(df.1e, aes(x = gene_number, y = as.numeric(x), colour = atlas)) +
 ```
 
 ## Figure 1f
-```{r}
+```{r, warning=FALSE}
 df.1f <- read.table("data/fig1f.csv", sep = ",", header = T, stringsAsFactors = F)
-df.1f$method <- factor(df.1f$method, levels = c('scfind', 'sce', 'seurat', 'loom'))
+df.1f$method <- factor(df.1f$method, levels = c('scfind', 'sce', 'sce-sparseMatrix', 'seurat', 'seurat-sparseMatrix', 'loom', 'loom-1000', 'loom-5000'))
 
-p.1f <- ggplot(df.1f, aes(x = as.character(no_of_markers), y = as.numeric(time), colour = method))  + 
-    main + 
-    labs(x = "Number of genes", y = "Query time (sec)") + 
-    scale_colour_manual(values=tritPalette, labels = c("SCfind", "SCE", "Seurat", "Loom")) +
-    geom_jitter(size = dotsize)
+p.1f <- ggplot(df.1f, aes(x = no_of_markers, y = query_time, colour = method))  + geom_jitter(size = dotsize, alpha = 0.8) + main +   labs(x = "Number of genes", y = "Query time (sec)") + 
+  scale_colour_manual(
+    values = tritPalette[c(3,1,2,4,6,9,8)], 
+    labels = c("SCfind", "SCE", "SCE-Sparse", "Seurat", "Seurat-Sparse", "Loom-1000", "Loom-5000")) + 
+  scale_y_log10(limits = c(0.01, 15)) +
+  guides(colour = guide_legend(title = "File format"))
+
 ```
 
 ### Figure 1
-```{r warning=FALSE}
+```{r echo=FALSE, message=FALSE, warning=FALSE}
 plot_grid(NULL, 
           NULL,
           p.1b + theme(legend.position = "none") + scale_x_log10(breaks = trans_breaks("log10", function(x) 10^x), labels = trans_format("log10", math_format(10^.x))),

@@ -1,457 +1,827 @@
-"atlas","tissue","celltype","method","no_of_markers","time"
-"TM, 10X","Bladder","Bladder.basal cell of urothelium","scfind",1,0.0168361663818359
-"TM, 10X","Bladder","Bladder.basal cell of urothelium","sce",1,0.105921506881714
-"TM, 10X","Bladder","Bladder.basal cell of urothelium","seurat",1,0.39878511428833
-"TM, 10X","Bladder","Bladder.basal cell of urothelium","loom",1,0.959523677825928
-"TM, 10X","Bladder","Bladder.basal cell of urothelium","scfind",2,0.0187966823577881
-"TM, 10X","Bladder","Bladder.basal cell of urothelium","sce",2,0.108759164810181
-"TM, 10X","Bladder","Bladder.basal cell of urothelium","seurat",2,1.20841097831726
-"TM, 10X","Bladder","Bladder.basal cell of urothelium","loom",2,0.96085524559021
-"TM, 10X","Bladder","Bladder.basal cell of urothelium","scfind",3,0.0185718536376953
-"TM, 10X","Bladder","Bladder.basal cell of urothelium","sce",3,0.116625308990479
-"TM, 10X","Bladder","Bladder.basal cell of urothelium","seurat",3,1.64875411987305
-"TM, 10X","Bladder","Bladder.basal cell of urothelium","loom",3,1.89544749259949
-"TM, 10X","Bladder","Bladder.basal cell of urothelium","scfind",4,0.0189931392669678
-"TM, 10X","Bladder","Bladder.basal cell of urothelium","sce",4,0.10897159576416
-"TM, 10X","Bladder","Bladder.basal cell of urothelium","seurat",4,2.03566217422485
-"TM, 10X","Bladder","Bladder.basal cell of urothelium","loom",4,1.90430045127869
-"TM, 10X","Bladder","Bladder.basal cell of urothelium","scfind",5,0.0190174579620361
-"TM, 10X","Bladder","Bladder.basal cell of urothelium","sce",5,0.11738109588623
-"TM, 10X","Bladder","Bladder.basal cell of urothelium","seurat",5,2.48308348655701
-"TM, 10X","Bladder","Bladder.basal cell of urothelium","loom",5,2.03819513320923
-"TM, 10X","Bladder","Bladder.basal cell of urothelium","scfind",6,0.0254313945770264
-"TM, 10X","Bladder","Bladder.basal cell of urothelium","sce",6,0.144373416900635
-"TM, 10X","Bladder","Bladder.basal cell of urothelium","seurat",6,2.99535322189331
-"TM, 10X","Bladder","Bladder.basal cell of urothelium","loom",6,1.91453409194946
-"TM, 10X","Bladder","Bladder.bladder cell","scfind",1,0.0164647102355957
-"TM, 10X","Bladder","Bladder.bladder cell","sce",1,0.117342948913574
-"TM, 10X","Bladder","Bladder.bladder cell","seurat",1,0.393522024154663
-"TM, 10X","Bladder","Bladder.bladder cell","loom",1,0.943887710571289
-"TM, 10X","Bladder","Bladder.bladder cell","scfind",2,0.0191566944122314
-"TM, 10X","Bladder","Bladder.bladder cell","sce",2,0.111795663833618
-"TM, 10X","Bladder","Bladder.bladder cell","seurat",2,1.21434497833252
-"TM, 10X","Bladder","Bladder.bladder cell","loom",2,1.87343215942383
-"TM, 10X","Bladder","Bladder.bladder cell","scfind",3,0.0192291736602783
-"TM, 10X","Bladder","Bladder.bladder cell","sce",3,0.14713716506958
-"TM, 10X","Bladder","Bladder.bladder cell","seurat",3,1.63146018981934
-"TM, 10X","Bladder","Bladder.bladder cell","loom",3,2.7897355556488
-"TM, 10X","Bladder","Bladder.bladder cell","scfind",4,0.0192759037017822
-"TM, 10X","Bladder","Bladder.bladder cell","sce",4,0.110157012939453
-"TM, 10X","Bladder","Bladder.bladder cell","seurat",4,2.08967137336731
-"TM, 10X","Bladder","Bladder.bladder cell","loom",4,2.78790879249573
-"TM, 10X","Bladder","Bladder.bladder cell","scfind",5,0.0197820663452148
-"TM, 10X","Bladder","Bladder.bladder cell","sce",5,0.114875555038452
-"TM, 10X","Bladder","Bladder.bladder cell","seurat",5,2.45316338539124
-"TM, 10X","Bladder","Bladder.bladder cell","loom",5,3.73416519165039
-"TM, 10X","Bladder","Bladder.bladder cell","scfind",6,0.019392728805542
-"TM, 10X","Bladder","Bladder.bladder cell","sce",6,0.112866163253784
-"TM, 10X","Bladder","Bladder.bladder cell","seurat",6,2.92287635803223
-"TM, 10X","Bladder","Bladder.bladder cell","loom",6,3.73015928268433
-"TM, 10X","Bladder","Bladder.endothelial cell","scfind",1,0.0175280570983887
-"TM, 10X","Bladder","Bladder.endothelial cell","sce",1,0.113906145095825
-"TM, 10X","Bladder","Bladder.endothelial cell","seurat",1,0.397664785385132
-"TM, 10X","Bladder","Bladder.endothelial cell","loom",1,0.931833505630493
-"TM, 10X","Bladder","Bladder.endothelial cell","scfind",2,1559255795.52413
-"TM, 10X","Bladder","Bladder.endothelial cell","sce",2,0.140667200088501
-"TM, 10X","Bladder","Bladder.endothelial cell","seurat",2,1.21008205413818
-"TM, 10X","Bladder","Bladder.endothelial cell","loom",2,1.89363145828247
-"TM, 10X","Bladder","Bladder.endothelial cell","scfind",3,1559255798.79394
-"TM, 10X","Bladder","Bladder.endothelial cell","sce",3,0.109764099121094
-"TM, 10X","Bladder","Bladder.endothelial cell","seurat",3,1.62570953369141
-"TM, 10X","Bladder","Bladder.endothelial cell","loom",3,1.88782954216003
-"TM, 10X","Bladder","Bladder.endothelial cell","scfind",4,1559255802.43945
-"TM, 10X","Bladder","Bladder.endothelial cell","sce",4,0.113929033279419
-"TM, 10X","Bladder","Bladder.endothelial cell","seurat",4,2.06652879714966
-"TM, 10X","Bladder","Bladder.endothelial cell","loom",4,2.81880807876587
-"TM, 10X","Bladder","Bladder.endothelial cell","scfind",5,1559255807.46104
-"TM, 10X","Bladder","Bladder.endothelial cell","sce",5,0.112120389938354
-"TM, 10X","Bladder","Bladder.endothelial cell","seurat",5,2.4997022151947
-"TM, 10X","Bladder","Bladder.endothelial cell","loom",5,2.83644318580627
-"TM, 10X","Bladder","Bladder.endothelial cell","scfind",6,1559255812.93136
-"TM, 10X","Bladder","Bladder.endothelial cell","sce",6,0.111720561981201
-"TM, 10X","Bladder","Bladder.endothelial cell","seurat",6,2.91817116737366
-"TM, 10X","Bladder","Bladder.endothelial cell","loom",6,2.85281348228455
-"TM, 10X","Bladder","Bladder.leukocyte","scfind",1,0.0159633159637451
-"TM, 10X","Bladder","Bladder.leukocyte","sce",1,0.112317085266113
-"TM, 10X","Bladder","Bladder.leukocyte","seurat",1,0.40010666847229
-"TM, 10X","Bladder","Bladder.leukocyte","loom",1,0.938480138778687
-"TM, 10X","Bladder","Bladder.leukocyte","scfind",2,0.0195038318634033
-"TM, 10X","Bladder","Bladder.leukocyte","sce",2,0.112297058105469
-"TM, 10X","Bladder","Bladder.leukocyte","seurat",2,1.22627925872803
-"TM, 10X","Bladder","Bladder.leukocyte","loom",2,0.940664529800415
-"TM, 10X","Bladder","Bladder.leukocyte","scfind",3,0.0203092098236084
-"TM, 10X","Bladder","Bladder.leukocyte","sce",3,0.115538597106934
-"TM, 10X","Bladder","Bladder.leukocyte","seurat",3,1.66404795646667
-"TM, 10X","Bladder","Bladder.leukocyte","loom",3,1.88595724105835
-"TM, 10X","Bladder","Bladder.leukocyte","scfind",4,0.019251823425293
-"TM, 10X","Bladder","Bladder.leukocyte","sce",4,0.113758325576782
-"TM, 10X","Bladder","Bladder.leukocyte","seurat",4,2.04756784439087
-"TM, 10X","Bladder","Bladder.leukocyte","loom",4,1.89335155487061
-"TM, 10X","Bladder","Bladder.leukocyte","scfind",5,0.0191233158111572
-"TM, 10X","Bladder","Bladder.leukocyte","sce",5,0.141757488250732
-"TM, 10X","Bladder","Bladder.leukocyte","seurat",5,2.46163296699524
-"TM, 10X","Bladder","Bladder.leukocyte","loom",5,2.80068612098694
-"TM, 10X","Bladder","Bladder.leukocyte","scfind",6,0.0188641548156738
-"TM, 10X","Bladder","Bladder.leukocyte","sce",6,0.110735416412354
-"TM, 10X","Bladder","Bladder.leukocyte","seurat",6,2.8693253993988
-"TM, 10X","Bladder","Bladder.leukocyte","loom",6,2.80200910568237
-"TM, 10X","Bladder","Bladder.mesenchymal cell","scfind",1,0.0162324905395508
-"TM, 10X","Bladder","Bladder.mesenchymal cell","sce",1,0.109064340591431
-"TM, 10X","Bladder","Bladder.mesenchymal cell","seurat",1,0.391949415206909
-"TM, 10X","Bladder","Bladder.mesenchymal cell","loom",1,0.940858364105225
-"TM, 10X","Bladder","Bladder.mesenchymal cell","scfind",2,0.0194554328918457
-"TM, 10X","Bladder","Bladder.mesenchymal cell","sce",2,0.143090963363647
-"TM, 10X","Bladder","Bladder.mesenchymal cell","seurat",2,1.20399641990662
-"TM, 10X","Bladder","Bladder.mesenchymal cell","loom",2,1.86408853530884
-"TM, 10X","Bladder","Bladder.mesenchymal cell","scfind",3,0.0194065570831299
-"TM, 10X","Bladder","Bladder.mesenchymal cell","sce",3,0.109842538833618
-"TM, 10X","Bladder","Bladder.mesenchymal cell","seurat",3,1.62261390686035
-"TM, 10X","Bladder","Bladder.mesenchymal cell","loom",3,2.81709933280945
-"TM, 10X","Bladder","Bladder.mesenchymal cell","scfind",4,0.0191256999969482
-"TM, 10X","Bladder","Bladder.mesenchymal cell","sce",4,0.114586353302002
-"TM, 10X","Bladder","Bladder.mesenchymal cell","seurat",4,2.04945397377014
-"TM, 10X","Bladder","Bladder.mesenchymal cell","loom",4,3.6799111366272
-"TM, 10X","Bladder","Bladder.mesenchymal cell","scfind",5,0.0195953845977783
-"TM, 10X","Bladder","Bladder.mesenchymal cell","sce",5,0.112953186035156
-"TM, 10X","Bladder","Bladder.mesenchymal cell","seurat",5,2.54163932800293
-"TM, 10X","Bladder","Bladder.mesenchymal cell","loom",5,3.71556043624878
-"TM, 10X","Bladder","Bladder.mesenchymal cell","scfind",6,0.0199213027954102
-"TM, 10X","Bladder","Bladder.mesenchymal cell","sce",6,0.114869832992554
-"TM, 10X","Bladder","Bladder.mesenchymal cell","seurat",6,2.93412923812866
-"TM, 10X","Bladder","Bladder.mesenchymal cell","loom",6,3.72589015960693
-"TM, 10X","Heart","Heart.cardiac muscle cell","scfind",1,0.0161762237548828
-"TM, 10X","Heart","Heart.cardiac muscle cell","sce",1,0.0277349948883057
-"TM, 10X","Heart","Heart.cardiac muscle cell","seurat",1,0.406018495559692
-"TM, 10X","Heart","Heart.cardiac muscle cell","loom",1,0.928720712661743
-"TM, 10X","Heart","Heart.cardiac muscle cell","scfind",2,0.0228257179260254
-"TM, 10X","Heart","Heart.cardiac muscle cell","sce",2,0.0278120040893555
-"TM, 10X","Heart","Heart.cardiac muscle cell","seurat",2,1.20929288864136
-"TM, 10X","Heart","Heart.cardiac muscle cell","loom",2,1.84462022781372
-"TM, 10X","Heart","Heart.cardiac muscle cell","scfind",3,0.0190443992614746
-"TM, 10X","Heart","Heart.cardiac muscle cell","sce",3,0.0266096591949463
-"TM, 10X","Heart","Heart.cardiac muscle cell","seurat",3,1.62157654762268
-"TM, 10X","Heart","Heart.cardiac muscle cell","loom",3,2.78574085235596
-"TM, 10X","Heart","Heart.cardiac muscle cell","scfind",4,0.0187597274780273
-"TM, 10X","Heart","Heart.cardiac muscle cell","sce",4,0.06624436378479
-"TM, 10X","Heart","Heart.cardiac muscle cell","seurat",4,2.01642823219299
-"TM, 10X","Heart","Heart.cardiac muscle cell","loom",4,2.79190158843994
-"TM, 10X","Heart","Heart.cardiac muscle cell","scfind",5,0.0188164710998535
-"TM, 10X","Heart","Heart.cardiac muscle cell","sce",5,0.0279812812805176
-"TM, 10X","Heart","Heart.cardiac muscle cell","seurat",5,2.48775863647461
-"TM, 10X","Heart","Heart.cardiac muscle cell","loom",5,2.79682159423828
-"TM, 10X","Heart","Heart.cardiac muscle cell","scfind",6,0.019223690032959
-"TM, 10X","Heart","Heart.cardiac muscle cell","sce",6,0.0279977321624756
-"TM, 10X","Heart","Heart.cardiac muscle cell","seurat",6,2.86078643798828
-"TM, 10X","Heart","Heart.cardiac muscle cell","loom",6,2.81056928634644
-"TM, 10X","Heart","Heart.endocardial cell","scfind",1,0.0158531665802002
-"TM, 10X","Heart","Heart.endocardial cell","sce",1,0.0609049797058105
-"TM, 10X","Heart","Heart.endocardial cell","seurat",1,0.39760422706604
-"TM, 10X","Heart","Heart.endocardial cell","loom",1,0.94397234916687
-"TM, 10X","Heart","Heart.endocardial cell","scfind",2,0.0191483497619629
-"TM, 10X","Heart","Heart.endocardial cell","sce",2,0.0316157341003418
-"TM, 10X","Heart","Heart.endocardial cell","seurat",2,1.20647931098938
-"TM, 10X","Heart","Heart.endocardial cell","loom",2,1.85987734794617
-"TM, 10X","Heart","Heart.endocardial cell","scfind",3,0.01936936378479
-"TM, 10X","Heart","Heart.endocardial cell","sce",3,0.0300402641296387
-"TM, 10X","Heart","Heart.endocardial cell","seurat",3,1.62268328666687
-"TM, 10X","Heart","Heart.endocardial cell","loom",3,1.87328219413757
-"TM, 10X","Heart","Heart.endocardial cell","scfind",4,0.0190451145172119
-"TM, 10X","Heart","Heart.endocardial cell","sce",4,0.0280330181121826
-"TM, 10X","Heart","Heart.endocardial cell","seurat",4,2.08318066596985
-"TM, 10X","Heart","Heart.endocardial cell","loom",4,1.87754321098328
-"TM, 10X","Heart","Heart.endocardial cell","scfind",5,1559255908.69309
-"TM, 10X","Heart","Heart.endocardial cell","sce",5,0.0273590087890625
-"TM, 10X","Heart","Heart.endocardial cell","seurat",5,2.48824238777161
-"TM, 10X","Heart","Heart.endocardial cell","loom",5,1.92519116401672
-"TM, 10X","Heart","Heart.endocardial cell","scfind",6,1559255913.1569
-"TM, 10X","Heart","Heart.endocardial cell","sce",6,0.0361301898956299
-"TM, 10X","Heart","Heart.endocardial cell","seurat",6,2.89620447158813
-"TM, 10X","Heart","Heart.endocardial cell","loom",6,2.83521461486816
-"TM, 10X","Heart","Heart.endothelial cell","scfind",1,0.016965389251709
-"TM, 10X","Heart","Heart.endothelial cell","sce",1,0.0284767150878906
-"TM, 10X","Heart","Heart.endothelial cell","seurat",1,0.409552812576294
-"TM, 10X","Heart","Heart.endothelial cell","loom",1,0.953588962554932
-"TM, 10X","Heart","Heart.endothelial cell","scfind",2,0.0193550586700439
-"TM, 10X","Heart","Heart.endothelial cell","sce",2,0.02803635597229
-"TM, 10X","Heart","Heart.endothelial cell","seurat",2,1.27310657501221
-"TM, 10X","Heart","Heart.endothelial cell","loom",2,1.91472768783569
-"TM, 10X","Heart","Heart.endothelial cell","scfind",3,0.019526481628418
-"TM, 10X","Heart","Heart.endothelial cell","sce",3,0.027864933013916
-"TM, 10X","Heart","Heart.endothelial cell","seurat",3,1.6401891708374
-"TM, 10X","Heart","Heart.endothelial cell","loom",3,2.82682466506958
-"TM, 10X","Heart","Heart.endothelial cell","scfind",4,0.0189995765686035
-"TM, 10X","Heart","Heart.endothelial cell","sce",4,0.0285639762878418
-"TM, 10X","Heart","Heart.endothelial cell","seurat",4,2.12943410873413
-"TM, 10X","Heart","Heart.endothelial cell","loom",4,3.76024746894836
-"TM, 10X","Heart","Heart.endothelial cell","scfind",5,0.0191619396209717
-"TM, 10X","Heart","Heart.endothelial cell","sce",5,0.0281121730804443
-"TM, 10X","Heart","Heart.endothelial cell","seurat",5,2.48017835617065
-"TM, 10X","Heart","Heart.endothelial cell","loom",5,3.75949239730835
-"TM, 10X","Heart","Heart.endothelial cell","scfind",6,0.0193517208099365
-"TM, 10X","Heart","Heart.endothelial cell","sce",6,0.0288608074188232
-"TM, 10X","Heart","Heart.endothelial cell","seurat",6,2.95782232284546
-"TM, 10X","Heart","Heart.endothelial cell","loom",6,3.75828957557678
-"TM, 10X","Heart","Heart.erythrocyte","scfind",1,0.0173337459564209
-"TM, 10X","Heart","Heart.erythrocyte","sce",1,0.0278329849243164
-"TM, 10X","Heart","Heart.erythrocyte","seurat",1,0.41419792175293
-"TM, 10X","Heart","Heart.erythrocyte","loom",1,0.930683612823486
-"TM, 10X","Heart","Heart.erythrocyte","scfind",2,0.0191929340362549
-"TM, 10X","Heart","Heart.erythrocyte","sce",2,0.0277290344238281
-"TM, 10X","Heart","Heart.erythrocyte","seurat",2,1.28072190284729
-"TM, 10X","Heart","Heart.erythrocyte","loom",2,0.937120676040649
-"TM, 10X","Heart","Heart.erythrocyte","scfind",3,0.0196187496185303
-"TM, 10X","Heart","Heart.erythrocyte","sce",3,0.027987003326416
-"TM, 10X","Heart","Heart.erythrocyte","seurat",3,1.6451518535614
-"TM, 10X","Heart","Heart.erythrocyte","loom",3,0.927757978439331
-"TM, 10X","Heart","Heart.erythrocyte","scfind",4,0.0226066112518311
-"TM, 10X","Heart","Heart.erythrocyte","sce",4,0.0277042388916016
-"TM, 10X","Heart","Heart.erythrocyte","seurat",4,2.10694289207458
-"TM, 10X","Heart","Heart.erythrocyte","loom",4,1.87296628952026
-"TM, 10X","Heart","Heart.erythrocyte","scfind",5,0.0209987163543701
-"TM, 10X","Heart","Heart.erythrocyte","sce",5,0.0293385982513428
-"TM, 10X","Heart","Heart.erythrocyte","seurat",5,2.48283195495605
-"TM, 10X","Heart","Heart.erythrocyte","loom",5,2.82256722450256
-"TM, 10X","Heart","Heart.erythrocyte","scfind",6,0.0195837020874023
-"TM, 10X","Heart","Heart.erythrocyte","sce",6,0.0329132080078125
-"TM, 10X","Heart","Heart.erythrocyte","seurat",6,2.99435138702393
-"TM, 10X","Heart","Heart.erythrocyte","loom",6,3.73872542381287
-"TM, 10X","Heart","Heart.fibroblast","scfind",1,0.0197055339813232
-"TM, 10X","Heart","Heart.fibroblast","sce",1,0.0284531116485596
-"TM, 10X","Heart","Heart.fibroblast","seurat",1,0.395369052886963
-"TM, 10X","Heart","Heart.fibroblast","loom",1,0.962199449539185
-"TM, 10X","Heart","Heart.fibroblast","scfind",2,0.0193252563476562
-"TM, 10X","Heart","Heart.fibroblast","sce",2,0.0283157825469971
-"TM, 10X","Heart","Heart.fibroblast","seurat",2,1.2768223285675
-"TM, 10X","Heart","Heart.fibroblast","loom",2,1.98986339569092
-"TM, 10X","Heart","Heart.fibroblast","scfind",3,0.0204508304595947
-"TM, 10X","Heart","Heart.fibroblast","sce",3,0.0301246643066406
-"TM, 10X","Heart","Heart.fibroblast","seurat",3,1.63573217391968
-"TM, 10X","Heart","Heart.fibroblast","loom",3,1.90962409973145
-"TM, 10X","Heart","Heart.fibroblast","scfind",4,0.019993782043457
-"TM, 10X","Heart","Heart.fibroblast","sce",4,0.0268893241882324
-"TM, 10X","Heart","Heart.fibroblast","seurat",4,2.10951519012451
-"TM, 10X","Heart","Heart.fibroblast","loom",4,1.90199065208435
-"TM, 10X","Heart","Heart.fibroblast","scfind",5,0.0196852684020996
-"TM, 10X","Heart","Heart.fibroblast","sce",5,0.028986930847168
-"TM, 10X","Heart","Heart.fibroblast","seurat",5,2.48564743995667
-"TM, 10X","Heart","Heart.fibroblast","loom",5,2.83047246932983
-"TM, 10X","Heart","Heart.fibroblast","scfind",6,0.0235636234283447
-"TM, 10X","Heart","Heart.fibroblast","sce",6,0.029268741607666
-"TM, 10X","Heart","Heart.fibroblast","seurat",6,2.95057415962219
-"TM, 10X","Heart","Heart.fibroblast","loom",6,2.83705139160156
-"TM, 10X","Heart","Heart.smooth muscle cell","scfind",1,0.0164752006530762
-"TM, 10X","Heart","Heart.smooth muscle cell","sce",1,0.0278496742248535
-"TM, 10X","Heart","Heart.smooth muscle cell","seurat",1,0.406457901000977
-"TM, 10X","Heart","Heart.smooth muscle cell","loom",1,0.967718601226807
-"TM, 10X","Heart","Heart.smooth muscle cell","scfind",2,0.0196971893310547
-"TM, 10X","Heart","Heart.smooth muscle cell","sce",2,0.0281474590301514
-"TM, 10X","Heart","Heart.smooth muscle cell","seurat",2,1.27474927902222
-"TM, 10X","Heart","Heart.smooth muscle cell","loom",2,0.975222110748291
-"TM, 10X","Heart","Heart.smooth muscle cell","scfind",3,0.0196449756622314
-"TM, 10X","Heart","Heart.smooth muscle cell","sce",3,0.029822826385498
-"TM, 10X","Heart","Heart.smooth muscle cell","seurat",3,1.65106534957886
-"TM, 10X","Heart","Heart.smooth muscle cell","loom",3,1.90870904922485
-"TM, 10X","Heart","Heart.smooth muscle cell","scfind",4,1559256001.20034
-"TM, 10X","Heart","Heart.smooth muscle cell","sce",4,0.0274062156677246
-"TM, 10X","Heart","Heart.smooth muscle cell","seurat",4,2.1168954372406
-"TM, 10X","Heart","Heart.smooth muscle cell","loom",4,2.84320473670959
-"TM, 10X","Heart","Heart.smooth muscle cell","scfind",5,1559256006.21114
-"TM, 10X","Heart","Heart.smooth muscle cell","sce",5,0.0288681983947754
-"TM, 10X","Heart","Heart.smooth muscle cell","seurat",5,2.49294495582581
-"TM, 10X","Heart","Heart.smooth muscle cell","loom",5,2.8535304069519
-"TM, 10X","Heart","Heart.smooth muscle cell","scfind",6,1559256011.60975
-"TM, 10X","Heart","Heart.smooth muscle cell","sce",6,0.0296740531921387
-"TM, 10X","Heart","Heart.smooth muscle cell","seurat",6,2.95621109008789
-"TM, 10X","Heart","Heart.smooth muscle cell","loom",6,2.85334134101868
-"TM, 10X","Kidney","Kidney.endothelial cell","scfind",1,0.0170924663543701
-"TM, 10X","Kidney","Kidney.endothelial cell","sce",1,0.130807161331177
-"TM, 10X","Kidney","Kidney.endothelial cell","seurat",1,0.401769638061523
-"TM, 10X","Kidney","Kidney.endothelial cell","loom",1,0.971069097518921
-"TM, 10X","Kidney","Kidney.endothelial cell","scfind",2,0.0211565494537354
-"TM, 10X","Kidney","Kidney.endothelial cell","sce",2,0.183994770050049
-"TM, 10X","Kidney","Kidney.endothelial cell","seurat",2,1.2277626991272
-"TM, 10X","Kidney","Kidney.endothelial cell","loom",2,1.90959429740906
-"TM, 10X","Kidney","Kidney.endothelial cell","scfind",3,0.0200371742248535
-"TM, 10X","Kidney","Kidney.endothelial cell","sce",3,0.127975940704346
-"TM, 10X","Kidney","Kidney.endothelial cell","seurat",3,1.64882302284241
-"TM, 10X","Kidney","Kidney.endothelial cell","loom",3,1.90528607368469
-"TM, 10X","Kidney","Kidney.endothelial cell","scfind",4,1559256031.12025
-"TM, 10X","Kidney","Kidney.endothelial cell","sce",4,0.180357217788696
-"TM, 10X","Kidney","Kidney.endothelial cell","seurat",4,2.05261087417603
-"TM, 10X","Kidney","Kidney.endothelial cell","loom",4,2.82514667510986
-"TM, 10X","Kidney","Kidney.endothelial cell","scfind",5,1559256036.20596
-"TM, 10X","Kidney","Kidney.endothelial cell","sce",5,0.135051727294922
-"TM, 10X","Kidney","Kidney.endothelial cell","seurat",5,2.61415004730225
-"TM, 10X","Kidney","Kidney.endothelial cell","loom",5,2.83970189094543
-"TM, 10X","Kidney","Kidney.endothelial cell","scfind",6,1559256041.81831
-"TM, 10X","Kidney","Kidney.endothelial cell","sce",6,0.134373188018799
-"TM, 10X","Kidney","Kidney.endothelial cell","seurat",6,2.95388913154602
-"TM, 10X","Kidney","Kidney.endothelial cell","loom",6,2.8381187915802
-"TM, 10X","Kidney","Kidney.fenestrated cell","scfind",1,0.0175302028656006
-"TM, 10X","Kidney","Kidney.fenestrated cell","sce",1,0.132342338562012
-"TM, 10X","Kidney","Kidney.fenestrated cell","seurat",1,0.398709535598755
-"TM, 10X","Kidney","Kidney.fenestrated cell","loom",1,0.93729043006897
-"TM, 10X","Kidney","Kidney.fenestrated cell","scfind",2,0.0205173492431641
-"TM, 10X","Kidney","Kidney.fenestrated cell","sce",2,0.133962631225586
-"TM, 10X","Kidney","Kidney.fenestrated cell","seurat",2,1.2258415222168
-"TM, 10X","Kidney","Kidney.fenestrated cell","loom",2,1.8728334903717
-"TM, 10X","Kidney","Kidney.fenestrated cell","scfind",3,0.0231022834777832
-"TM, 10X","Kidney","Kidney.fenestrated cell","sce",3,0.190412759780884
-"TM, 10X","Kidney","Kidney.fenestrated cell","seurat",3,1.66324687004089
-"TM, 10X","Kidney","Kidney.fenestrated cell","loom",3,1.90208053588867
-"TM, 10X","Kidney","Kidney.fenestrated cell","scfind",4,0.020099401473999
-"TM, 10X","Kidney","Kidney.fenestrated cell","sce",4,0.133079051971436
-"TM, 10X","Kidney","Kidney.fenestrated cell","seurat",4,2.13505506515503
-"TM, 10X","Kidney","Kidney.fenestrated cell","loom",4,2.84955954551697
-"TM, 10X","Kidney","Kidney.fenestrated cell","scfind",5,0.0238633155822754
-"TM, 10X","Kidney","Kidney.fenestrated cell","sce",5,0.137380838394165
-"TM, 10X","Kidney","Kidney.fenestrated cell","seurat",5,2.49564552307129
-"TM, 10X","Kidney","Kidney.fenestrated cell","loom",5,3.76437592506409
-"TM, 10X","Kidney","Kidney.fenestrated cell","scfind",6,0.0200281143188477
-"TM, 10X","Kidney","Kidney.fenestrated cell","sce",6,0.194756746292114
-"TM, 10X","Kidney","Kidney.fenestrated cell","seurat",6,2.90627026557922
-"TM, 10X","Kidney","Kidney.fenestrated cell","loom",6,3.72257208824158
-"TM, 10X","Kidney","Kidney.fibroblast","scfind",1,0.0164151191711426
-"TM, 10X","Kidney","Kidney.fibroblast","sce",1,0.126224994659424
-"TM, 10X","Kidney","Kidney.fibroblast","seurat",1,0.389165639877319
-"TM, 10X","Kidney","Kidney.fibroblast","loom",1,0.935508251190186
-"TM, 10X","Kidney","Kidney.fibroblast","scfind",2,0.0186021327972412
-"TM, 10X","Kidney","Kidney.fibroblast","sce",2,0.155804634094238
-"TM, 10X","Kidney","Kidney.fibroblast","seurat",2,1.21150851249695
-"TM, 10X","Kidney","Kidney.fibroblast","loom",2,2.03089046478271
-"TM, 10X","Kidney","Kidney.fibroblast","scfind",3,0.0265796184539795
-"TM, 10X","Kidney","Kidney.fibroblast","sce",3,0.167032480239868
-"TM, 10X","Kidney","Kidney.fibroblast","seurat",3,1.68636536598206
-"TM, 10X","Kidney","Kidney.fibroblast","loom",3,1.88768243789673
-"TM, 10X","Kidney","Kidney.fibroblast","scfind",4,0.0224027633666992
-"TM, 10X","Kidney","Kidney.fibroblast","sce",4,0.198558807373047
-"TM, 10X","Kidney","Kidney.fibroblast","seurat",4,2.03863310813904
-"TM, 10X","Kidney","Kidney.fibroblast","loom",4,2.79890894889832
-"TM, 10X","Kidney","Kidney.fibroblast","scfind",5,1559256088.84802
-"TM, 10X","Kidney","Kidney.fibroblast","sce",5,0.138296127319336
-"TM, 10X","Kidney","Kidney.fibroblast","seurat",5,2.50231838226318
-"TM, 10X","Kidney","Kidney.fibroblast","loom",5,2.85200214385986
-"TM, 10X","Kidney","Kidney.fibroblast","scfind",6,1559256094.36384
-"TM, 10X","Kidney","Kidney.fibroblast","sce",6,0.132716178894043
-"TM, 10X","Kidney","Kidney.fibroblast","seurat",6,2.96774554252625
-"TM, 10X","Kidney","Kidney.fibroblast","loom",6,2.85482478141785
-"TM, 10X","Kidney","Kidney.kidney collecting duct cell","scfind",1,0.0168142318725586
-"TM, 10X","Kidney","Kidney.kidney collecting duct cell","sce",1,0.132529258728027
-"TM, 10X","Kidney","Kidney.kidney collecting duct cell","seurat",1,0.39800500869751
-"TM, 10X","Kidney","Kidney.kidney collecting duct cell","loom",1,0.929423809051514
-"TM, 10X","Kidney","Kidney.kidney collecting duct cell","scfind",2,0.0197474956512451
-"TM, 10X","Kidney","Kidney.kidney collecting duct cell","sce",2,0.135347843170166
-"TM, 10X","Kidney","Kidney.kidney collecting duct cell","seurat",2,1.22233939170837
-"TM, 10X","Kidney","Kidney.kidney collecting duct cell","loom",2,0.931783437728882
-"TM, 10X","Kidney","Kidney.kidney collecting duct cell","scfind",3,0.0203845500946045
-"TM, 10X","Kidney","Kidney.kidney collecting duct cell","sce",3,0.19530463218689
-"TM, 10X","Kidney","Kidney.kidney collecting duct cell","seurat",3,1.65128207206726
-"TM, 10X","Kidney","Kidney.kidney collecting duct cell","loom",3,1.8778076171875
-"TM, 10X","Kidney","Kidney.kidney collecting duct cell","scfind",4,0.0200693607330322
-"TM, 10X","Kidney","Kidney.kidney collecting duct cell","sce",4,0.131832361221313
-"TM, 10X","Kidney","Kidney.kidney collecting duct cell","seurat",4,2.13057398796082
-"TM, 10X","Kidney","Kidney.kidney collecting duct cell","loom",4,1.87851405143738
-"TM, 10X","Kidney","Kidney.kidney collecting duct cell","scfind",5,0.0237245559692383
-"TM, 10X","Kidney","Kidney.kidney collecting duct cell","sce",5,0.134195327758789
-"TM, 10X","Kidney","Kidney.kidney collecting duct cell","seurat",5,2.52020049095154
-"TM, 10X","Kidney","Kidney.kidney collecting duct cell","loom",5,1.87316155433655
-"TM, 10X","Kidney","Kidney.kidney collecting duct cell","scfind",6,0.0210096836090088
-"TM, 10X","Kidney","Kidney.kidney collecting duct cell","sce",6,0.16109824180603
-"TM, 10X","Kidney","Kidney.kidney collecting duct cell","seurat",6,2.88364481925964
-"TM, 10X","Kidney","Kidney.kidney collecting duct cell","loom",6,2.77023029327393
-"TM, 10X","Kidney","Kidney.kidney tubule cell","scfind",1,0.0171716213226318
-"TM, 10X","Kidney","Kidney.kidney tubule cell","sce",1,0.190471410751343
-"TM, 10X","Kidney","Kidney.kidney tubule cell","seurat",1,0.39912748336792
-"TM, 10X","Kidney","Kidney.kidney tubule cell","loom",1,0.949152231216431
-"TM, 10X","Kidney","Kidney.kidney tubule cell","scfind",2,0.0241274833679199
-"TM, 10X","Kidney","Kidney.kidney tubule cell","sce",2,0.132666110992432
-"TM, 10X","Kidney","Kidney.kidney tubule cell","seurat",2,1.21558022499084
-"TM, 10X","Kidney","Kidney.kidney tubule cell","loom",2,0.946237325668335
-"TM, 10X","Kidney","Kidney.kidney tubule cell","scfind",3,0.0205285549163818
-"TM, 10X","Kidney","Kidney.kidney tubule cell","sce",3,0.130907297134399
-"TM, 10X","Kidney","Kidney.kidney tubule cell","seurat",3,1.69601631164551
-"TM, 10X","Kidney","Kidney.kidney tubule cell","loom",3,1.90624117851257
-"TM, 10X","Kidney","Kidney.kidney tubule cell","scfind",4,0.0211901664733887
-"TM, 10X","Kidney","Kidney.kidney tubule cell","sce",4,0.138149976730347
-"TM, 10X","Kidney","Kidney.kidney tubule cell","seurat",4,2.05633068084717
-"TM, 10X","Kidney","Kidney.kidney tubule cell","loom",4,2.78479695320129
-"TM, 10X","Kidney","Kidney.kidney tubule cell","scfind",5,0.0202064514160156
-"TM, 10X","Kidney","Kidney.kidney tubule cell","sce",5,0.174377918243408
-"TM, 10X","Kidney","Kidney.kidney tubule cell","seurat",5,2.49362301826477
-"TM, 10X","Kidney","Kidney.kidney tubule cell","loom",5,3.68551063537598
-"TM, 10X","Kidney","Kidney.kidney tubule cell","scfind",6,0.0208933353424072
-"TM, 10X","Kidney","Kidney.kidney tubule cell","sce",6,0.137739419937134
-"TM, 10X","Kidney","Kidney.kidney tubule cell","seurat",6,2.95928740501404
-"TM, 10X","Kidney","Kidney.kidney tubule cell","loom",6,3.70504474639893
-"TM, 10X","Kidney","Kidney.leukocyte","scfind",1,0.017235279083252
-"TM, 10X","Kidney","Kidney.leukocyte","sce",1,0.139455556869507
-"TM, 10X","Kidney","Kidney.leukocyte","seurat",1,0.400500774383545
-"TM, 10X","Kidney","Kidney.leukocyte","loom",1,0.957763195037842
-"TM, 10X","Kidney","Kidney.leukocyte","scfind",2,0.0203394889831543
-"TM, 10X","Kidney","Kidney.leukocyte","sce",2,0.137017250061035
-"TM, 10X","Kidney","Kidney.leukocyte","seurat",2,1.29305529594421
-"TM, 10X","Kidney","Kidney.leukocyte","loom",2,1.89373636245728
-"TM, 10X","Kidney","Kidney.leukocyte","scfind",3,1559256153.7015
-"TM, 10X","Kidney","Kidney.leukocyte","sce",3,0.133984327316284
-"TM, 10X","Kidney","Kidney.leukocyte","seurat",3,1.65232253074646
-"TM, 10X","Kidney","Kidney.leukocyte","loom",3,2.78318428993225
-"TM, 10X","Kidney","Kidney.leukocyte","scfind",4,1559256158.29454
-"TM, 10X","Kidney","Kidney.leukocyte","sce",4,0.16908073425293
-"TM, 10X","Kidney","Kidney.leukocyte","seurat",4,2.07958626747131
-"TM, 10X","Kidney","Kidney.leukocyte","loom",4,2.81374096870422
-"TM, 10X","Kidney","Kidney.leukocyte","scfind",5,1559256163.38039
-"TM, 10X","Kidney","Kidney.leukocyte","sce",5,0.133563280105591
-"TM, 10X","Kidney","Kidney.leukocyte","seurat",5,2.52681565284729
-"TM, 10X","Kidney","Kidney.leukocyte","loom",5,2.81475043296814
-"TM, 10X","Kidney","Kidney.leukocyte","scfind",6,1559256168.87933
-"TM, 10X","Kidney","Kidney.leukocyte","sce",6,0.13424825668335
-"TM, 10X","Kidney","Kidney.leukocyte","seurat",6,2.9396960735321
-"TM, 10X","Kidney","Kidney.leukocyte","loom",6,2.83924198150635
-"TM, 10X","Kidney","Kidney.macrophage","scfind",1,0.0172045230865479
-"TM, 10X","Kidney","Kidney.macrophage","sce",1,0.125220060348511
-"TM, 10X","Kidney","Kidney.macrophage","seurat",1,0.387953281402588
-"TM, 10X","Kidney","Kidney.macrophage","loom",1,0.945396423339844
-"TM, 10X","Kidney","Kidney.macrophage","scfind",2,0.019866943359375
-"TM, 10X","Kidney","Kidney.macrophage","sce",2,0.128299951553345
-"TM, 10X","Kidney","Kidney.macrophage","seurat",2,1.23173332214355
-"TM, 10X","Kidney","Kidney.macrophage","loom",2,0.951043844223022
-"TM, 10X","Kidney","Kidney.macrophage","scfind",3,0.0187740325927734
-"TM, 10X","Kidney","Kidney.macrophage","sce",3,0.159027099609375
-"TM, 10X","Kidney","Kidney.macrophage","seurat",3,1.62779474258423
-"TM, 10X","Kidney","Kidney.macrophage","loom",3,0.952708005905151
-"TM, 10X","Kidney","Kidney.macrophage","scfind",4,0.0201103687286377
-"TM, 10X","Kidney","Kidney.macrophage","sce",4,0.132858753204346
-"TM, 10X","Kidney","Kidney.macrophage","seurat",4,2.71769404411316
-"TM, 10X","Kidney","Kidney.macrophage","loom",4,1.8760232925415
-"TM, 10X","Kidney","Kidney.macrophage","scfind",5,0.0199902057647705
-"TM, 10X","Kidney","Kidney.macrophage","sce",5,0.130374193191528
-"TM, 10X","Kidney","Kidney.macrophage","seurat",5,2.46845126152039
-"TM, 10X","Kidney","Kidney.macrophage","loom",5,2.81875848770142
-"TM, 10X","Kidney","Kidney.macrophage","scfind",6,0.0187044143676758
-"TM, 10X","Kidney","Kidney.macrophage","sce",6,0.129412889480591
-"TM, 10X","Kidney","Kidney.macrophage","seurat",6,2.8409321308136
-"TM, 10X","Kidney","Kidney.macrophage","loom",6,2.80035781860352
-"TM, 10X","Kidney","Kidney.smooth muscle cell","scfind",1,0.0156350135803223
-"TM, 10X","Kidney","Kidney.smooth muscle cell","sce",1,0.160565853118896
-"TM, 10X","Kidney","Kidney.smooth muscle cell","seurat",1,0.403779745101929
-"TM, 10X","Kidney","Kidney.smooth muscle cell","loom",1,0.947203874588013
-"TM, 10X","Kidney","Kidney.smooth muscle cell","scfind",2,0.0188918113708496
-"TM, 10X","Kidney","Kidney.smooth muscle cell","sce",2,0.122687339782715
-"TM, 10X","Kidney","Kidney.smooth muscle cell","seurat",2,1.20296812057495
-"TM, 10X","Kidney","Kidney.smooth muscle cell","loom",2,1.88202691078186
-"TM, 10X","Kidney","Kidney.smooth muscle cell","scfind",3,0.0184953212738037
-"TM, 10X","Kidney","Kidney.smooth muscle cell","sce",3,0.126616954803467
-"TM, 10X","Kidney","Kidney.smooth muscle cell","seurat",3,1.65940356254578
-"TM, 10X","Kidney","Kidney.smooth muscle cell","loom",3,1.88804936408997
-"TM, 10X","Kidney","Kidney.smooth muscle cell","scfind",4,0.0226879119873047
-"TM, 10X","Kidney","Kidney.smooth muscle cell","sce",4,0.127904415130615
-"TM, 10X","Kidney","Kidney.smooth muscle cell","seurat",4,2.02817130088806
-"TM, 10X","Kidney","Kidney.smooth muscle cell","loom",4,2.82962775230408
-"TM, 10X","Kidney","Kidney.smooth muscle cell","scfind",5,0.0186200141906738
-"TM, 10X","Kidney","Kidney.smooth muscle cell","sce",5,0.128673791885376
-"TM, 10X","Kidney","Kidney.smooth muscle cell","seurat",5,2.47693848609924
-"TM, 10X","Kidney","Kidney.smooth muscle cell","loom",5,2.82458853721619
-"TM, 10X","Kidney","Kidney.smooth muscle cell","scfind",6,0.0187318325042725
-"TM, 10X","Kidney","Kidney.smooth muscle cell","sce",6,0.130127429962158
-"TM, 10X","Kidney","Kidney.smooth muscle cell","seurat",6,2.88559198379517
-"TM, 10X","Kidney","Kidney.smooth muscle cell","loom",6,2.79477119445801
+"atlas","tissue","celltype","method","no_of_markers","loading_time","query_time"
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","scfind","1",0.853000000000009,0.021000000000015
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","sce","1",1.117,0.108000000000004
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","sce-sparseMatrix","1",0.863,0.11099999999999
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","seurat","1",1.251,0.0740000000000123
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","seurat-sparseMatrix","1",1.70400000000001,0.0449999999999875
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","loom-1000","1",0.103999999999985,0.0750000000000171
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","loom-5000","1",0.0660000000000025,0.0739999999999839
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","scfind","2",0.853000000000009,0.0209999999999866
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","sce","2",1.117,0.0600000000000023
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","sce-sparseMatrix","2",0.863,0.0840000000000032
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","seurat","2",1.251,0.27000000000001
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","seurat-sparseMatrix","2",1.70400000000001,0.193000000000012
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","loom-1000","2",0.103999999999985,0.0720000000000027
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","loom-5000","2",0.0660000000000025,0.0730000000000075
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","scfind","3",0.853000000000009,0.021000000000015
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","sce","3",1.117,0.0619999999999834
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","sce-sparseMatrix","3",0.863,0.100999999999999
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","seurat","3",1.251,0.287999999999982
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","seurat-sparseMatrix","3",1.70400000000001,0.27000000000001
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","loom-1000","3",0.103999999999985,0.0769999999999982
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","loom-5000","3",0.0660000000000025,0.560000000000002
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","scfind","4",0.853000000000009,0.021000000000015
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","sce","4",1.117,0.0579999999999927
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","sce-sparseMatrix","4",0.863,0.0859999999999843
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","seurat","4",1.251,0.345999999999975
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","seurat-sparseMatrix","4",1.70400000000001,0.349000000000018
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","loom-1000","4",0.103999999999985,0.135999999999996
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","loom-5000","4",0.0660000000000025,0.119
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","scfind","5",0.853000000000009,0.0270000000000152
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","sce","5",1.117,0.0699999999999932
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","sce-sparseMatrix","5",0.863,0.0989999999999895
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","seurat","5",1.251,0.465000000000003
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","seurat-sparseMatrix","5",1.70400000000001,0.448000000000008
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","loom-1000","5",0.103999999999985,0.0769999999999982
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","loom-5000","5",0.0660000000000025,0.0769999999999982
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","scfind","6",0.853000000000009,0.0200000000000102
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","sce","6",1.117,0.0589999999999975
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","sce-sparseMatrix","6",0.863,0.0859999999999843
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","seurat","6",1.251,0.50800000000001
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","seurat-sparseMatrix","6",1.70400000000001,0.507000000000005
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","loom-1000","6",0.103999999999985,0.0799999999999841
+"TM, FACS","Bladder","Bladder.basal cell of urothelium","loom-5000","6",0.0660000000000025,0.0810000000000173
+"TM, FACS","Bladder","Bladder.bladder cell","scfind","1",0.853000000000009,0.0180000000000007
+"TM, FACS","Bladder","Bladder.bladder cell","sce","1",1.117,0.0589999999999975
+"TM, FACS","Bladder","Bladder.bladder cell","sce-sparseMatrix","1",0.863,0.104000000000013
+"TM, FACS","Bladder","Bladder.bladder cell","seurat","1",1.251,0.0459999999999923
+"TM, FACS","Bladder","Bladder.bladder cell","seurat-sparseMatrix","1",1.70400000000001,0.0459999999999923
+"TM, FACS","Bladder","Bladder.bladder cell","loom-1000","1",0.103999999999985,0.140999999999991
+"TM, FACS","Bladder","Bladder.bladder cell","loom-5000","1",0.0660000000000025,0.14700000000002
+"TM, FACS","Bladder","Bladder.bladder cell","scfind","2",0.853000000000009,0.0209999999999866
+"TM, FACS","Bladder","Bladder.bladder cell","sce","2",1.117,0.0580000000000211
+"TM, FACS","Bladder","Bladder.bladder cell","sce-sparseMatrix","2",0.863,0.0859999999999843
+"TM, FACS","Bladder","Bladder.bladder cell","seurat","2",1.251,0.263000000000005
+"TM, FACS","Bladder","Bladder.bladder cell","seurat-sparseMatrix","2",1.70400000000001,0.212999999999994
+"TM, FACS","Bladder","Bladder.bladder cell","loom-1000","2",0.103999999999985,0.0740000000000123
+"TM, FACS","Bladder","Bladder.bladder cell","loom-5000","2",0.0660000000000025,0.0729999999999791
+"TM, FACS","Bladder","Bladder.bladder cell","scfind","3",0.853000000000009,0.0190000000000055
+"TM, FACS","Bladder","Bladder.bladder cell","sce","3",1.117,0.0619999999999834
+"TM, FACS","Bladder","Bladder.bladder cell","sce-sparseMatrix","3",0.863,0.108000000000004
+"TM, FACS","Bladder","Bladder.bladder cell","seurat","3",1.251,0.269000000000005
+"TM, FACS","Bladder","Bladder.bladder cell","seurat-sparseMatrix","3",1.70400000000001,0.269000000000005
+"TM, FACS","Bladder","Bladder.bladder cell","loom-1000","3",0.103999999999985,0.45999999999998
+"TM, FACS","Bladder","Bladder.bladder cell","loom-5000","3",0.0660000000000025,0.174000000000007
+"TM, FACS","Bladder","Bladder.bladder cell","scfind","4",0.853000000000009,0.0190000000000055
+"TM, FACS","Bladder","Bladder.bladder cell","sce","4",1.117,0.0579999999999927
+"TM, FACS","Bladder","Bladder.bladder cell","sce-sparseMatrix","4",0.863,0.085000000000008
+"TM, FACS","Bladder","Bladder.bladder cell","seurat","4",1.251,0.34899999999999
+"TM, FACS","Bladder","Bladder.bladder cell","seurat-sparseMatrix","4",1.70400000000001,0.348000000000013
+"TM, FACS","Bladder","Bladder.bladder cell","loom-1000","4",0.103999999999985,0.0879999999999654
+"TM, FACS","Bladder","Bladder.bladder cell","loom-5000","4",0.0660000000000025,0.0719999999999459
+"TM, FACS","Bladder","Bladder.bladder cell","scfind","5",0.853000000000009,0.0199999999999818
+"TM, FACS","Bladder","Bladder.bladder cell","sce","5",1.117,0.0579999999999927
+"TM, FACS","Bladder","Bladder.bladder cell","sce-sparseMatrix","5",0.863,0.0850000000000364
+"TM, FACS","Bladder","Bladder.bladder cell","seurat","5",1.251,0.435999999999979
+"TM, FACS","Bladder","Bladder.bladder cell","seurat-sparseMatrix","5",1.70400000000001,0.446000000000026
+"TM, FACS","Bladder","Bladder.bladder cell","loom-1000","5",0.103999999999985,0.113
+"TM, FACS","Bladder","Bladder.bladder cell","loom-5000","5",0.0660000000000025,0.0749999999999886
+"TM, FACS","Bladder","Bladder.bladder cell","scfind","6",0.853000000000009,0.0169999999999959
+"TM, FACS","Bladder","Bladder.bladder cell","sce","6",1.117,0.0580000000000496
+"TM, FACS","Bladder","Bladder.bladder cell","sce-sparseMatrix","6",0.863,0.0849999999999795
+"TM, FACS","Bladder","Bladder.bladder cell","seurat","6",1.251,0.514999999999986
+"TM, FACS","Bladder","Bladder.bladder cell","seurat-sparseMatrix","6",1.70400000000001,0.511000000000024
+"TM, FACS","Bladder","Bladder.bladder cell","loom-1000","6",0.103999999999985,0.153999999999996
+"TM, FACS","Bladder","Bladder.bladder cell","loom-5000","6",0.0660000000000025,0.0950000000000273
+"TM, FACS","Bladder","Bladder.mesenchymal cell","scfind","1",0.853000000000009,0.0219999999999914
+"TM, FACS","Bladder","Bladder.mesenchymal cell","sce","1",1.117,0.0720000000000027
+"TM, FACS","Bladder","Bladder.mesenchymal cell","sce-sparseMatrix","1",0.863,0.12299999999999
+"TM, FACS","Bladder","Bladder.mesenchymal cell","seurat","1",1.251,0.0459999999999923
+"TM, FACS","Bladder","Bladder.mesenchymal cell","seurat-sparseMatrix","1",1.70400000000001,0.0460000000000491
+"TM, FACS","Bladder","Bladder.mesenchymal cell","loom-1000","1",0.103999999999985,0.0729999999999791
+"TM, FACS","Bladder","Bladder.mesenchymal cell","loom-5000","1",0.0660000000000025,0.0729999999999791
+"TM, FACS","Bladder","Bladder.mesenchymal cell","scfind","2",0.853000000000009,0.0269999999999868
+"TM, FACS","Bladder","Bladder.mesenchymal cell","sce","2",1.117,0.0690000000000168
+"TM, FACS","Bladder","Bladder.mesenchymal cell","sce-sparseMatrix","2",0.863,0.115000000000009
+"TM, FACS","Bladder","Bladder.mesenchymal cell","seurat","2",1.251,0.194999999999993
+"TM, FACS","Bladder","Bladder.mesenchymal cell","seurat-sparseMatrix","2",1.70400000000001,0.199000000000012
+"TM, FACS","Bladder","Bladder.mesenchymal cell","loom-1000","2",0.103999999999985,0.0749999999999886
+"TM, FACS","Bladder","Bladder.mesenchymal cell","loom-5000","2",0.0660000000000025,0.0749999999999886
+"TM, FACS","Bladder","Bladder.mesenchymal cell","scfind","3",0.853000000000009,0.0219999999999914
+"TM, FACS","Bladder","Bladder.mesenchymal cell","sce","3",1.117,0.061999999999955
+"TM, FACS","Bladder","Bladder.mesenchymal cell","sce-sparseMatrix","3",0.863,0.103000000000009
+"TM, FACS","Bladder","Bladder.mesenchymal cell","seurat","3",1.251,0.271000000000015
+"TM, FACS","Bladder","Bladder.mesenchymal cell","seurat-sparseMatrix","3",1.70400000000001,0.274000000000001
+"TM, FACS","Bladder","Bladder.mesenchymal cell","loom-1000","3",0.103999999999985,0.0780000000000314
+"TM, FACS","Bladder","Bladder.mesenchymal cell","loom-5000","3",0.0660000000000025,0.558999999999969
+"TM, FACS","Bladder","Bladder.mesenchymal cell","scfind","4",0.853000000000009,0.0260000000000105
+"TM, FACS","Bladder","Bladder.mesenchymal cell","sce","4",1.117,0.0699999999999932
+"TM, FACS","Bladder","Bladder.mesenchymal cell","sce-sparseMatrix","4",0.863,0.0919999999999845
+"TM, FACS","Bladder","Bladder.mesenchymal cell","seurat","4",1.251,0.355999999999995
+"TM, FACS","Bladder","Bladder.mesenchymal cell","seurat-sparseMatrix","4",1.70400000000001,0.365999999999985
+"TM, FACS","Bladder","Bladder.mesenchymal cell","loom-1000","4",0.103999999999985,0.574999999999989
+"TM, FACS","Bladder","Bladder.mesenchymal cell","loom-5000","4",0.0660000000000025,0.0769999999999982
+"TM, FACS","Bladder","Bladder.mesenchymal cell","scfind","5",0.853000000000009,0.0219999999999914
+"TM, FACS","Bladder","Bladder.mesenchymal cell","sce","5",1.117,0.0589999999999691
+"TM, FACS","Bladder","Bladder.mesenchymal cell","sce-sparseMatrix","5",0.863,0.0859999999999559
+"TM, FACS","Bladder","Bladder.mesenchymal cell","seurat","5",1.251,0.456000000000017
+"TM, FACS","Bladder","Bladder.mesenchymal cell","seurat-sparseMatrix","5",1.70400000000001,0.947000000000003
+"TM, FACS","Bladder","Bladder.mesenchymal cell","loom-1000","5",0.103999999999985,0.0799999999999841
+"TM, FACS","Bladder","Bladder.mesenchymal cell","loom-5000","5",0.0660000000000025,0.0799999999999841
+"TM, FACS","Bladder","Bladder.mesenchymal cell","scfind","6",0.853000000000009,0.021000000000015
+"TM, FACS","Bladder","Bladder.mesenchymal cell","sce","6",1.117,0.0579999999999927
+"TM, FACS","Bladder","Bladder.mesenchymal cell","sce-sparseMatrix","6",0.863,0.0849999999999795
+"TM, FACS","Bladder","Bladder.mesenchymal cell","seurat","6",1.251,0.54000000000002
+"TM, FACS","Bladder","Bladder.mesenchymal cell","seurat-sparseMatrix","6",1.70400000000001,0.52600000000001
+"TM, FACS","Bladder","Bladder.mesenchymal cell","loom-1000","6",0.103999999999985,0.0789999999999509
+"TM, FACS","Bladder","Bladder.mesenchymal cell","loom-5000","6",0.0660000000000025,0.0779999999999745
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","scfind","1",0.841999999999985,0.0200000000000387
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","sce","1",1.77600000000001,0.230000000000018
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","sce-sparseMatrix","1",1.29399999999998,0.293999999999983
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","seurat","1",1.37200000000001,0.0579999999999927
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","seurat-sparseMatrix","1",1.83100000000002,0.0579999999999927
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","loom-1000","1",0.163999999999987,0.675000000000011
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","loom-5000","1",0.189000000000021,0.598000000000013
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","scfind","2",0.841999999999985,0.0229999999999677
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","sce","2",1.77600000000001,0.293999999999983
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","sce-sparseMatrix","2",1.29399999999998,0.295999999999992
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","seurat","2",1.37200000000001,0.245000000000005
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","seurat-sparseMatrix","2",1.83100000000002,0.240999999999985
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","loom-1000","2",0.163999999999987,0.386000000000024
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","loom-5000","2",0.189000000000021,0.355000000000018
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","scfind","3",0.841999999999985,0.0229999999999677
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","sce","3",1.77600000000001,0.309000000000026
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","sce-sparseMatrix","3",1.29399999999998,0.26600000000002
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","seurat","3",1.37200000000001,0.338000000000022
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","seurat-sparseMatrix","3",1.83100000000002,0.336999999999989
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","loom-1000","3",0.163999999999987,0.434999999999945
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","loom-5000","3",0.189000000000021,0.24899999999991
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","scfind","4",0.841999999999985,0.0210000000000719
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","sce","4",1.77600000000001,0.331999999999994
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","sce-sparseMatrix","4",1.29399999999998,0.285999999999945
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","seurat","4",1.37200000000001,0.476999999999975
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","seurat-sparseMatrix","4",1.83100000000002,0.444000000000074
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","loom-1000","4",0.163999999999987,0.310999999999922
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","loom-5000","4",0.189000000000021,0.275000000000091
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","scfind","5",0.841999999999985,0.0230000000000246
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","sce","5",1.77600000000001,0.231999999999971
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","sce-sparseMatrix","5",1.29399999999998,0.283999999999992
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","seurat","5",1.37200000000001,0.587999999999965
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","seurat-sparseMatrix","5",1.83100000000002,1.09199999999998
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","loom-1000","5",0.163999999999987,0.357999999999947
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","loom-5000","5",0.189000000000021,0.375999999999976
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","scfind","6",0.841999999999985,0.0230000000000246
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","sce","6",1.77600000000001,0.230000000000018
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","sce-sparseMatrix","6",1.29399999999998,0.336000000000013
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","seurat","6",1.37200000000001,0.629000000000019
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","seurat-sparseMatrix","6",1.83100000000002,0.675000000000068
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","loom-1000","6",0.163999999999987,0.260999999999967
+"TM, FACS","BrainMicroglia","BrainMicroglia.macrophage","loom-5000","6",0.189000000000021,0.282000000000039
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","scfind","1",0.841999999999985,0.0190000000000055
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","sce","1",1.77600000000001,0.227999999999952
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","sce-sparseMatrix","1",1.29399999999998,0.315999999999917
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","seurat","1",1.37200000000001,0.0589999999999691
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","seurat-sparseMatrix","1",1.83100000000002,0.0579999999999927
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","loom-1000","1",0.163999999999987,0.341000000000008
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","loom-5000","1",0.189000000000021,0.351999999999975
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","scfind","2",0.841999999999985,0.0230000000000246
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","sce","2",1.77600000000001,0.227999999999952
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","sce-sparseMatrix","2",1.29399999999998,0.329000000000065
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","seurat","2",1.37200000000001,0.248000000000047
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","seurat-sparseMatrix","2",1.83100000000002,0.242999999999938
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","loom-1000","2",0.163999999999987,0.256000000000085
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","loom-5000","2",0.189000000000021,0.237999999999943
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","scfind","3",0.841999999999985,0.0209999999999582
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","sce","3",1.77600000000001,0.252999999999929
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","sce-sparseMatrix","3",1.29399999999998,0.26400000000001
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","seurat","3",1.37200000000001,0.341999999999985
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","seurat-sparseMatrix","3",1.83100000000002,0.341000000000008
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","loom-1000","3",0.163999999999987,0.271000000000072
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","loom-5000","3",0.189000000000021,0.236999999999966
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","scfind","4",0.841999999999985,0.0230000000000246
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","sce","4",1.77600000000001,0.283999999999992
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","sce-sparseMatrix","4",1.29399999999998,0.280999999999949
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","seurat","4",1.37200000000001,0.453999999999951
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","seurat-sparseMatrix","4",1.83100000000002,0.436000000000035
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","loom-1000","4",0.163999999999987,0.364000000000033
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","loom-5000","4",0.189000000000021,0.272000000000048
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","scfind","5",0.841999999999985,0.0220000000000482
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","sce","5",1.77600000000001,0.230000000000018
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","sce-sparseMatrix","5",1.29399999999998,0.280999999999949
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","seurat","5",1.37200000000001,1.04700000000003
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","seurat-sparseMatrix","5",1.83100000000002,0.561000000000035
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","loom-1000","5",0.163999999999987,0.283999999999992
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","loom-5000","5",0.189000000000021,0.262000000000057
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","scfind","6",0.841999999999985,0.0240000000000009
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","sce","6",1.77600000000001,0.225999999999999
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","sce-sparseMatrix","6",1.29399999999998,0.305999999999926
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","seurat","6",1.37200000000001,0.635999999999967
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","seurat-sparseMatrix","6",1.83100000000002,0.649000000000001
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","loom-1000","6",0.163999999999987,0.256999999999948
+"TM, FACS","BrainMicroglia","BrainMicroglia.microglial cell","loom-5000","6",0.189000000000021,0.277000000000044
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","scfind","1",1.01299999999992,0.0190000000000055
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","sce","1",2.15200000000004,0.308999999999969
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","sce-sparseMatrix","1",0.871999999999957,0.383000000000038
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","seurat","1",1.51999999999998,0.0660000000000309
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","seurat-sparseMatrix","1",2.13599999999997,0.0670000000000073
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","loom-1000","1",0.221000000000004,0.596000000000004
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","loom-5000","1",0.173000000000002,0.520000000000095
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","scfind","2",1.01299999999992,0.0220000000000482
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","sce","2",2.15200000000004,0.322999999999979
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","sce-sparseMatrix","2",0.871999999999957,0.368000000000052
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","seurat","2",1.51999999999998,0.259000000000015
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","seurat-sparseMatrix","2",2.13599999999997,0.259999999999991
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","loom-1000","2",0.221000000000004,0.522000000000048
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","loom-5000","2",0.173000000000002,0.451000000000022
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","scfind","3",1.01299999999992,0.0229999999999109
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","sce","3",2.15200000000004,0.465999999999894
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","sce-sparseMatrix","3",0.871999999999957,0.395000000000095
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","seurat","3",1.51999999999998,0.359000000000037
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","seurat-sparseMatrix","3",2.13599999999997,0.354000000000042
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","loom-1000","3",0.221000000000004,0.403999999999996
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","loom-5000","3",0.173000000000002,0.323000000000093
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","scfind","4",1.01299999999992,0.0210000000001855
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","sce","4",2.15200000000004,0.442000000000007
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","sce-sparseMatrix","4",0.871999999999957,0.349999999999909
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","seurat","4",1.51999999999998,0.455999999999904
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","seurat-sparseMatrix","4",2.13599999999997,0.997000000000071
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","loom-1000","4",0.221000000000004,0.336999999999989
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","loom-5000","4",0.173000000000002,0.372000000000071
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","scfind","5",1.01299999999992,0.0219999999999345
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","sce","5",2.15200000000004,0.307999999999993
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","sce-sparseMatrix","5",0.871999999999957,0.45900000000006
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","seurat","5",1.51999999999998,0.587999999999965
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","seurat-sparseMatrix","5",2.13599999999997,1.10300000000007
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","loom-1000","5",0.221000000000004,0.356999999999971
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","loom-5000","5",0.173000000000002,0.352000000000089
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","scfind","6",1.01299999999992,0.0230000000001382
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","sce","6",2.15200000000004,0.365000000000009
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","sce-sparseMatrix","6",0.871999999999957,0.371999999999844
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","seurat","6",1.51999999999998,0.694999999999936
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","seurat-sparseMatrix","6",2.13599999999997,1.19899999999984
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","loom-1000","6",0.221000000000004,0.396000000000186
+"TM, FACS","BrainNeurons","BrainNeurons.astrocyte of the cerebral cortex","loom-5000","6",0.173000000000002,0.343999999999824
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","scfind","1",1.01299999999992,0.0199999999999818
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","sce","1",2.15200000000004,0.423999999999978
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","sce-sparseMatrix","1",0.871999999999957,0.372000000000071
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","seurat","1",1.51999999999998,0.0650000000000546
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","seurat-sparseMatrix","1",2.13599999999997,0.0659999999998035
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","loom-1000","1",0.221000000000004,0.337999999999965
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","loom-5000","1",0.173000000000002,0.365999999999985
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","scfind","2",1.01299999999992,0.0209999999999582
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","sce","2",2.15200000000004,0.311000000000149
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","sce-sparseMatrix","2",0.871999999999957,0.393000000000029
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","seurat","2",1.51999999999998,0.260999999999967
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","seurat-sparseMatrix","2",2.13599999999997,0.259000000000015
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","loom-1000","2",0.221000000000004,0.373000000000047
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","loom-5000","2",0.173000000000002,0.413999999999987
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","scfind","3",1.01299999999992,0.0260000000000673
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","sce","3",2.15200000000004,0.380999999999858
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","sce-sparseMatrix","3",0.871999999999957,0.376000000000204
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","seurat","3",1.51999999999998,0.36200000000008
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","seurat-sparseMatrix","3",2.13599999999997,0.372000000000071
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","loom-1000","3",0.221000000000004,0.354000000000042
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","loom-5000","3",0.173000000000002,0.346000000000004
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","scfind","4",1.01299999999992,0.0209999999999582
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","sce","4",2.15200000000004,0.309999999999945
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","sce-sparseMatrix","4",0.871999999999957,0.368999999999915
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","seurat","4",1.51999999999998,0.464999999999918
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","seurat-sparseMatrix","4",2.13599999999997,0.463999999999942
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","loom-1000","4",0.221000000000004,0.34900000000016
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","loom-5000","4",0.173000000000002,0.365999999999985
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","scfind","5",1.01299999999992,0.0229999999999109
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","sce","5",2.15200000000004,0.324000000000069
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","sce-sparseMatrix","5",0.871999999999957,0.355000000000018
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","seurat","5",1.51999999999998,0.589999999999918
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","seurat-sparseMatrix","5",2.13599999999997,1.09799999999996
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","loom-1000","5",0.221000000000004,0.337999999999965
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","loom-5000","5",0.173000000000002,0.354000000000042
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","scfind","6",1.01299999999992,0.0219999999999345
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","sce","6",2.15200000000004,0.309000000000196
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","sce-sparseMatrix","6",0.871999999999957,0.393000000000029
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","seurat","6",1.51999999999998,0.674999999999955
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","seurat-sparseMatrix","6",2.13599999999997,0.713999999999942
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","loom-1000","6",0.221000000000004,0.345000000000027
+"TM, FACS","BrainNeurons","BrainNeurons.Bergmann glial cell","loom-5000","6",0.173000000000002,0.365000000000009
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","scfind","1",1.01299999999992,0.0190000000000055
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","sce","1",2.15200000000004,0.332000000000107
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","sce-sparseMatrix","1",0.871999999999957,0.354000000000042
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","seurat","1",1.51999999999998,0.0679999999999836
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","seurat-sparseMatrix","1",2.13599999999997,0.0669999999997799
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","loom-1000","1",0.221000000000004,0.318000000000211
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","loom-5000","1",0.173000000000002,0.351999999999862
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","scfind","2",1.01299999999992,0.0219999999999345
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","sce","2",2.15200000000004,0.342000000000098
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","sce-sparseMatrix","2",0.871999999999957,0.401999999999816
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","seurat","2",1.51999999999998,0.26299999999992
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","seurat-sparseMatrix","2",2.13599999999997,0.264000000000124
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","loom-1000","2",0.221000000000004,0.437999999999874
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","loom-5000","2",0.173000000000002,0.323000000000093
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","scfind","3",1.01299999999992,0.0209999999999582
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","sce","3",2.15200000000004,0.353999999999814
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","sce-sparseMatrix","3",0.871999999999957,0.378000000000156
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","seurat","3",1.51999999999998,0.360000000000127
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","seurat-sparseMatrix","3",2.13599999999997,0.355999999999995
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","loom-1000","3",0.221000000000004,0.350999999999885
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","loom-5000","3",0.173000000000002,0.363000000000056
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","scfind","4",1.01299999999992,0.0199999999999818
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","sce","4",2.15200000000004,0.307999999999993
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","sce-sparseMatrix","4",0.871999999999957,0.365999999999985
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","seurat","4",1.51999999999998,0.465000000000146
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","seurat-sparseMatrix","4",2.13599999999997,0.462999999999965
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","loom-1000","4",0.221000000000004,0.351000000000113
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","loom-5000","4",0.173000000000002,0.349999999999909
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","scfind","5",1.01299999999992,0.0219999999999345
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","sce","5",2.15200000000004,0.323000000000093
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","sce-sparseMatrix","5",0.871999999999957,0.366999999999962
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","seurat","5",1.51999999999998,0.585000000000036
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","seurat-sparseMatrix","5",2.13599999999997,1.10400000000004
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","loom-1000","5",0.221000000000004,0.342999999999847
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","loom-5000","5",0.173000000000002,0.355999999999995
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","scfind","6",1.01299999999992,0.0229999999999109
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","sce","6",2.15200000000004,0.308999999999969
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","sce-sparseMatrix","6",0.871999999999957,0.371000000000095
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","seurat","6",1.51999999999998,0.720000000000027
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","seurat-sparseMatrix","6",2.13599999999997,0.668999999999869
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","loom-1000","6",0.221000000000004,0.383000000000038
+"TM, FACS","BrainNeurons","BrainNeurons.brain pericyte","loom-5000","6",0.173000000000002,0.396000000000186
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","scfind","1",1.01299999999992,0.0180000000000291
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","sce","1",2.15200000000004,0.317000000000007
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","sce-sparseMatrix","1",0.871999999999957,0.363000000000056
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","seurat","1",1.51999999999998,0.0650000000000546
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","seurat-sparseMatrix","1",2.13599999999997,0.0650000000000546
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","loom-1000","1",0.221000000000004,0.356999999999971
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","loom-5000","1",0.173000000000002,0.385999999999967
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","scfind","2",1.01299999999992,0.0210000000001855
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","sce","2",2.15200000000004,0.301999999999907
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","sce-sparseMatrix","2",0.871999999999957,0.394000000000005
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","seurat","2",1.51999999999998,0.256999999999834
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","seurat-sparseMatrix","2",2.13599999999997,0.258000000000038
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","loom-1000","2",0.221000000000004,0.355000000000018
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","loom-5000","2",0.173000000000002,0.336000000000013
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","scfind","3",1.01299999999992,0.0209999999999582
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","sce","3",2.15200000000004,0.30600000000004
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","sce-sparseMatrix","3",0.871999999999957,0.365999999999985
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","seurat","3",1.51999999999998,0.365000000000009
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","seurat-sparseMatrix","3",2.13599999999997,0.357999999999947
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","loom-1000","3",0.221000000000004,0.388999999999896
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","loom-5000","3",0.173000000000002,0.338999999999942
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","scfind","4",1.01299999999992,0.0229999999999109
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","sce","4",2.15200000000004,0.384999999999991
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","sce-sparseMatrix","4",0.871999999999957,0.353000000000065
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","seurat","4",1.51999999999998,0.489000000000033
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","seurat-sparseMatrix","4",2.13599999999997,0.511999999999944
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","loom-1000","4",0.221000000000004,0.394999999999982
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","loom-5000","4",0.173000000000002,0.347999999999956
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","scfind","5",1.01299999999992,0.0219999999999345
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","sce","5",2.15200000000004,0.30600000000004
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","sce-sparseMatrix","5",0.871999999999957,0.370999999999867
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","seurat","5",1.51999999999998,0.586000000000013
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","seurat-sparseMatrix","5",2.13599999999997,0.6099999999999
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","loom-1000","5",0.221000000000004,0.337999999999965
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","loom-5000","5",0.173000000000002,0.353999999999814
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","scfind","6",1.01299999999992,0.0229999999999109
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","sce","6",2.15200000000004,0.307000000000016
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","sce-sparseMatrix","6",0.871999999999957,0.419000000000096
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","seurat","6",1.51999999999998,0.683999999999969
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","seurat-sparseMatrix","6",2.13599999999997,0.694000000000187
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","loom-1000","6",0.221000000000004,0.345000000000027
+"TM, FACS","BrainNeurons","BrainNeurons.endothelial cell","loom-5000","6",0.173000000000002,0.364000000000033
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","scfind","1",1.01299999999992,0.0199999999999818
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","sce","1",2.15200000000004,0.324000000000069
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","sce-sparseMatrix","1",0.871999999999957,0.43100000000004
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","seurat","1",1.51999999999998,0.06899999999996
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","seurat-sparseMatrix","1",2.13599999999997,0.06899999999996
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","loom-1000","1",0.221000000000004,0.370000000000118
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","loom-5000","1",0.173000000000002,0.323000000000093
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","scfind","2",1.01299999999992,0.0209999999999582
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","sce","2",2.15200000000004,0.330000000000155
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","sce-sparseMatrix","2",0.871999999999957,0.355999999999995
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","seurat","2",1.51999999999998,0.269000000000005
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","seurat-sparseMatrix","2",2.13599999999997,0.260999999999967
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","loom-1000","2",0.221000000000004,0.363000000000056
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","loom-5000","2",0.173000000000002,0.346000000000004
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","scfind","3",1.01299999999992,0.0219999999999345
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","sce","3",2.15200000000004,0.364000000000033
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","sce-sparseMatrix","3",0.871999999999957,0.355000000000018
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","seurat","3",1.51999999999998,0.365999999999985
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","seurat-sparseMatrix","3",2.13599999999997,0.369999999999891
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","loom-1000","3",0.221000000000004,0.360000000000127
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","loom-5000","3",0.173000000000002,0.33400000000006
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","scfind","4",1.01299999999992,0.0229999999999109
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","sce","4",2.15200000000004,0.327999999999975
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","sce-sparseMatrix","4",0.871999999999957,0.373000000000047
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","seurat","4",1.51999999999998,0.481999999999971
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","seurat-sparseMatrix","4",2.13599999999997,0.488000000000056
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","loom-1000","4",0.221000000000004,0.373000000000047
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","loom-5000","4",0.173000000000002,0.448000000000093
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","scfind","5",1.01299999999992,0.0260000000000673
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","sce","5",2.15200000000004,0.333999999999833
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","sce-sparseMatrix","5",0.871999999999957,0.355999999999995
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","seurat","5",1.51999999999998,0.596000000000004
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","seurat-sparseMatrix","5",2.13599999999997,0.598999999999933
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","loom-1000","5",0.221000000000004,0.346000000000004
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","loom-5000","5",0.173000000000002,0.412000000000035
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","scfind","6",1.01299999999992,0.0239999999998872
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","sce","6",2.15200000000004,0.333000000000084
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","sce-sparseMatrix","6",0.871999999999957,0.432999999999993
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","seurat","6",1.51999999999998,0.694999999999936
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","seurat-sparseMatrix","6",2.13599999999997,1.22299999999996
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","loom-1000","6",0.221000000000004,0.366999999999962
+"TM, FACS","BrainNeurons","BrainNeurons.neuron","loom-5000","6",0.173000000000002,0.444999999999936
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","scfind","1",1.01299999999992,0.0199999999999818
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","sce","1",2.15200000000004,0.383000000000038
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","sce-sparseMatrix","1",0.871999999999957,0.354000000000042
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","seurat","1",1.51999999999998,0.0670000000000073
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","seurat-sparseMatrix","1",2.13599999999997,0.0660000000000309
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","loom-1000","1",0.221000000000004,0.353000000000065
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","loom-5000","1",0.173000000000002,0.319999999999936
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","scfind","2",1.01299999999992,0.0199999999999818
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","sce","2",2.15200000000004,0.322999999999865
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","sce-sparseMatrix","2",0.871999999999957,0.369000000000142
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","seurat","2",1.51999999999998,0.303000000000111
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","seurat-sparseMatrix","2",2.13599999999997,0.2650000000001
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","loom-1000","2",0.221000000000004,0.858999999999924
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","loom-5000","2",0.173000000000002,0.323000000000093
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","scfind","3",1.01299999999992,0.0220000000001619
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","sce","3",2.15200000000004,0.394000000000005
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","sce-sparseMatrix","3",0.871999999999957,0.353999999999814
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","seurat","3",1.51999999999998,0.365000000000009
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","seurat-sparseMatrix","3",2.13599999999997,0.364000000000033
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","loom-1000","3",0.221000000000004,0.413999999999987
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","loom-5000","3",0.173000000000002,0.372000000000071
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","scfind","4",1.01299999999992,0.0210000000001855
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","sce","4",2.15200000000004,0.310999999999922
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","sce-sparseMatrix","4",0.871999999999957,0.374000000000024
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","seurat","4",1.51999999999998,0.470000000000027
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","seurat-sparseMatrix","4",2.13599999999997,0.461999999999989
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","loom-1000","4",0.221000000000004,0.364000000000033
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","loom-5000","4",0.173000000000002,0.338999999999942
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","scfind","5",1.01299999999992,0.0209999999999582
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","sce","5",2.15200000000004,0.326999999999998
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","sce-sparseMatrix","5",0.871999999999957,0.351000000000113
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","seurat","5",1.51999999999998,0.587999999999965
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","seurat-sparseMatrix","5",2.13599999999997,0.600000000000136
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","loom-1000","5",0.221000000000004,0.394999999999982
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","loom-5000","5",0.173000000000002,0.422000000000025
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","scfind","6",1.01299999999992,0.0230000000001382
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","sce","6",2.15200000000004,0.309999999999945
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","sce-sparseMatrix","6",0.871999999999957,0.375999999999976
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","seurat","6",1.51999999999998,1.21800000000007
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","seurat-sparseMatrix","6",2.13599999999997,0.730000000000018
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","loom-1000","6",0.221000000000004,0.365000000000009
+"TM, FACS","BrainNeurons","BrainNeurons.neuronal stem cell","loom-5000","6",0.173000000000002,0.349999999999909
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","scfind","1",1.01299999999992,0.0209999999999582
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","sce","1",2.15200000000004,0.375
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","sce-sparseMatrix","1",0.871999999999957,0.353999999999814
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","seurat","1",1.51999999999998,0.06899999999996
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","seurat-sparseMatrix","1",2.13599999999997,0.0679999999999836
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","loom-1000","1",0.221000000000004,0.840000000000146
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","loom-5000","1",0.173000000000002,0.322999999999865
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","scfind","2",1.01299999999992,0.0229999999999109
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","sce","2",2.15200000000004,0.315000000000055
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","sce-sparseMatrix","2",0.871999999999957,0.371000000000095
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","seurat","2",1.51999999999998,0.266999999999825
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","seurat-sparseMatrix","2",2.13599999999997,0.271000000000186
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","loom-1000","2",0.221000000000004,0.979000000000269
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","loom-5000","2",0.173000000000002,0.33199999999988
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","scfind","3",1.01299999999992,0.024000000000342
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","sce","3",2.15200000000004,0.385000000000218
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","sce-sparseMatrix","3",0.871999999999957,0.363000000000284
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","seurat","3",1.51999999999998,0.375
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","seurat-sparseMatrix","3",2.13599999999997,0.371999999999844
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","loom-1000","3",0.221000000000004,0.38799999999992
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","loom-5000","3",0.173000000000002,0.332000000000335
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","scfind","4",1.01299999999992,0.0230000000001382
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","sce","4",2.15200000000004,0.329999999999927
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","sce-sparseMatrix","4",0.871999999999957,0.373000000000047
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","seurat","4",1.51999999999998,0.530999999999949
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","seurat-sparseMatrix","4",2.13599999999997,1.03800000000001
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","loom-1000","4",0.221000000000004,0.344000000000051
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","loom-5000","4",0.173000000000002,0.360999999999876
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","scfind","5",1.01299999999992,0.0229999999996835
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","sce","5",2.15200000000004,0.313000000000102
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","sce-sparseMatrix","5",0.871999999999957,0.380999999999858
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","seurat","5",1.51999999999998,0.624000000000251
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","seurat-sparseMatrix","5",2.13599999999997,0.664000000000215
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","loom-1000","5",0.221000000000004,0.347000000000207
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","loom-5000","5",0.173000000000002,0.36200000000008
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","scfind","6",1.01299999999992,0.0219999999999345
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","sce","6",2.15200000000004,0.33199999999988
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","sce-sparseMatrix","6",0.871999999999957,0.358000000000175
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","seurat","6",1.51999999999998,1.19999999999982
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","seurat-sparseMatrix","6",2.13599999999997,0.715000000000146
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","loom-1000","6",0.221000000000004,0.87099999999964
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte","loom-5000","6",0.173000000000002,0.347000000000207
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","scfind","1",1.01299999999992,0.0199999999999818
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","sce","1",2.15200000000004,0.365000000000236
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","sce-sparseMatrix","1",0.871999999999957,0.353999999999814
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","seurat","1",1.51999999999998,0.0670000000000073
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","seurat-sparseMatrix","1",2.13599999999997,0.0670000000000073
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","loom-1000","1",0.221000000000004,0.341999999999643
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","loom-5000","1",0.173000000000002,0.335999999999785
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","scfind","2",1.01299999999992,0.0219999999999345
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","sce","2",2.15200000000004,0.311000000000149
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","sce-sparseMatrix","2",0.871999999999957,0.367000000000189
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","seurat","2",1.51999999999998,0.303000000000338
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","seurat-sparseMatrix","2",2.13599999999997,0.269999999999982
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","loom-1000","2",0.221000000000004,0.869999999999891
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","loom-5000","2",0.173000000000002,0.327000000000226
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","scfind","3",1.01299999999992,0.0210000000001855
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","sce","3",2.15200000000004,0.376000000000204
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","sce-sparseMatrix","3",0.871999999999957,0.356999999999971
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","seurat","3",1.51999999999998,0.367000000000189
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","seurat-sparseMatrix","3",2.13599999999997,0.404999999999745
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","loom-1000","3",0.221000000000004,0.438999999999851
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","loom-5000","3",0.173000000000002,0.349999999999909
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","scfind","4",1.01299999999992,0.0220000000003893
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","sce","4",2.15200000000004,0.317000000000007
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","sce-sparseMatrix","4",0.871999999999957,0.378999999999905
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","seurat","4",1.51999999999998,0.498999999999796
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","seurat-sparseMatrix","4",2.13599999999997,0.480000000000018
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","loom-1000","4",0.221000000000004,0.358000000000175
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","loom-5000","4",0.173000000000002,0.376999999999953
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","scfind","5",1.01299999999992,0.0219999999999345
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","sce","5",2.15200000000004,0.340000000000146
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","sce-sparseMatrix","5",0.871999999999957,0.359000000000378
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","seurat","5",1.51999999999998,0.615999999999985
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","seurat-sparseMatrix","5",2.13599999999997,0.599999999999909
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","loom-1000","5",0.221000000000004,0.878999999999905
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","loom-5000","5",0.173000000000002,0.355000000000018
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","scfind","6",1.01299999999992,0.0210000000001855
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","sce","6",2.15200000000004,0.360999999999876
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","sce-sparseMatrix","6",0.871999999999957,0.373999999999796
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","seurat","6",1.51999999999998,0.701999999999771
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","seurat-sparseMatrix","6",2.13599999999997,0.74599999999964
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","loom-1000","6",0.221000000000004,0.369000000000142
+"TM, FACS","BrainNeurons","BrainNeurons.oligodendrocyte precursor cell","loom-5000","6",0.173000000000002,0.349999999999909
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","scfind","1",1.01299999999992,0.0189999999997781
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","sce","1",2.15200000000004,0.335999999999785
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","sce-sparseMatrix","1",0.871999999999957,0.356999999999971
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","seurat","1",1.51999999999998,0.068000000000211
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","seurat-sparseMatrix","1",2.13599999999997,0.068000000000211
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","loom-1000","1",0.221000000000004,0.356999999999971
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","loom-5000","1",0.173000000000002,0.324000000000069
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","scfind","2",1.01299999999992,0.0239999999998872
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","sce","2",2.15200000000004,0.373000000000047
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","sce-sparseMatrix","2",0.871999999999957,0.358000000000175
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","seurat","2",1.51999999999998,0.271999999999935
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","seurat-sparseMatrix","2",2.13599999999997,0.271000000000186
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","loom-1000","2",0.221000000000004,0.338000000000193
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","loom-5000","2",0.173000000000002,0.355000000000018
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","scfind","3",1.01299999999992,0.0219999999999345
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","sce","3",2.15200000000004,0.329999999999927
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","sce-sparseMatrix","3",0.871999999999957,0.359000000000378
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","seurat","3",1.51999999999998,0.380000000000109
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","seurat-sparseMatrix","3",2.13599999999997,0.382000000000062
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","loom-1000","3",0.221000000000004,0.375
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","loom-5000","3",0.173000000000002,0.334000000000287
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","scfind","4",1.01299999999992,0.0209999999997308
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","sce","4",2.15200000000004,0.360999999999876
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","sce-sparseMatrix","4",0.871999999999957,0.356000000000222
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","seurat","4",1.51999999999998,0.510999999999967
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","seurat-sparseMatrix","4",2.13599999999997,0.48299999999972
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","loom-1000","4",0.221000000000004,0.885999999999967
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","loom-5000","4",0.173000000000002,0.358000000000175
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","scfind","5",1.01299999999992,0.0219999999999345
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","sce","5",2.15200000000004,0.36200000000008
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","sce-sparseMatrix","5",0.871999999999957,0.360000000000127
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","seurat","5",1.51999999999998,0.617999999999938
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","seurat-sparseMatrix","5",2.13599999999997,0.613000000000284
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","loom-1000","5",0.221000000000004,0.347999999999956
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","loom-5000","5",0.173000000000002,0.424999999999727
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","scfind","6",1.01299999999992,0.0239999999998872
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","sce","6",2.15200000000004,0.389000000000124
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","sce-sparseMatrix","6",0.871999999999957,0.364000000000033
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","seurat","6",1.51999999999998,1.28600000000006
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","seurat-sparseMatrix","6",2.13599999999997,0.725999999999658
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","loom-1000","6",0.221000000000004,0.36200000000008
+"TM, FACS","BrainNeurons","BrainNeurons.smooth muscle cell","loom-5000","6",0.173000000000002,0.346000000000004
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","scfind","1",1.01299999999992,0.0210000000001855
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","sce","1",2.15200000000004,0.382999999999811
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","sce-sparseMatrix","1",0.871999999999957,0.35799999999972
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","seurat","1",1.51999999999998,0.06899999999996
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","seurat-sparseMatrix","1",2.13599999999997,0.0710000000003674
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","loom-1000","1",0.221000000000004,0.871000000000095
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","loom-5000","1",0.173000000000002,0.366999999999734
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","scfind","2",1.01299999999992,0.0230000000001382
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","sce","2",2.15200000000004,0.336999999999989
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","sce-sparseMatrix","2",0.871999999999957,0.384000000000015
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","seurat","2",1.51999999999998,0.275000000000091
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","seurat-sparseMatrix","2",2.13599999999997,0.268000000000029
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","loom-1000","2",0.221000000000004,0.351000000000113
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","loom-5000","2",0.173000000000002,0.329999999999927
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","scfind","3",1.01299999999992,0.0230000000001382
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","sce","3",2.15200000000004,0.328999999999724
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","sce-sparseMatrix","3",0.871999999999957,0.375
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","seurat","3",1.51999999999998,0.392999999999574
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","seurat-sparseMatrix","3",2.13599999999997,0.38799999999992
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","loom-1000","3",0.221000000000004,0.361000000000331
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","loom-5000","3",0.173000000000002,0.376999999999953
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","scfind","4",1.01299999999992,0.0229999999996835
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","sce","4",2.15200000000004,0.326000000000022
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","sce-sparseMatrix","4",0.871999999999957,0.369999999999891
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","seurat","4",1.51999999999998,0.485999999999876
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","seurat-sparseMatrix","4",2.13599999999997,0.484999999999673
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","loom-1000","4",0.221000000000004,0.382999999999811
+"TM, FACS","BrainNeurons","BrainNeurons.unknown","loom-5000","4",0.173000000000002,0.360000000000127
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","scfind","1",0.980999999999767,0.0230000000001382
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","sce","1",1.73100000000022,0.822000000000116
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","sce-sparseMatrix","1",1.16499999999996,0.275000000000091
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","seurat","1",2.11400000000003,0.0820000000003347
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","seurat-sparseMatrix","1",2.29799999999977,0.0830000000000837
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","loom-1000","1",0.215000000000146,0.61200000000008
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","loom-5000","1",0.195999999999913,0.378999999999905
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","scfind","2",0.980999999999767,0.0270000000000437
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","sce","2",1.73100000000022,0.246999999999844
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","sce-sparseMatrix","2",1.16499999999996,0.252000000000407
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","seurat","2",2.11400000000003,0.262000000000171
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","seurat-sparseMatrix","2",2.29799999999977,0.263999999999669
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","loom-1000","2",0.215000000000146,0.376999999999953
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","loom-5000","2",0.195999999999913,0.36200000000008
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","scfind","3",0.980999999999767,0.0239999999998872
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","sce","3",1.73100000000022,0.188000000000102
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","sce-sparseMatrix","3",1.16499999999996,0.251000000000204
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","seurat","3",2.11400000000003,0.373000000000047
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","seurat-sparseMatrix","3",2.29799999999977,0.355000000000018
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","loom-1000","3",0.215000000000146,0.519000000000233
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","loom-5000","3",0.195999999999913,0.40099999999984
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","scfind","4",0.980999999999767,0.0259999999998399
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","sce","4",1.73100000000022,0.22400000000016
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","sce-sparseMatrix","4",1.16499999999996,0.275000000000091
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","seurat","4",2.11400000000003,0.482000000000426
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","seurat-sparseMatrix","4",2.29799999999977,0.463999999999942
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","loom-1000","4",0.215000000000146,0.371999999999844
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","loom-5000","4",0.195999999999913,0.231000000000222
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","scfind","5",0.980999999999767,0.0250000000000909
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","sce","5",1.73100000000022,0.220000000000255
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","sce-sparseMatrix","5",1.16499999999996,0.254999999999654
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","seurat","5",2.11400000000003,0.570000000000164
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","seurat-sparseMatrix","5",2.29799999999977,0.593000000000302
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","loom-1000","5",0.215000000000146,0.226000000000113
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","loom-5000","5",0.195999999999913,0.222999999999956
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","scfind","6",0.980999999999767,0.024000000000342
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","sce","6",1.73100000000022,0.213000000000193
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","sce-sparseMatrix","6",1.16499999999996,0.253999999999905
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","seurat","6",2.11400000000003,1.19200000000001
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","seurat-sparseMatrix","6",2.29799999999977,0.677999999999884
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","loom-1000","6",0.215000000000146,0.242999999999938
+"TM, FACS","Colon","Colon.Brush cell of epithelium proper of large intestine","loom-5000","6",0.195999999999913,0.311000000000149
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","scfind","1",0.980999999999767,0.0230000000001382
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","sce","1",1.73100000000022,0.188999999999851
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","sce-sparseMatrix","1",1.16499999999996,0.268999999999778
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","seurat","1",2.11400000000003,0.0839999999998327
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","seurat-sparseMatrix","1",2.29799999999977,0.0830000000000837
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","loom-1000","1",0.215000000000146,0.204999999999927
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","loom-5000","1",0.195999999999913,0.204999999999927
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","scfind","2",0.980999999999767,0.0250000000000909
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","sce","2",1.73100000000022,0.221000000000004
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","sce-sparseMatrix","2",1.16499999999996,0.25
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","seurat","2",2.11400000000003,0.263999999999669
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","seurat-sparseMatrix","2",2.29799999999977,0.263999999999669
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","loom-1000","2",0.215000000000146,0.233000000000175
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","loom-5000","2",0.195999999999913,0.230000000000018
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","scfind","3",0.980999999999767,0.024000000000342
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","sce","3",1.73100000000022,0.190000000000055
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","sce-sparseMatrix","3",1.16499999999996,0.251999999999953
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","seurat","3",2.11400000000003,0.359000000000378
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","seurat-sparseMatrix","3",2.29799999999977,0.36200000000008
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","loom-1000","3",0.215000000000146,0.246999999999844
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","loom-5000","3",0.195999999999913,0.214999999999691
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","scfind","4",0.980999999999767,0.0260000000002947
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","sce","4",1.73100000000022,0.190999999999804
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","sce-sparseMatrix","4",1.16499999999996,0.271999999999935
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","seurat","4",2.11400000000003,0.49599999999964
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","seurat-sparseMatrix","4",2.29799999999977,0.463999999999942
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","loom-1000","4",0.215000000000146,0.244000000000142
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","loom-5000","4",0.195999999999913,0.344000000000051
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","scfind","5",0.980999999999767,0.0259999999998399
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","sce","5",1.73100000000022,0.768000000000029
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","sce-sparseMatrix","5",1.16499999999996,0.269999999999982
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","seurat","5",2.11400000000003,0.577999999999975
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","seurat-sparseMatrix","5",2.29799999999977,0.597999999999956
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","loom-1000","5",0.215000000000146,0.226000000000113
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","loom-5000","5",0.195999999999913,0.248000000000047
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","scfind","6",0.980999999999767,0.0270000000000437
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","sce","6",1.73100000000022,0.215000000000146
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","sce-sparseMatrix","6",1.16499999999996,0.253000000000156
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","seurat","6",2.11400000000003,0.669999999999618
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","seurat-sparseMatrix","6",2.29799999999977,0.681999999999789
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","loom-1000","6",0.215000000000146,0.228999999999814
+"TM, FACS","Colon","Colon.enterocyte of epithelium of large intestine","loom-5000","6",0.195999999999913,0.228000000000065
+"TM, FACS","Colon","Colon.enteroendocrine cell","scfind","1",0.980999999999767,0.0219999999999345
+"TM, FACS","Colon","Colon.enteroendocrine cell","sce","1",1.73100000000022,0.190000000000055
+"TM, FACS","Colon","Colon.enteroendocrine cell","sce-sparseMatrix","1",1.16499999999996,0.251000000000204
+"TM, FACS","Colon","Colon.enteroendocrine cell","seurat","1",2.11400000000003,0.0830000000000837
+"TM, FACS","Colon","Colon.enteroendocrine cell","seurat-sparseMatrix","1",2.29799999999977,0.0819999999998799
+"TM, FACS","Colon","Colon.enteroendocrine cell","loom-1000","1",0.215000000000146,0.20699999999988
+"TM, FACS","Colon","Colon.enteroendocrine cell","loom-5000","1",0.195999999999913,0.203999999999724
+"TM, FACS","Colon","Colon.enteroendocrine cell","scfind","2",0.980999999999767,0.0230000000001382
+"TM, FACS","Colon","Colon.enteroendocrine cell","sce","2",1.73100000000022,0.211999999999989
+"TM, FACS","Colon","Colon.enteroendocrine cell","sce-sparseMatrix","2",1.16499999999996,0.251999999999953
+"TM, FACS","Colon","Colon.enteroendocrine cell","seurat","2",2.11400000000003,0.294000000000324
+"TM, FACS","Colon","Colon.enteroendocrine cell","seurat-sparseMatrix","2",2.29799999999977,0.279999999999745
+"TM, FACS","Colon","Colon.enteroendocrine cell","loom-1000","2",0.215000000000146,0.246999999999844
+"TM, FACS","Colon","Colon.enteroendocrine cell","loom-5000","2",0.195999999999913,0.255999999999858
+"TM, FACS","Colon","Colon.enteroendocrine cell","scfind","3",0.980999999999767,0.0239999999998872
+"TM, FACS","Colon","Colon.enteroendocrine cell","sce","3",1.73100000000022,0.190999999999804
+"TM, FACS","Colon","Colon.enteroendocrine cell","sce-sparseMatrix","3",1.16499999999996,0.252999999999702
+"TM, FACS","Colon","Colon.enteroendocrine cell","seurat","3",2.11400000000003,0.365999999999985
+"TM, FACS","Colon","Colon.enteroendocrine cell","seurat-sparseMatrix","3",2.29799999999977,0.364999999999782
+"TM, FACS","Colon","Colon.enteroendocrine cell","loom-1000","3",0.215000000000146,0.25
+"TM, FACS","Colon","Colon.enteroendocrine cell","loom-5000","3",0.195999999999913,0.239000000000033
+"TM, FACS","Colon","Colon.enteroendocrine cell","scfind","4",0.980999999999767,0.0259999999998399
+"TM, FACS","Colon","Colon.enteroendocrine cell","sce","4",1.73100000000022,0.192000000000007
+"TM, FACS","Colon","Colon.enteroendocrine cell","sce-sparseMatrix","4",1.16499999999996,0.275000000000091
+"TM, FACS","Colon","Colon.enteroendocrine cell","seurat","4",2.11400000000003,0.976000000000113
+"TM, FACS","Colon","Colon.enteroendocrine cell","seurat-sparseMatrix","4",2.29799999999977,0.505999999999858
+"TM, FACS","Colon","Colon.enteroendocrine cell","loom-1000","4",0.215000000000146,0.228000000000065
+"TM, FACS","Colon","Colon.enteroendocrine cell","loom-5000","4",0.195999999999913,0.221000000000004
+"TM, FACS","Colon","Colon.enteroendocrine cell","scfind","5",0.980999999999767,0.0259999999998399
+"TM, FACS","Colon","Colon.enteroendocrine cell","sce","5",1.73100000000022,0.213999999999942
+"TM, FACS","Colon","Colon.enteroendocrine cell","sce-sparseMatrix","5",1.16499999999996,0.257999999999811
+"TM, FACS","Colon","Colon.enteroendocrine cell","seurat","5",2.11400000000003,0.576000000000022
+"TM, FACS","Colon","Colon.enteroendocrine cell","seurat-sparseMatrix","5",2.29799999999977,0.603000000000065
+"TM, FACS","Colon","Colon.enteroendocrine cell","loom-1000","5",0.215000000000146,0.226000000000113
+"TM, FACS","Colon","Colon.enteroendocrine cell","loom-5000","5",0.195999999999913,0.226000000000113
+"TM, FACS","Colon","Colon.enteroendocrine cell","scfind","6",0.980999999999767,0.024000000000342
+"TM, FACS","Colon","Colon.enteroendocrine cell","sce","6",1.73100000000022,0.212999999999738
+"TM, FACS","Colon","Colon.enteroendocrine cell","sce-sparseMatrix","6",1.16499999999996,0.252999999999702
+"TM, FACS","Colon","Colon.enteroendocrine cell","seurat","6",2.11400000000003,1.18299999999999
+"TM, FACS","Colon","Colon.enteroendocrine cell","seurat-sparseMatrix","6",2.29799999999977,0.679999999999836
+"TM, FACS","Colon","Colon.enteroendocrine cell","loom-1000","6",0.215000000000146,0.322999999999865
+"TM, FACS","Colon","Colon.enteroendocrine cell","loom-5000","6",0.195999999999913,0.226000000000113
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","scfind","1",0.980999999999767,0.0219999999999345
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","sce","1",1.73100000000022,0.187000000000353
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","sce-sparseMatrix","1",1.16499999999996,0.269000000000233
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","seurat","1",2.11400000000003,0.0830000000000837
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","seurat-sparseMatrix","1",2.29799999999977,0.0830000000000837
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","loom-1000","1",0.215000000000146,0.240999999999985
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","loom-5000","1",0.195999999999913,0.207000000000335
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","scfind","2",0.980999999999767,0.0249999999996362
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","sce","2",1.73100000000022,0.189000000000306
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","sce-sparseMatrix","2",1.16499999999996,0.273999999999887
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","seurat","2",2.11400000000003,0.266999999999825
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","seurat-sparseMatrix","2",2.29799999999977,0.266000000000076
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","loom-1000","2",0.215000000000146,0.240000000000236
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","loom-5000","2",0.195999999999913,0.210999999999785
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","scfind","3",0.980999999999767,0.0260000000002947
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","sce","3",1.73100000000022,0.188999999999851
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","sce-sparseMatrix","3",1.16499999999996,0.271000000000186
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","seurat","3",2.11400000000003,0.359999999999673
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","seurat-sparseMatrix","3",2.29799999999977,0.36200000000008
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","loom-1000","3",0.215000000000146,0.242999999999938
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","loom-5000","3",0.195999999999913,0.215999999999894
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","scfind","4",0.980999999999767,0.0259999999998399
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","sce","4",1.73100000000022,0.190000000000055
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","sce-sparseMatrix","4",1.16499999999996,0.272000000000389
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","seurat","4",2.11400000000003,0.452999999999975
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","seurat-sparseMatrix","4",2.29799999999977,0.460000000000036
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","loom-1000","4",0.215000000000146,0.239999999999782
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","loom-5000","4",0.195999999999913,0.221000000000004
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","scfind","5",0.980999999999767,0.0250000000000909
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","sce","5",1.73100000000022,0.208000000000084
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","sce-sparseMatrix","5",1.16499999999996,0.252999999999702
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","seurat","5",2.11400000000003,1.10400000000027
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","seurat-sparseMatrix","5",2.29799999999977,0.583000000000084
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","loom-1000","5",0.215000000000146,0.226999999999862
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","loom-5000","5",0.195999999999913,0.239000000000033
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","scfind","6",0.980999999999767,0.0259999999998399
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","sce","6",1.73100000000022,0.190999999999804
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","sce-sparseMatrix","6",1.16499999999996,0.251999999999953
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","seurat","6",2.11400000000003,0.673000000000229
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","seurat-sparseMatrix","6",2.29799999999977,0.670999999999822
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","loom-1000","6",0.215000000000146,0.231999999999971
+"TM, FACS","Colon","Colon.epithelial cell of large intestine","loom-5000","6",0.195999999999913,0.285000000000309
+"TM, FACS","Colon","Colon.large intestine goblet cell","scfind","1",0.980999999999767,0.0219999999999345
+"TM, FACS","Colon","Colon.large intestine goblet cell","sce","1",1.73100000000022,0.190999999999804
+"TM, FACS","Colon","Colon.large intestine goblet cell","sce-sparseMatrix","1",1.16499999999996,0.25
+"TM, FACS","Colon","Colon.large intestine goblet cell","seurat","1",2.11400000000003,0.0830000000000837
+"TM, FACS","Colon","Colon.large intestine goblet cell","seurat-sparseMatrix","1",2.29799999999977,0.0809999999996762
+"TM, FACS","Colon","Colon.large intestine goblet cell","loom-1000","1",0.215000000000146,0.230000000000018
+"TM, FACS","Colon","Colon.large intestine goblet cell","loom-5000","1",0.195999999999913,0.204999999999927
+"TM, FACS","Colon","Colon.large intestine goblet cell","scfind","2",0.980999999999767,0.0250000000000909
+"TM, FACS","Colon","Colon.large intestine goblet cell","sce","2",1.73100000000022,0.188999999999851
+"TM, FACS","Colon","Colon.large intestine goblet cell","sce-sparseMatrix","2",1.16499999999996,0.294000000000324
+"TM, FACS","Colon","Colon.large intestine goblet cell","seurat","2",2.11400000000003,0.266999999999825
+"TM, FACS","Colon","Colon.large intestine goblet cell","seurat-sparseMatrix","2",2.29799999999977,0.264000000000124
+"TM, FACS","Colon","Colon.large intestine goblet cell","loom-1000","2",0.215000000000146,0.214999999999691
+"TM, FACS","Colon","Colon.large intestine goblet cell","loom-5000","2",0.195999999999913,0.231999999999971
+"TM, FACS","Colon","Colon.large intestine goblet cell","scfind","3",0.980999999999767,0.0250000000000909
+"TM, FACS","Colon","Colon.large intestine goblet cell","sce","3",1.73100000000022,0.190000000000055
+"TM, FACS","Colon","Colon.large intestine goblet cell","sce-sparseMatrix","3",1.16499999999996,0.266999999999825
+"TM, FACS","Colon","Colon.large intestine goblet cell","seurat","3",2.11400000000003,0.364000000000033
+"TM, FACS","Colon","Colon.large intestine goblet cell","seurat-sparseMatrix","3",2.29799999999977,0.355999999999767
+"TM, FACS","Colon","Colon.large intestine goblet cell","loom-1000","3",0.215000000000146,0.257999999999811
+"TM, FACS","Colon","Colon.large intestine goblet cell","loom-5000","3",0.195999999999913,0.215000000000146
+"TM, FACS","Colon","Colon.large intestine goblet cell","scfind","4",0.980999999999767,0.0239999999998872
+"TM, FACS","Colon","Colon.large intestine goblet cell","sce","4",1.73100000000022,0.188000000000102
+"TM, FACS","Colon","Colon.large intestine goblet cell","sce-sparseMatrix","4",1.16499999999996,0.271000000000186
+"TM, FACS","Colon","Colon.large intestine goblet cell","seurat","4",2.11400000000003,0.455000000000382
+"TM, FACS","Colon","Colon.large intestine goblet cell","seurat-sparseMatrix","4",2.29799999999977,0.481999999999971
+"TM, FACS","Colon","Colon.large intestine goblet cell","loom-1000","4",0.215000000000146,0.332000000000335
+"TM, FACS","Colon","Colon.large intestine goblet cell","loom-5000","4",0.195999999999913,0.260999999999967
+"TM, FACS","Colon","Colon.large intestine goblet cell","scfind","5",0.980999999999767,0.0260000000002947
+"TM, FACS","Colon","Colon.large intestine goblet cell","sce","5",1.73100000000022,0.208000000000084
+"TM, FACS","Colon","Colon.large intestine goblet cell","sce-sparseMatrix","5",1.16499999999996,0.252999999999702
+"TM, FACS","Colon","Colon.large intestine goblet cell","seurat","5",2.11400000000003,0.577999999999975
+"TM, FACS","Colon","Colon.large intestine goblet cell","seurat-sparseMatrix","5",2.29799999999977,1.096
+"TM, FACS","Colon","Colon.large intestine goblet cell","loom-1000","5",0.215000000000146,0.337999999999738
+"TM, FACS","Colon","Colon.large intestine goblet cell","loom-5000","5",0.195999999999913,0.326000000000022
+"TM, FACS","Colon","Colon.large intestine goblet cell","scfind","6",0.980999999999767,0.0239999999998872
+"TM, FACS","Colon","Colon.large intestine goblet cell","sce","6",1.73100000000022,0.20699999999988
+"TM, FACS","Colon","Colon.large intestine goblet cell","sce-sparseMatrix","6",1.16499999999996,0.251999999999953
+"TM, FACS","Colon","Colon.large intestine goblet cell","seurat","6",2.11400000000003,0.655999999999949
+"TM, FACS","Colon","Colon.large intestine goblet cell","seurat-sparseMatrix","6",2.29799999999977,1.17200000000003
+"TM, FACS","Colon","Colon.large intestine goblet cell","loom-1000","6",0.215000000000146,0.230999999999767
+"TM, FACS","Colon","Colon.large intestine goblet cell","loom-5000","6",0.195999999999913,0.249000000000251
