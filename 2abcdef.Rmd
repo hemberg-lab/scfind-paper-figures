@@ -122,6 +122,6 @@ plot_grid(
 )
 ```
 
-```{r echo=FALSE, fig.height=12, fig.retina=20, fig.width=7, message=FALSE, warning=FALSE}
+```{r echo=FALSE, fig.height=10, fig.retina=20, fig.width=9, message=FALSE, warning=FALSE}
 p.2f
 ```
