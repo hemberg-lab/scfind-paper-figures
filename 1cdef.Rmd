@@ -76,14 +76,14 @@ p.1f <- ggplot(df.1f, aes(x = no_of_markers, y = query_time, colour = method))  
 ```
 
 ### Figure 1
-```{r echo=FALSE, message=FALSE, warning=FALSE}
+```{r echo=FALSE, fig.height=5, fig.retina=10, fig.width=8, message=FALSE, warning=FALSE}
 plot_grid(NULL, 
           NULL,
           p.1b + theme(legend.position = "none") + scale_x_log10(breaks = trans_breaks("log10", function(x) 10^x), labels = trans_format("log10", math_format(10^.x))),
           NULL, 
           NULL,
-          plot_grid(get_legend(p.1b + guides(col = guide_legend(ncol = 2)) + theme(legend.key.size = unit(.5, "cm"))),
-                    get_legend(p.1c.left + guides(col = guide_legend(ncol = 2)) + theme(legend.title=element_blank(), legend.key.size = unit(.5, "cm"))),
+          plot_grid(get_legend(p.1b + guides(col = guide_legend(ncol = 2)) + labs(colour = "Atlas") + theme(legend.key.size = unit(.5, "cm"))),
+                    get_legend(p.1e + guides(col = guide_legend(ncol = 2)) + theme(legend.title=element_blank(), legend.key.size = unit(.5, "cm"))),
                     nrow = 2, align = "v"),
           labels=c('B'), 
           align="h", ncol = 3, nrow = 2)

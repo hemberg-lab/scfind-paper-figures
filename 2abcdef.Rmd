@@ -26,6 +26,8 @@ table.2a[order(table.2a$pval, decreasing = F),]
 source("scripts/2b.R")
 
 df.2b.p1 <- read.table("data/fig2b.csv", sep = ",", header = T, stringsAsFactors = F)
+ 
+df.2b.p1$MarkerGenes <- factor(df.2b.p1$MarkerGenes, levels = c("CellMarker", "Seurat", "scfind"))
 
 p1.vs.cellmarker <- ggplot(
   df.2b.p1, 
@@ -67,6 +69,8 @@ p.2d <- ggplot(df.2d[!df.2d$no_of_genes %in% 5,]
 ```{r message=FALSE, warning=FALSE}
 df.2e <- read.table("data/fig2e.csv", sep = ",", header = T, stringsAsFactors = F)
 
+df.2e$atlas <- factor(df.2e$atlas, levels = legend_order)
+
 p.2e <-  ggplot(df.2e, aes(x = values, fill = atlas)) + 
     geom_density(alpha=.8, aes(y = ..scaled..)) + 
         main  + theme(panel.margin = unit(-3, "lines"),strip.text.y = element_blank() ) +
@@ -91,7 +95,7 @@ p.2f <- upset(fromList((df.2f)),
 ```
 
 ### Figure 2
-```{r message=FALSE, warning=FALSE}
+```{r echo=FALSE, fig.height=5, fig.retina=10, fig.width=8, message=FALSE, warning=FALSE}
 plot_grid(
   plot_grid(
     plot_grid(
@@ -116,6 +120,8 @@ plot_grid(
     labels = c('E', 'F'),
     ncol = 2
 )
+```
 
+```{r echo=FALSE, fig.height=12, fig.retina=20, fig.width=7, message=FALSE, warning=FALSE}
 p.2f
 ```

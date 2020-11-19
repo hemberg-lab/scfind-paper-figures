@@ -6,8 +6,11 @@ output:
 ---
 
 
-```{r eval=FALSE, message=FALSE, warning=FALSE, include=TRUE}
+```{r eval=TRUE, message=FALSE, warning=FALSE, include=TRUE}
 suppressPackageStartupMessages(source("scripts/themes.R"))
+
+```
+```{r eval=FALSE, message=FALSE, warning=FALSE, include=TRUE}
 tm.facs <- loadObject(filename = url("https://scfind.cog.sanger.ac.uk/indexes/tm_facs.rds"))
 atac <- loadObject(filename = url("https://scfind.cog.sanger.ac.uk/indexes/atacseq.rds"))
 ```
@@ -36,8 +39,9 @@ for( tissue in c("Heart", "Liver", "Spleen"))
 }
 ```
 
+
 ## Figure 5c
-```{r}
+```{r, warning=FALSE}
 df.6d <- read.table("data/fig6d.csv", sep = ",", header = T, stringsAsFactors = F)
 
 p.6d <- ggplot(df.6d, aes(x=celltype, y=motif, fill=density)) + 
@@ -48,7 +52,7 @@ p.6d <- ggplot(df.6d, aes(x=celltype, y=motif, fill=density)) +
     geom_text(aes(label = pval))
 
 
-ggarrange(
+p.6d_ <- ggarrange(
     p.6d + theme(legend.position = "none"), 
     ggarrange(get_legend(p.6d),
               bottom = text_grob("p-value\n*\t<= 0.05\n**\t<= 0.01\n***\t<= 0.001"),
@@ -58,7 +62,7 @@ ggarrange(
 ```
 
 ## Figure 5d
-```{r}
+```{r, warning=FALSE}
 df <- readRDS("data/fig5d.rds")
 p.5d <- ggplot(df, aes( x = dist_tss, y = fraction, colour = spec_celltype)) + geom_point(size = 1) +  facet_wrap(~ spec_celltype, ncol = 1) +
     theme_minimal() + scale_x_log10(breaks = trans_breaks("log10", function(x) 10^x), labels = trans_format("log10", math_format(10^.x))) + labs(x = "Distance from TSS (bp)", y = "Fraction of cells") +
@@ -74,5 +78,14 @@ p.5d <- ggplot(df, aes( x = dist_tss, y = fraction, colour = spec_celltype)) + g
    geom_text_repel(data=subset(df,dist_tss >= 5e5 | fraction >= .15), aes(dist_tss, fraction, label = key , colour = spec_celltype),color = "black", size = 5, box.padding = unit(2, "lines")
                     )
 
+```
+
+
+```{r echo=FALSE, fig.height=7, fig.retina=10, fig.width=7, message=FALSE, warning=FALSE}
+p.6d_
+```
+
+
+```{r echo=FALSE, fig.height=8, fig.retina=10, fig.width=7, message=FALSE, warning=FALSE}
 p.5d
 ```

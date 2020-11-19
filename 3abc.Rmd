@@ -70,7 +70,7 @@ p.4c <- ggplot(data = df.4c, aes(x = gene_number, y = x, colour = atlas)) +
 
 
 ### Figure 3
-```{r message=FALSE, warning=FALSE}
+```{r echo=FALSE, fig.height=5, fig.retina=10, fig.width=8, message=FALSE, warning=FALSE}
 plot_grid(NULL,
           p.4c, 
           labels = c('A','C'), 
