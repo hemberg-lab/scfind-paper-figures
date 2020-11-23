@@ -91,7 +91,7 @@ p.2f <- upset(fromList((df.2f)),
               sets.bar.color = RColorBrewer::brewer.pal(8,colorcode)[c(4:2,8)], 
               sets = c("TM, FACS","TM, 10X","MCA", "Eisenberg & Levanon" ), 
               mainbar.y.label = "House Keeping Gene\nIntersection", 
-              text.scale = c(2.5), mb.ratio = c(.7,.3), number.angles = -45, scale.sets = "log10", point.size = 5, line.size = 3)
+              text.scale = c(3), mb.ratio = c(.7,.3), number.angles = -45, scale.sets = "log10", point.size = 5, line.size = 3)
 ```
 
 ### Figure 2
@@ -115,13 +115,13 @@ plot_grid(
 )
 
 plot_grid(
-    p.2e + theme(legend.position="bottom") + guides(fill = guide_legend(title.position = "top")),
-    NULL, 
+    p.2e + theme(legend.position="right") + guides(fill = guide_legend(title.position = "top")),
+    NULL,
     labels = c('E', 'F'),
-    ncol = 2
+    ncol = 2, nrow = 2,rel_heights = c(6,4)
 )
 ```
 
-```{r echo=FALSE, fig.height=10, fig.retina=20, fig.width=9, message=FALSE, warning=FALSE}
+```{r echo=FALSE, fig.height=9, fig.retina=20, fig.width=11, message=FALSE, warning=FALSE}
 p.2f
 ```
