@@ -159,10 +159,22 @@ This repository contains scripts to recreate the figures from the [scfind paper]
 [data_compression](data/S5.tsv)
 
 ### Table S6
-[data_compression](data/S6.tsv)
+[data_compression](data/S6.xlsx)
 
 ### Table S7
-[data_compression](data/S7.tsv)
+[data_compression](data/S7.xlsx)
 
 ### Table S8
-[data_compression](data/S8.tsv)
+[data_compression](data/S8.xlsx)
+
+### Table S9
+[data_compression](data/S9.xlsx)
+
+### Table S10
+[data_compression](data/S10.tsv)
+
+### Table S11
+[data_compression](data/S11.tsv)
+
+### Table S12
+[data_compression](data/S12.tsv)
